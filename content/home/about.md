@@ -29,4 +29,4 @@ I received my BSc in Applied Physics and Electrical Engineering in 2016 and my M
 
 - <b>[Sep 13, 2018]</b> I have joined the group of <a href="http://user.it.uu.se/~thosc112/" target="_blank">Prof. Thomas Schön</a> as a PhD student to work on uncertainty-aware deep learning.
 
-Click [here](/news/) for older news.
+Click [here](/post/news) for older news.

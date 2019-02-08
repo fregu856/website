@@ -1,0 +1,31 @@
++++
+title = "News"
+
+date = 2010-01-01T00:00:00
+lastmod = 2018-11-24T00:00:00
+draft = false
+math = false
+
+# Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
+authors = []
+
+tags = ["pages"]
+summary = ""
+
+[header]
+image = ""
+caption = ""
+image_preview = ""
+
+
++++
+
+- <b>[Nov 24, 2018]</b> I was awarded the <a href="https://www.lith.liu.se/examenshogtid/tryggve-holm-medalj-och-diplom?l=sv" target="_blank">Tryggve Holm medal</a> for <i>"outstanding student achievements"</i> during my time at <a href="https://liu.se/en" target="_blank">Linköping University</a>.
+
+- <b>[Sep 28, 2018]</b> <b>New project:</b> PyTorch implementation of <a href="https://arxiv.org/abs/1706.05587" target="_blank">DeepLabV3</a>, see <a href="https://github.com/fregu856/deeplabv3" target="_blank">GitHub repo</a> and <a href="https://youtu.be/9e2x4dDRB-k" target="_blank">Youtube video</a> for further details.
+
+- <b>[Sep 21, 2018]</b> The <a href="https://github.com/fregu856/3DOD_thesis" target="_blank">code</a> for 3D object detection used in my <a href="http://urn.kb.se/resolve?urn=urn:nbn:se:liu:diva-148585" target="_blank">MSc thesis</a> has been uploaded to GitHub.
+
+- <b>[Sep 20, 2018]</b> I have created a <a href="https://github.com/fregu856/papers" target="_blank">GitHub repository</a> for posting summaries of interesting papers that I read.
+
+- <b>[Sep 13, 2018]</b> I have joined the group of <a href="http://user.it.uu.se/~thosc112/" target="_blank">Prof. Thomas Schön</a> as a PhD student to work on uncertainty-aware deep learning.
