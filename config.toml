@@ -6,11 +6,11 @@
 baseurl = "/"
 
 # Title of your site
-title = "Kaspar Märtens | PhD student in Statistical Machine Learning"
+title = "Fredrik K. Gustafsson | PhD Student in Uncertainty-Aware Deep Learning"
 
 # Your copyright notice - appears in site footer.
 # To display a copyright symbol, type `&copy;`.
-copyright = "&copy; 2018"
+copyright = "Copyright &copy; Fredrik K. Gustafsson 2019"
 
 theme = "academic"
 enableEmoji = true
@@ -20,10 +20,10 @@ preserveTaxonomyNames = true
 paginate = 10
 
 # Enable comments by entering your Disqus shortname
-disqusShortname = "kasparmartens"
+disqusShortname = ""
 
 # Enable analytics by entering your Google Analytics tracking ID
-googleAnalytics = "UA-116930868-1"
+googleAnalytics = ""
 
 # Default language to use (if you setup multilingual support)
 defaultContentLanguage = "en"
@@ -43,22 +43,22 @@ defaultContentLanguageInSubdir = false
 [params]
   # Color theme.
   #   Choose from `default`, `ocean`, `forest`, `coffee`, `dark`, or `1950s`.
-  color_theme = "ocean"
+  color_theme = "custom"
 
   # Font style.
   #   Choose from `default`, `classic`, or `playfair`.
   font = "default"
 
   # Your details.
-  name = "Kaspar Märtens"
-  role = "PhD student in Statistical Machine Learning"
+  name = "Fredrik K. Gustafsson"
+  role = "PhD Student in Uncertainty-Aware Deep Learning"
 
   # Organizations/Affiliations.
   #   Separate multiple entries with a comma, using the form: `[ {name="Org1", url=""}, {name="Org2", url=""} ]`.
   organizations = [ { name = "", url = "" } ]
 
   gravatar = false  # Get your avatar from Gravatar.com? (true/false)
-  avatar = "portrait.png"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
+  avatar = "avatar.jpeg"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
   email = ""
   address = ""
   office_hours = ""
@@ -215,24 +215,29 @@ defaultContentLanguageInSubdir = false
   #   Full list: https://jpswalsh.github.io/academicons/
 
   [[params.social]]
-    icon = "envelope"
+    icon = "github"
     icon_pack = "fa"
-    link = "mailto:kaspar.martens@spc.ox.ac.uk"
+    link = "https://github.com/fregu856"
 
   [[params.social]]
-    icon = "twitter"
+    icon = "linkedin"
     icon_pack = "fa"
-    link = "//twitter.com/kasparmartens"
+    link = "https://www.linkedin.com/in/fregu856/"
 
   [[params.social]]
     icon = "google-scholar"
     icon_pack = "ai"
-    link = "https://scholar.google.co.uk/citations?user=HQsaFH4RsGkC"
+    link = "https://scholar.google.com/citations?user=bjbzGCcAAAAJ&hl"
 
   [[params.social]]
-    icon = "github"
+    icon = "youtube"
     icon_pack = "fa"
-    link = "//github.com/kasparmartens"
+    link = "https://www.youtube.com/channel/UC4AQIQCMSj2c84Bl52rT2mg"
+
+  [[params.social]]
+    icon = "twitter"
+    icon_pack = "fa"
+    link = "https://twitter.com/fregu856"
 
 
 # Navigation Links

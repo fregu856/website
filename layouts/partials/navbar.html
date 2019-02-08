@@ -16,7 +16,7 @@
         {{- if .Site.Params.logo -}}
         <img src="{{ printf "/img/%s" .Site.Params.logo | relURL }}" alt="{{ .Site.Title }}">
         {{- else -}}
-        {{- "Kaspar Märtens" -}}
+        {{- "Fredrik K. Gustafsson" -}}
         {{- end -}}
       </a>
     </div>
@@ -51,7 +51,7 @@
         </li>
 
         {{ else }}
-        
+
         {{/* Set target for link. */}}
         {{ $.Scratch.Set "target" "" }}
         {{ if gt (len .URL) 4 }}

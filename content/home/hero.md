@@ -1,7 +1,7 @@
 +++
 # Hero widget.
 widget = "hero"
-active = true
+active = false
 date = 2017-10-15
 
 title = "Academic"
@@ -26,5 +26,3 @@ weight = 3
 
 The highly flexible website framework for Hugo with an extensible plugin mechanism. Create a beautifully simple site in under 10 minutes :rocket:
 <br>
-
-
