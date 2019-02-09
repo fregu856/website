@@ -29,7 +29,7 @@ abstract_short = "Here, we introduce an augmented ensemble MCMC technique to imp
 image_preview = "schema_crossover.png"
 
 # Is this a selected publication? (true/false)
-selected = true
+selected = false
 
 # Projects (optional).
 #   Associate this publication with one or more of your projects.

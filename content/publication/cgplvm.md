@@ -29,7 +29,7 @@ abstract_short = "Dimensionality reduction is a key step towards gaining insight
 image_preview = "cGPLVM_cover.png"
 
 # Is this a selected publication? (true/false)
-selected = true
+selected = false
 
 # Projects (optional).
 #   Associate this publication with one or more of your projects.

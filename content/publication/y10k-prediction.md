@@ -29,7 +29,7 @@ abstract_short = "Here, we explore whether accurate complex trait predictions ca
 image_preview = "y10k_banner.png"
 
 # Is this a selected publication? (true/false)
-selected = true
+selected = false
 
 # Projects (optional).
 #   Associate this publication with one or more of your projects.

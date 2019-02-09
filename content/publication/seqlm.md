@@ -29,7 +29,7 @@ abstract_short = "Here, we propose a statistical method for identifying differen
 image_preview = "seqlm_small.png"
 
 # Is this a selected publication? (true/false)
-selected = true
+selected = false
 
 # Projects (optional).
 #   Associate this publication with one or more of your projects.
