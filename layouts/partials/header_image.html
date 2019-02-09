@@ -3,4 +3,13 @@
   <img src="{{ "/img/" | relURL }}{{ .Params.header.image }}" class="article-banner" itemprop="image">
   {{ with .Params.header.caption }}<span class="article-header-caption">{{ . | markdownify | emojify }}</span>{{ end }}
 </div>
+{{else if .Params.header.small_image }}
+<div class="article-header">
+  <img src="{{ "/img/" | relURL }}{{ .Params.header.small_image }}" class="article-banner-small" itemprop="image">
+  {{ with .Params.header.caption }}<span class="article-header-caption">{{ . | markdownify | emojify }}</span>{{ end }}
+</div>
+{{else if .Params.header.video }}
+<div class="article-container">
+  <div class="video-container"><iframe width="560" height="315" src="{{ .Params.header.video }}" frameborder="0" allowfullscreen="true" allowscriptaccess="always"></iframe></div>
+</div>
 {{end}}
