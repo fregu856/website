@@ -249,34 +249,39 @@ defaultContentLanguageInSubdir = false
   align_right = true
 
 [[menu.main]]
-  name = "Home"
-  url = "#hero"
+  name = "About"
+  url = "#about"
   weight = 1
 
 [[menu.main]]
-  name = "About"
-  url = "#about"
+  name = "Publications"
+  url = "#publications_selected"
   weight = 2
 
 [[menu.main]]
-  name = "Posts"
-  url = "#posts"
+  name = "Projects"
+  url = "#projects"
   weight = 3
 
 [[menu.main]]
-  name = "Selected papers"
-  url = "#publications_selected"
+  name = "Teaching"
+  url = "#teaching"
   weight = 4
 
 [[menu.main]]
-  name = "More projects"
-  url = "#projects"
+  name = "Coursework"
+  url = "#coursework"
   weight = 5
 
 [[menu.main]]
-  name = "Teaching"
-  url = "#andmeteadus"
+  name = "Reading"
+  url = "#reading"
   weight = 6
+
+[[menu.main]]
+  name = "Contact"
+  url = "#contact"
+  weight = 7
 
 # Languages
 #   Create a [languages.X] block for each language you want, where X is the language ID.
