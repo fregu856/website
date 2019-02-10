@@ -1,7 +1,7 @@
 +++
 # Projects widget.
-# This widget displays publications from `content/projects/`.
-widget = "projects_new"
+# This widget displays publications from `content/project/`.
+widget = "projects"
 active = true
 date = 2016-04-20
 
