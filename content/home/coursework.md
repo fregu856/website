@@ -17,8 +17,8 @@ weight = 70
 
 ### Uppsala University
 
+* [Statistical Estimation Theory and Its Applications | 9 Credits](http://www.it.uu.se/research/systems_and_control/education/2016/set)
 * [Deep Learning | 5 Credits | (Ongoing)](http://www.it.uu.se/research/systems_and_control/education/2019/dl)
-* [Statistical Estimation Theory and Its Applications | 9 Credits | (Ongoing)](http://www.it.uu.se/research/systems_and_control/education/2016/set)
 
 ### Stanford University
 

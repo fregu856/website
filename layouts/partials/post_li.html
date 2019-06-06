@@ -10,7 +10,7 @@
   </a>
   {{end}}
   <h3 class="article-title" itemprop="headline">
-    <a href="{{ $post.Permalink }}" itemprop="url">{{ $post.Title }}</a>
+    <a href="{{ $post.Permalink }}" itemprop="url">{{ $post.Title | safeHTML }}</a>
   </h3>
   <div class="article-style" itemprop="articleBody">
     {{ if $post.Params.summary }}

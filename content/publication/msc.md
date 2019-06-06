@@ -14,7 +14,9 @@ authors = ["Fredrik K. Gustafsson", "Erik Linder-Norén"]
 # 4 = Technical report
 # 5 = Book
 # 6 = Book chapter
-publication_types = ["4"]
+# 7 = Thesis
+# 8 = Preprint
+publication_types = ["7"]
 
 # Publication name and optional abbreviated version.
 publication = "Master of Science Thesis in Electrical Engineering, Linköping University"
