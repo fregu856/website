@@ -1,14 +1,16 @@
 <div class="pub-list-item" style="margin-bottom: 1rem" itemscope itemtype="http://schema.org/CreativeWork">
   <a href="{{ .Permalink }}" itemprop="name">{{ .Title }}</a>
-  <div itemprop="author">
+  <div class="pub-authors2" itemprop="author">
     {{ with .Params.authors }}
       {{- delimit . ", " | markdownify -}}
     {{- end -}}
   </div>
+  <div class="pub-authors3">
   {{ if .Params.publication_short }}
     {{- .Params.publication_short | markdownify -}}
   {{ else if .Params.publication }}
     {{- .Params.publication | markdownify -}}
   {{ end }}
+  </div>
   <p>{{ partial "publication_links" (dict "content" . "is_list" 1) }}</p>
 </div>

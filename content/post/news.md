@@ -22,6 +22,8 @@ image_preview = ""
 
 - <b>[Jun 5, 2019]</b> <b>New preprint:</b> <i>Evaluating Scalable Bayesian Deep Learning Methods for Robust Computer Vision</i> [[arXiv]](https://arxiv.org/abs/1906.01620) [[code]](https://github.com/fregu856/evaluating_bdl) [[video]](https://youtu.be/CabPVqtzsOI) [[project]](http://www.fregu856.com/publication/evaluating_bdl/).
 
+- <b>[May 18, 2019]</b> I will present our [extended abstract](/publication/ssdl2019/) on ensembling as approximate Bayesian inference at [SSDL19](http://ssba.org.se/ssdl2019/), June 10 [[slides]](/files/ssdl19_slides.pdf).
+
 - <b>[Apr 25, 2019]</b> I have posted the [first part](/post/19apr) in a short series of blog posts on how to get started with PyTorch and deep learning.
 
 - <b>[Nov 24, 2018]</b> I was awarded the <a href="https://www.lith.liu.se/examenshogtid/tryggve-holm-medalj-och-diplom?l=sv" target="_blank">Tryggve Holm medal</a> for <i>"outstanding student achievements"</i> during my time at <a href="https://liu.se/en" target="_blank">Linköping University</a>.

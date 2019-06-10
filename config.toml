@@ -172,7 +172,8 @@ defaultContentLanguageInSubdir = false
     'Book',  # 5
     'Book section',  # 6
     'Thesis',  # 7
-    'Preprint'  # 8
+    'Preprint',  # 8
+    'Extended abstract' # 9
   ]
 
   # Configuration of talk pages.
