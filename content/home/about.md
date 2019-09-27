@@ -19,6 +19,8 @@ I received my BSc in Applied Physics and Electrical Engineering in 2016 and my M
 
 ### News
 
+- <b>[Sep 27, 2019]</b> <b>New preprint:</b> <i>DCTD: Deep Conditional Target Densities for Accurate Regression</i> [[arXiv]](https://arxiv.org/abs/1909.12297) [[project]](http://www.fregu856.com/publication/dctd/).
+
 - <b>[Jun 5, 2019]</b> <b>New preprint:</b> <i>Evaluating Scalable Bayesian Deep Learning Methods for Robust Computer Vision</i> [[arXiv]](https://arxiv.org/abs/1906.01620) [[code]](https://github.com/fregu856/evaluating_bdl) [[video]](https://youtu.be/CabPVqtzsOI) [[project]](http://www.fregu856.com/publication/evaluating_bdl/).
 
 - <b>[May 18, 2019]</b> I will present our [extended abstract](/publication/ssdl2019/) on ensembling as approximate Bayesian inference at [SSDL19](http://ssba.org.se/ssdl2019/), June 10 [[slides]](/files/ssdl19_slides.pdf).
@@ -26,7 +28,5 @@ I received my BSc in Applied Physics and Electrical Engineering in 2016 and my M
 - <b>[Apr 25, 2019]</b> I have posted the [first part](/post/19apr) in a short series of blog posts on how to get started with PyTorch and deep learning.
 
 - <b>[Nov 24, 2018]</b> I was awarded the <a href="https://www.lith.liu.se/examenshogtid/tryggve-holm-medalj-och-diplom?l=sv" target="_blank">Tryggve Holm medal</a> for <i>"outstanding student achievements"</i> during my time at <a href="https://liu.se/en" target="_blank">Linköping University</a>.
-
-- <b>[Sep 28, 2018]</b> <b>New project:</b> PyTorch implementation of <a href="https://arxiv.org/abs/1706.05587" target="_blank">DeepLabV3</a>, see <a href="https://github.com/fregu856/deeplabv3" target="_blank">GitHub repository</a> and <a href="https://youtu.be/9e2x4dDRB-k" target="_blank">Youtube video</a> for further details.
 
 Click [here](/post/news) for older news.

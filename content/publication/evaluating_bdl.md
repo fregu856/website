@@ -46,7 +46,7 @@ url_code = "https://github.com/fregu856/evaluating_bdl"
 url_dataset = ""
 url_project = ""
 url_video = "https://youtu.be/CabPVqtzsOI"
-url_slides = ""
+url_slides = "/files/evaluating_bdl_zenuity_2.pdf"
 url_poster = ""
 url_source = ""
 
