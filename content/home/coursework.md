@@ -18,7 +18,9 @@ weight = 70
 ### Uppsala University
 
 * [Statistical Estimation Theory and Its Applications | 9 Credits](http://www.it.uu.se/research/systems_and_control/education/2016/set)
-* [Deep Learning | 5 Credits | (Ongoing)](http://www.it.uu.se/research/systems_and_control/education/2019/dl)
+* [Deep Learning | 5 Credits](http://www.it.uu.se/research/systems_and_control/education/2019/dl)
+* [Sequential Monte Carlo Methods | 6 Credits | (Ongoing)](http://www.it.uu.se/research/systems_and_control/education/2019/smc)
+* [Academic Teacher Training Course | 7.5 Credits | (Ongoing)](https://mp.uu.se/en_GB/web/info/undervisa/kurser-och-seminarier/kurser)
 
 ### Stanford University
 

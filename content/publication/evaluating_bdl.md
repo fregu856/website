@@ -16,11 +16,15 @@ authors = ["Fredrik K. Gustafsson", "Martin Danelljan", "Thomas B. Schön"]
 # 6 = Book chapter
 # 7 = Thesis
 # 8 = Preprint
-publication_types = ["8"]
+# 9 = Extended abstract
+# 10 = Workshop paper
+publication_types = ["10"]
 
 # Publication name and optional abbreviated version.
-publication = "Preprint, 2019"
-publication_short = "Preprint, 2019"
+#publication = "Preprint, 2019"
+#publication_short = "Preprint, 2019"
+publication = "NeurIPS Bayesian Deep Learning Workshop, 2019"
+publication_short = "NeurIPS Bayesian Deep Learning Workshop, 2019"
 
 # Abstract and optional shortened version.
 abstract = "While Deep Neural Networks (DNNs) have become the go-to approach in computer vision, the vast majority of these models fail to properly capture the uncertainty inherent in their predictions. Estimating this predictive uncertainty can be crucial, for instance in automotive applications. In Bayesian deep learning, predictive uncertainty is often decomposed into the distinct types of aleatoric and epistemic uncertainty. The former can be estimated by letting a DNN output the parameters of a probability distribution. Epistemic uncertainty estimation is a more challenging problem, and while different scalable methods recently have emerged, no comprehensive comparison has been performed in a real-world setting. We therefore accept this task and propose an evaluation framework for predictive uncertainty estimation that is specifically designed to test the robustness required in real-world computer vision applications. Using the proposed framework, we perform an extensive comparison of the popular ensembling and MC-dropout methods on the tasks of depth completion and street-scene semantic segmentation. Our comparison suggests that ensembling consistently provides more reliable uncertainty estimates."

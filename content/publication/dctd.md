@@ -16,6 +16,7 @@ authors = ["Fredrik K. Gustafsson&ast;", "Martin Danelljan&ast;", "Goutam Bhat",
 # 6 = Book chapter
 # 7 = Thesis
 # 8 = Preprint
+# 9 = Extended abstract
 publication_types = ["8"]
 
 # Publication name and optional abbreviated version.

@@ -16,8 +16,8 @@ summary = "When I first got interested in deep learning a couple of years ago, I
 image = ""
 caption = ""
 #image_preview = "1d_regression.png"
-image_preview = "19apr/7.png"
-small_image = "19apr/7.png" # (header image the same size as the article)
+image_preview = "19apr/9.png"
+small_image = "19apr/9.png" # (header image the same size as the article)
 
 +++
 
