@@ -21,7 +21,7 @@ I received my BSc in Applied Physics and Electrical Engineering in 2016 and my M
 
 - <b>[Oct 1, 2019]</b> <b>Accepted workshop paper:</b> [_Evaluating Scalable Bayesian Deep Learning Methods for Robust Computer Vision_](/publication/evaluating_bdl/) has been accepted to the [workshop on Bayesian Deep Learning](http://bayesiandeeplearning.org/) at [NeurIPS 2019](https://neurips.cc/).
 
-- <b>[Sep 27, 2019]</b> <b>New preprint:</b> <i>DCTD: Deep Conditional Target Densities for Accurate Regression</i> [[arXiv]](https://arxiv.org/abs/1909.12297) [[project]](http://www.fregu856.com/publication/dctd/).
+- <b>[Sep 27, 2019]</b> <b>New preprint:</b> <i>DCTD: Deep Conditional Target Densities for Accurate Regression</i> [[arXiv]](https://arxiv.org/abs/1909.12297) [[slides]](/files/dctd.pdf) [[project]](http://www.fregu856.com/publication/dctd/).
 
 - <b>[Jun 5, 2019]</b> <b>New preprint:</b> <i>Evaluating Scalable Bayesian Deep Learning Methods for Robust Computer Vision</i> [[arXiv]](https://arxiv.org/abs/1906.01620) [[code]](https://github.com/fregu856/evaluating_bdl) [[video]](https://youtu.be/CabPVqtzsOI) [[project]](http://www.fregu856.com/publication/evaluating_bdl/).
 

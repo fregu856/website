@@ -47,7 +47,7 @@ url_code = ""
 url_dataset = ""
 url_project = ""
 url_video = ""
-url_slides = ""
+url_slides = "/files/dctd.pdf"
 url_poster = ""
 url_source = ""
 
