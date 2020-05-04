@@ -20,6 +20,10 @@ image_preview = ""
 
 +++
 
+- <b>[May 5, 2020]</b> <b>New preprint:</b> <i>How to Train Your Energy-Based Model for Regression</i> [[arXiv]](/publication/ebms_regression/) [[code]](https://github.com/fregu856/ebms_regression) [[project]](/publication/ebms_regression/).
+
+- <b>[Apr 7, 2020]</b> <b>Accepted paper:</b> [_Evaluating Scalable Bayesian Deep Learning Methods for Robust Computer Vision_](/publication/evaluating_bdl/) has been accepted to [CVPR Workshops 2020](https://sites.google.com/view/saiad2020/home?authuser=0).
+
 - <b>[Oct 1, 2019]</b> <b>Accepted workshop paper:</b> [_Evaluating Scalable Bayesian Deep Learning Methods for Robust Computer Vision_](/publication/evaluating_bdl/) has been accepted to the [workshop on Bayesian Deep Learning](http://bayesiandeeplearning.org/) at [NeurIPS 2019](https://neurips.cc/).
 
 - <b>[Sep 27, 2019]</b> <b>New preprint:</b> <i>Learning Deep Conditional Target Densities for Accurate Regression</i> [[arXiv]](https://arxiv.org/abs/1909.12297) [[project]](http://www.fregu856.com/publication/dctd/).

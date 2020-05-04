@@ -19,14 +19,14 @@ I received my BSc in Applied Physics and Electrical Engineering in 2016 and my M
 
 ### News
 
+- <b>[May 5, 2020]</b> <b>New preprint:</b> <i>How to Train Your Energy-Based Model for Regression</i> [[arXiv]](/publication/ebms_regression/) [[code]](https://github.com/fregu856/ebms_regression) [[project]](/publication/ebms_regression/).
+
+- <b>[Apr 7, 2020]</b> <b>Accepted paper:</b> [_Evaluating Scalable Bayesian Deep Learning Methods for Robust Computer Vision_](/publication/evaluating_bdl/) has been accepted to [CVPR Workshops 2020](https://sites.google.com/view/saiad2020/home?authuser=0).
+
 - <b>[Oct 1, 2019]</b> <b>Accepted workshop paper:</b> [_Evaluating Scalable Bayesian Deep Learning Methods for Robust Computer Vision_](/publication/evaluating_bdl/) has been accepted to the [workshop on Bayesian Deep Learning](http://bayesiandeeplearning.org/) at [NeurIPS 2019](https://neurips.cc/).
 
 - <b>[Sep 27, 2019]</b> <b>New preprint:</b> <i>Learning Deep Conditional Target Densities for Accurate Regression</i> [[arXiv]](https://arxiv.org/abs/1909.12297) [[project]](http://www.fregu856.com/publication/dctd/).
 
 - <b>[Jun 5, 2019]</b> <b>New preprint:</b> <i>Evaluating Scalable Bayesian Deep Learning Methods for Robust Computer Vision</i> [[arXiv]](https://arxiv.org/abs/1906.01620) [[code]](https://github.com/fregu856/evaluating_bdl) [[video]](https://youtu.be/CabPVqtzsOI) [[project]](http://www.fregu856.com/publication/evaluating_bdl/).
-
-- <b>[May 18, 2019]</b> I will present our [extended abstract](/publication/ssdl2019/) on ensembling as approximate Bayesian inference at [SSDL19](http://ssba.org.se/ssdl2019/), June 10 [[slides]](/files/ssdl19_slides.pdf).
-
-- <b>[Apr 25, 2019]</b> I have posted the [first part](/post/19apr) in a short series of blog posts on how to get started with PyTorch and deep learning.
 
 Click [here](/post/news) for older news.
