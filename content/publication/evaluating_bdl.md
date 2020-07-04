@@ -25,7 +25,7 @@ publication_types = ["10"]
 #publication_short = "Preprint, 2019"
 #publication = "NeurIPS Bayesian Deep Learning Workshop, 2019"
 #publication_short = "NeurIPS Bayesian Deep Learning Workshop, 2019"
-publication = "CVPR Workshops, 2020"
+publication = "The IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR) Workshops, 2020"
 publication_short = "CVPR Workshops, 2020"
 
 # Abstract and optional shortened version.
@@ -54,7 +54,7 @@ url_code = "https://github.com/fregu856/evaluating_bdl"
 url_dataset = ""
 url_project = ""
 url_video = "https://youtu.be/CabPVqtzsOI"
-url_slides = "/files/evaluating_bdl_zenuity_2.pdf"
+url_slides = "/files/evaluating_bdl_slides.pdf"
 url_poster = "/files/evaluating_bdl_poster_bdl-workshop.pdf"
 url_source = ""
 

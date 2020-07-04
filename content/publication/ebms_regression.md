@@ -40,7 +40,7 @@ selected = true
 projects = []
 
 # Links (optional).
-url_arxiv = ""
+url_arxiv = "https://arxiv.org/abs/2005.01698"
 url_pdf = ""
 url_preprint = ""
 url_code = "https://github.com/fregu856/ebms_regression"
