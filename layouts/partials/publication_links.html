@@ -44,6 +44,16 @@
   {{ i18n "btn_poster" }}
 </a>
 {{ end }}
+{{ with $.Params.url_video_1min }}
+<a class="btn btn-primary btn-outline{{ if $is_list }} btn-xs{{end}}" href="{{ . | absURL }}" target="_blank" rel="noopener">
+  {{ i18n "btn_video_1min" }}
+</a>
+{{ end }}
+{{ with $.Params.url_slides_1min }}
+<a class="btn btn-primary btn-outline{{ if $is_list }} btn-xs{{end}}" href="{{ . | absURL }}" target="_blank" rel="noopener">
+  {{ i18n "btn_slides_1min" }}
+</a>
+{{ end }}
 {{ with $.Params.url_slides }}
 <a class="btn btn-primary btn-outline{{ if $is_list }} btn-xs{{end}}" href="{{ . | absURL }}" target="_blank" rel="noopener">
   {{ i18n "btn_slides" }}

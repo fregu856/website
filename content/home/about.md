@@ -21,7 +21,7 @@ I received my BSc in Applied Physics and Electrical Engineering in 2016 and my M
 
 ### News
 
-- <b>[Jul 3, 2020]</b> <b>Accepted paper:</b> [_Learning Deep Conditional Target Densities for Accurate Regression_](/publication/dctd/) has been accepted to [ECCV 2020](https://eccv2020.eu/).
+- <b>[Jul 3, 2020]</b> <b>Accepted paper:</b> [_Energy-Based Models for Deep Probabilistic Regression_](/publication/dctd/) has been accepted to [ECCV 2020](https://eccv2020.eu/).
 
 - <b>[May 5, 2020]</b> <b>New preprint:</b> <i>How to Train Your Energy-Based Model for Regression</i> [[arXiv]](https://arxiv.org/abs/2005.01698) [[code]](https://github.com/fregu856/ebms_regression) [[project]](/publication/ebms_regression/).
 
@@ -29,6 +29,6 @@ I received my BSc in Applied Physics and Electrical Engineering in 2016 and my M
 
 - <b>[Oct 1, 2019]</b> <b>Accepted workshop paper:</b> [_Evaluating Scalable Bayesian Deep Learning Methods for Robust Computer Vision_](/publication/evaluating_bdl/) has been accepted to the [workshop on Bayesian Deep Learning](http://bayesiandeeplearning.org/) at [NeurIPS 2019](https://neurips.cc/).
 
-- <b>[Sep 27, 2019]</b> <b>New preprint:</b> <i>Learning Deep Conditional Target Densities for Accurate Regression</i> [[arXiv]](https://arxiv.org/abs/1909.12297) [[code]](https://github.com/fregu856/ebms_regression) [[project]](http://www.fregu856.com/publication/dctd/).
+- <b>[Sep 27, 2019]</b> <b>New preprint:</b> <i>Energy-Based Models for Deep Probabilistic Regression</i> [[arXiv]](https://arxiv.org/abs/1909.12297) [[code]](https://github.com/fregu856/ebms_regression) [[project]](http://www.fregu856.com/publication/dctd/).
 
 Click [here](/post/news) for older news.

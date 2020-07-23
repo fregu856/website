@@ -1,9 +1,9 @@
 +++
-title = "Learning Deep Conditional Target Densities for Accurate Regression"
+title = "Energy-Based Models for Deep Probabilistic Regression"
 date = "2019-09-26"
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["Fredrik K. Gustafsson&ast;", "Martin Danelljan&ast;", "Goutam Bhat", "Thomas B. Schön"]
+authors = ["Fredrik K. Gustafsson", "Martin Danelljan", "Goutam Bhat", "Thomas B. Schön"]
 
 # Publication type.
 # Legend:
@@ -48,6 +48,8 @@ url_preprint = ""
 url_code = "https://github.com/fregu856/ebms_regression"
 url_dataset = ""
 url_project = ""
+url_video_1min = "https://youtu.be/oacQnWV7XeI"
+url_slides_1min = "/files/dctd_1min.pdf"
 url_video = ""
 url_slides = ""
 url_poster = ""
@@ -67,8 +69,8 @@ highlight = true
 # Place your image in the `static/img/` folder and reference its filename below, e.g. `image = "example.jpg"`.
 [header]
 #image="thesis_color.png" # (full-width header image)
-small_image = "learning_dctd__.png" # (header image the same size as the article)
-#video="https://www.youtube.com/embed/CabPVqtzsOI?enablejsapi=1&version=3&playerapiid=ytplayer" # (like small_image, but with an embedded youtube video instead)
+#small_image = "learning_dctd__.png" # (header image the same size as the article)
+video="https://www.youtube.com/embed/oacQnWV7XeI?enablejsapi=1&version=3&playerapiid=ytplayer" # (like small_image, but with an embedded youtube video instead)
 caption = ""
 
 +++
