@@ -20,6 +20,8 @@ image_preview = ""
 
 +++
 
+- <b>[Jul 29, 2020]</b> <b>Accepted paper:</b> [_How to Train Your Energy-Based Model for Regression_](/publication/ebms_regression/) has been accepted to [BMVC 2020](http://www.bmvc2020.com/).
+
 - <b>[Jul 3, 2020]</b> <b>Accepted paper:</b> [_Energy-Based Models for Deep Probabilistic Regression_](/publication/dctd/) has been accepted to [ECCV 2020](https://eccv2020.eu/).
 
 - <b>[May 5, 2020]</b> <b>New preprint:</b> <i>How to Train Your Energy-Based Model for Regression</i> [[arXiv]](https://arxiv.org/abs/2005.01698) [[code]](https://github.com/fregu856/ebms_regression) [[project]](/publication/ebms_regression/).

@@ -54,14 +54,14 @@
   {{ i18n "btn_slides_1min" }}
 </a>
 {{ end }}
-{{ with $.Params.url_slides }}
-<a class="btn btn-primary btn-outline{{ if $is_list }} btn-xs{{end}}" href="{{ . | absURL }}" target="_blank" rel="noopener">
-  {{ i18n "btn_slides" }}
-</a>
-{{ end }}
 {{ with $.Params.url_video }}
 <a class="btn btn-primary btn-outline{{ if $is_list }} btn-xs{{end}}" href="{{ . | absURL }}" target="_blank" rel="noopener">
   {{ i18n "btn_video" }}
+</a>
+{{ end }}
+{{ with $.Params.url_slides }}
+<a class="btn btn-primary btn-outline{{ if $is_list }} btn-xs{{end}}" href="{{ . | absURL }}" target="_blank" rel="noopener">
+  {{ i18n "btn_slides" }}
 </a>
 {{ end }}
 {{ with $.Params.url_source }}
