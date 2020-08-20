@@ -24,9 +24,9 @@ publication = "The British Machine Vision Conference (BMVC), 2020"
 publication_short = "BMVC, 2020"
 
 # Abstract and optional shortened version.
-abstract = "Energy-based models (EBMs) have become increasingly popular within computer vision in recent years. While they are commonly employed for generative image modeling, recent work has applied EBMs also for regression tasks, achieving state-of-the-art performance on object detection and visual tracking. Training EBMs is however known to be challenging. While a variety of different techniques have been explored for generative modeling, the application of EBMs to regression is not a well-studied problem. How EBMs should be trained for best possible regression performance is thus currently unclear. We therefore accept the task of providing the first detailed study of this problem. To that end, we propose a simple yet highly effective extension of noise contrastive estimation, and carefully compare its performance to six popular methods from literature on the tasks of 1D regression and object detection. The results of this comparison suggest that our training method should be considered the go-to approach. We also apply our method to the visual tracking task, setting a new state-of-the-art on five datasets. Notably, our tracker achieves 63.7% AUC on LaSOT and 78.7% Success on TrackingNet."
+abstract = "Energy-based models (EBMs) have become increasingly popular within computer vision in recent years. While they are commonly employed for generative image modeling, recent work has applied EBMs also for regression tasks, achieving state-of-the-art performance on object detection and visual tracking. Training EBMs is however known to be challenging. While a variety of different techniques have been explored for generative modeling, the application of EBMs to regression is not a well-studied problem. How EBMs should be trained for best possible regression performance is thus currently unclear. We therefore accept the task of providing the first detailed study of this problem. To that end, we propose a simple yet highly effective extension of noise contrastive estimation, and carefully compare its performance to six popular methods from literature on the tasks of 1D regression and object detection. The results of this comparison suggest that our training method should be considered the go-to approach. We also apply our method to the visual tracking task, achieving state-of-the-art performance on five datasets. Notably, our tracker achieves 63.7% AUC on LaSOT and 78.7% Success on TrackingNet."
 
-abstract_short = "We propose a simple yet highly effective extension of noise contrastive estimation (NCE) to train energy-based models p(y|x; theta) for regression tasks. Our proposed method NCE+ can be understood as a direct generalization of NCE, accounting for noise in the annotation process of real-world datasets. We provide a detailed comparison of NCE+ and six popular methods from literature, the results of which suggest that NCE+ should be considered the go-to training method. We also apply NCE+ to the task of visual tracking, setting a new state-of-the-art on five commonly used datasets. Notably, our tracker achieves 63.7% AUC on LaSOT and 78.7% Success on TrackingNet."
+abstract_short = "We propose a simple yet highly effective extension of noise contrastive estimation (NCE) to train energy-based models p(y|x; theta) for regression tasks. Our proposed method NCE+ can be understood as a direct generalization of NCE, accounting for noise in the annotation process of real-world datasets. We provide a detailed comparison of NCE+ and six popular methods from literature, the results of which suggest that NCE+ should be considered the go-to training method. We also apply NCE+ to the task of visual tracking, achieving state-of-the-art performance on five commonly used datasets. Notably, our tracker achieves 63.7% AUC on LaSOT and 78.7% Success on TrackingNet."
 
 # Featured image thumbnail (optional)
 image_preview = "ebms_regression.jpg"
@@ -46,6 +46,8 @@ url_preprint = ""
 url_code = "https://github.com/fregu856/ebms_regression"
 url_dataset = ""
 url_project = ""
+url_video_90sec = "https://youtu.be/BpzcgufCZ2g"
+url_slides_90sec = "/files/ebms_regression_90sec.pdf"
 url_video = ""
 url_slides = ""
 url_poster = ""
@@ -65,8 +67,8 @@ highlight = true
 # Place your image in the `static/img/` folder and reference its filename below, e.g. `image = "example.jpg"`.
 [header]
 #image="thesis_color.png" # (full-width header image)
-small_image = "ebms_regression.jpg" # (header image the same size as the article)
-#video="https://www.youtube.com/embed/CabPVqtzsOI?enablejsapi=1&version=3&playerapiid=ytplayer" # (like small_image, but with an embedded youtube video instead)
+#small_image = "ebms_regression.jpg" # (header image the same size as the article)
+video="https://www.youtube.com/embed/BpzcgufCZ2g?enablejsapi=1&version=3&playerapiid=ytplayer" # (like small_image, but with an embedded youtube video instead)
 caption = ""
 
 +++
