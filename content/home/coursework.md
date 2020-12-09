@@ -21,6 +21,9 @@ weight = 70
 * [Deep Learning | 5 Credits](http://www.it.uu.se/research/systems_and_control/education/2019/dl)
 * [Sequential Monte Carlo Methods | 6 Credits | (Ongoing)](http://www.it.uu.se/research/systems_and_control/education/2019/smc)
 * [Academic Teacher Training Course | 7.5 Credits | (Ongoing)](https://mp.uu.se/en_GB/web/info/undervisa/kurser-och-seminarier/kurser)
+* [Ethics of Technology and Science I | 2 Credits](http://www.it.uu.se/grad/courses/gc2021/etsmi)
+* [Statistical Machine Learning | 5 Credits | (Ongoing)](https://uppsala.instructure.com/courses/23239)
+* [Ethics of Technology and Science II | 3 Credits | (Ongoing)](http://www.it.uu.se/grad/courses/gc2021/etso20)
 
 ### Stanford University
 

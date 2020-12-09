@@ -20,7 +20,7 @@ autolink = false
   <li>
     <i class="fa-li fa fa-map-marker fa-2x" aria-hidden="true"></i>
     <span id="person-address" itemprop="address">
-    <a href="https://goo.gl/maps/EZumPhF7q7A2" target="_blank">Room 2303, Department of Information Technology, Uppsala University</a>
+    <a href="https://goo.gl/maps/EZumPhF7q7A2" target="_blank">Room 2237, Department of Information Technology, Uppsala University</a>
     </span>
   </li>
 

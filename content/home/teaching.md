@@ -17,6 +17,10 @@ weight = 60
 
 ### Uppsala University
 
+* [1RT890 | Empirical Modelling | MSc](https://www.uu.se/en/admissions/freestanding-courses/course-syllabus/?kpid=38406&type=1)\
+_**Teaching Assistant** (Swedish: Lektionsledare)_\
+Autumn I 2020
+
 * [1RT700 | Statistical Machine Learning | MSc](http://www.it.uu.se/edu/course/homepage/sml)\
 _**Lab Assistant**_\
 Spring I 2020

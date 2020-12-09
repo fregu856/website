@@ -20,6 +20,12 @@ image_preview = ""
 
 +++
 
+- <b>[Dec 9, 2020]</b> <b>New preprint:</b> <i>Deep Energy-Based NARX Models</i> [[arXiv]](https://arxiv.org/abs/2012.04136) [[code]](https://github.com/jnh277/ebm_arx) [[project]](/publication/ebms_narx/).
+
+- <b>[Dec 8, 2020]</b> <b>New preprint:</b> <i>Accurate 3D Object Detection using Energy-Based Models</i> [[arXiv]](https://arxiv.org/abs/2012.04634) [[code]](https://github.com/fregu856/ebms_3dod) [[video]](https://youtu.be/7JP6V818bh0) [[project]](/publication/ebms_3dod/).
+
+- <b>[Oct 21, 2020]</b> In November and December, I will visit the [Computer Vision Lab](https://vision.ee.ethz.ch/) at ETH Zürich (remote due to COVID-19).
+
 - <b>[Jul 29, 2020]</b> <b>Accepted paper:</b> [_How to Train Your Energy-Based Model for Regression_](/publication/ebms_regression/) has been accepted to [BMVC 2020](http://www.bmvc2020.com/).
 
 - <b>[Jul 3, 2020]</b> <b>Accepted paper:</b> [_Energy-Based Models for Deep Probabilistic Regression_](/publication/dctd/) has been accepted to [ECCV 2020](https://eccv2020.eu/).
