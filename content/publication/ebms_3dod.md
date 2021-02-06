@@ -49,7 +49,7 @@ url_project = ""
 url_video_90sec = ""
 url_slides_90sec = ""
 url_video = "https://youtu.be/7JP6V818bh0"
-url_slides = ""
+url_slides = "/files/ebms_3dod_slides210129.pdf"
 url_poster = ""
 url_source = ""
 

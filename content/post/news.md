@@ -20,6 +20,8 @@ image_preview = ""
 
 +++
 
+- <b>[Jan 18, 2021]</b> <b>New preprint:</b> <i>Uncertainty-Aware Body Composition Analysis with Deep Regression Ensembles on UK Biobank MRI</i> [[arXiv]](https://arxiv.org/abs/2101.06963) [[code]](https://github.com/tarolangner/mri-biometry) [[project]](/publication/mri_regression/).
+
 - <b>[Dec 9, 2020]</b> <b>New preprint:</b> <i>Deep Energy-Based NARX Models</i> [[arXiv]](https://arxiv.org/abs/2012.04136) [[code]](https://github.com/jnh277/ebm_arx) [[project]](/publication/ebms_narx/).
 
 - <b>[Dec 8, 2020]</b> <b>New preprint:</b> <i>Accurate 3D Object Detection using Energy-Based Models</i> [[arXiv]](https://arxiv.org/abs/2012.04634) [[code]](https://github.com/fregu856/ebms_3dod) [[video]](https://youtu.be/7JP6V818bh0) [[project]](/publication/ebms_3dod/).

@@ -17,6 +17,10 @@ weight = 60
 
 ### Uppsala University
 
+* [1RT490 | Automatic Control I | BSc](http://www.uu.se/en/admissions/freestanding-courses/course-syllabus/?kpid=29556&lasar=&typ=0)\
+_**Teaching Assistant** (Swedish: Lektionsledare)_\
+Spring I 2021
+
 * [1RT890 | Empirical Modelling | MSc](https://www.uu.se/en/admissions/freestanding-courses/course-syllabus/?kpid=38406&type=1)\
 _**Teaching Assistant** (Swedish: Lektionsledare)_\
 Autumn I 2020
