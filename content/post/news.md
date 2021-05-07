@@ -20,6 +20,8 @@ image_preview = ""
 
 +++
 
+- <b>[Apr 17, 2021]</b> <b>Accepted paper:</b> [_Accurate 3D Object Detection using Energy-Based Models_](/publication/ebms_3dod/) has been accepted to [CVPR Workshops 2021](http://cvpr2021.wad.vision/).
+
 - <b>[Apr 10, 2021]</b> <b>Accepted paper:</b> [_Deep Energy-Based NARX Models_](/publication/ebms_narx/) has been accepted to [SYSID 2021](https://www.sysid2021.org/).
 
 - <b>[Jan 18, 2021]</b> <b>New preprint:</b> <i>Uncertainty-Aware Body Composition Analysis with Deep Regression Ensembles on UK Biobank MRI</i> [[arXiv]](https://arxiv.org/abs/2101.06963) [[code]](https://github.com/tarolangner/mri-biometry) [[project]](/publication/mri_regression/).

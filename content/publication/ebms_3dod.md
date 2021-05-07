@@ -17,11 +17,13 @@ authors = ["Fredrik K. Gustafsson", "Martin Danelljan", "Thomas B. Schön"]
 # 7 = Thesis
 # 8 = Preprint
 # 9 = Extended abstract
-publication_types = ["8"]
+publication_types = ["1"]
 
 # Publication name and optional abbreviated version.
-publication = "Preprint, 2020"
-publication_short = "Preprint, 2020"
+#publication = "Preprint, 2020"
+#publication_short = "Preprint, 2020"
+publication = "The IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR) Workshops, 2021"
+publication_short = "CVPR Workshops, 2021"
 
 # Abstract and optional shortened version.
 abstract = "Accurate 3D object detection (3DOD) is crucial for safe navigation of complex environments by autonomous robots. Regressing accurate 3D bounding boxes in cluttered environments based on sparse LiDAR data is however a highly challenging problem. We address this task by exploring recent advances in conditional energy-based models (EBMs) for probabilistic regression. While methods employing EBMs for regression have demonstrated impressive performance on 2D object detection in images, these techniques are not directly applicable to 3D bounding boxes. In this work, we therefore design a differentiable pooling operator for 3D bounding boxes, serving as the core module of our EBM network. We further integrate this general approach into the state-of-the-art 3D object detector SA-SSD. On the KITTI dataset, our proposed approach consistently outperforms the SA-SSD baseline across all 3DOD metrics, demonstrating the potential of EBM-based regression for highly accurate 3DOD."

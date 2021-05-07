@@ -18,7 +18,7 @@ authors = ["Fredrik K. Gustafsson", "Martin Danelljan", "Thomas B. Schön"]
 # 8 = Preprint
 # 9 = Extended abstract
 # 10 = Workshop paper
-publication_types = ["10"]
+publication_types = ["1"]
 
 # Publication name and optional abbreviated version.
 #publication = "Preprint, 2019"
