@@ -31,7 +31,7 @@ abstract_short = "In this thesis we study the computer vision problem of 3D obje
 image_preview = "thesis_color.png"
 
 # Is this a selected publication? (true/false)
-selected = true
+selected = false
 
 # Projects (optional).
 #   Associate this publication with one or more of your projects.

@@ -17,11 +17,11 @@ authors = ["Taro Langner", "Fredrik K. Gustafsson", "Benny Avelin", "Robin Stran
 # 7 = Thesis
 # 8 = Preprint
 # 9 = Extended abstract
-publication_types = ["8"]
+publication_types = ["2"]
 
 # Publication name and optional abbreviated version.
-publication = "Preprint, 2021"
-publication_short = "Preprint, 2021"
+publication = "Computerized Medical Imaging and Graphics, 2021"
+publication_short = "Computerized Medical Imaging and Graphics, 2021"
 
 # Abstract and optional shortened version.
 abstract = "Purpose: To enable fast and automated analysis of body composition from UK Biobank MRI with accurate estimates of individual measurement errors. Methods: In an ongoing large-scale imaging study the UK Biobank has acquired MRI of over 40,000 men and women aged 44-82. Phenotypes derived from these images, such as body composition, can reveal new links between genetics, cardiovascular disease, and metabolic conditions. In this retrospective study, neural networks were trained to provide six measurements of body composition from UK Biobank neck-to-knee body MRI. A ResNet50 architecture can automatically predict these values by image-based regression, but may also produce erroneous outliers. Predictive uncertainty, which could identify these failure cases, was therefore modeled with a mean-variance loss and ensembling. Its estimates of individual prediction errors were evaluated in cross-validation on over 8,000 subjects, tested on another 1,000 cases, and finally applied for inference. Results: Relative measurement errors below 5% were achieved on all but one target, for intra-class correlation coefficients (ICC) above 0.97 both in validation and testing. Both mean-variance loss and ensembling yielded improvements and provided uncertainty estimates that highlighted some of the worst outlier predictions. Combined, they reached the highest quality, but also exhibited a consistent bias towards high uncertainty in heavyweight subjects. Conclusion: Mean-variance regression and ensembling provided complementary benefits for automated body composition measurements from UK Biobank MRI, reaching high speed and accuracy. These values were inferred for the entire cohort, with uncertainty estimates that can approximate the measurement errors and identify some of the worst outliers automatically."

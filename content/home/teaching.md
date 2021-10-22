@@ -17,6 +17,10 @@ weight = 60
 
 ### Uppsala University
 
+* [1RT890 | Empirical Modelling | MSc](https://www.uu.se/en/admissions/freestanding-courses/course-syllabus/?kpid=44424&type=1)\
+_**Teaching Assistant** (Swedish: Lektionsledare)_\
+Autumn I 2021
+
 * [1RT495 | Automatic Control II | MSc](https://www.uu.se/en/admissions/freestanding-courses/course-syllabus/?kpid=38780&lasar=21%2F22&typ=1)\
 _**Teaching Assistant**_\
 Spring II 2021
