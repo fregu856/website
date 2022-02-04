@@ -17,11 +17,11 @@ authors = ["Fredrik K. Gustafsson", "Martin Danelljan", "Thomas B. Schön"]
 # 7 = Thesis
 # 8 = Preprint
 # 9 = Extended abstract
-publication_types = ["8"]
+publication_types = ["1"]
 
 # Publication name and optional abbreviated version.
-publication = "Preprint, 2021"
-publication_short = "Preprint, 2021"
+publication = "The International Conference on Artificial Intelligence and Statistics (AISTATS), 2022"
+publication_short = "AISTATS, 2022"
 
 # Abstract and optional shortened version.
 abstract = "Energy-based models (EBMs) have experienced a resurgence within machine learning in recent years, including as a promising alternative for probabilistic regression. However, energy-based regression requires a proposal distribution to be manually designed for training, and an initial estimate has to be provided at test-time. We address both of these issues by introducing a conceptually simple method to automatically learn an effective proposal distribution, which is parameterized by a separate network head. To this end, we derive a surprising result, leading to a unified training objective that jointly minimizes the KL divergence from the proposal to the EBM, and the negative log-likelihood of the EBM. At test-time, we can then employ importance sampling with the trained proposal to efficiently evaluate the learned EBM and produce stand-alone predictions. Furthermore, we utilize our derived training objective to learn mixture density networks (MDNs) with a jointly trained energy-based teacher, consistently outperforming conventional MDN training on four real-world regression tasks within computer vision."
@@ -40,7 +40,7 @@ selected = true
 projects = []
 
 # Links (optional).
-url_arxiv = ""
+url_arxiv = "https://arxiv.org/abs/2110.11948"
 url_pdf = ""
 url_preprint = ""
 url_code = "https://github.com/fregu856/ebms_proposals"

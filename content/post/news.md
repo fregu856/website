@@ -20,7 +20,11 @@ image_preview = ""
 
 +++
 
-- <b>[Oct 22, 2021]</b> <b>New preprint:</b> <i>Learning Proposals for Practical Energy-Based Regression</i> [[arXiv (TODO!)]](/publication/ebms_proposals/) [[code]](https://github.com/fregu856/ebms_proposals) [[project]](/publication/ebms_proposals/).
+- <b>[Feb 3, 2022]</b> Today I presented my half-time seminar _Energy-Based Probabilistic Regression in Computer Vision_ [[slides]](/files/halftime_slides.pdf).
+
+- <b>[Jan 18, 2022]</b> <b>Accepted paper:</b> [_Learning Proposals for Practical Energy-Based Regression_](/publication/ebms_proposals/) has been accepted to [AISTATS 2022](https://aistats.org/aistats2022/).
+
+- <b>[Oct 22, 2021]</b> <b>New preprint:</b> <i>Learning Proposals for Practical Energy-Based Regression</i> [[arXiv]](https://arxiv.org/abs/2110.11948) [[code]](https://github.com/fregu856/ebms_proposals) [[project]](/publication/ebms_proposals/).
 
 - <b>[Sep 13, 2021]</b> I will be a contingent worker at [Facebook Reality Labs](https://tech.fb.com/ar-vr/) until mid-December (part-time internship extension).
 

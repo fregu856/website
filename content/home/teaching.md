@@ -17,6 +17,10 @@ weight = 60
 
 ### Uppsala University
 
+* [1RT700 | Statistical Machine Learning | MSc](https://uppsala.instructure.com/courses/46077)\
+_**Teaching Assistant**_\
+Spring I 2022
+
 * [1RT890 | Empirical Modelling | MSc](https://www.uu.se/en/admissions/freestanding-courses/course-syllabus/?kpid=44424&type=1)\
 _**Teaching Assistant** (Swedish: Lektionsledare)_\
 Autumn I 2021

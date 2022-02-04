@@ -27,14 +27,14 @@ I received my BSc in Applied Physics and Electrical Engineering in 2016 and my M
 
 ### News
 
-- <b>[Oct 22, 2021]</b> <b>New preprint:</b> <i>Learning Proposals for Practical Energy-Based Regression</i> [[arXiv (TODO!)]](/publication/ebms_proposals/) [[code]](https://github.com/fregu856/ebms_proposals) [[project]](/publication/ebms_proposals/).
+- <b>[Feb 3, 2022]</b> Today I presented my half-time seminar _Energy-Based Probabilistic Regression in Computer Vision_ [[slides]](/files/halftime_slides.pdf).
+
+- <b>[Jan 18, 2022]</b> <b>Accepted paper:</b> [_Learning Proposals for Practical Energy-Based Regression_](/publication/ebms_proposals/) has been accepted to [AISTATS 2022](https://aistats.org/aistats2022/).
+
+- <b>[Oct 22, 2021]</b> <b>New preprint:</b> <i>Learning Proposals for Practical Energy-Based Regression</i> [[arXiv]](https://arxiv.org/abs/2110.11948) [[code]](https://github.com/fregu856/ebms_proposals) [[project]](/publication/ebms_proposals/).
 
 - <b>[Sep 13, 2021]</b> I will be a contingent worker at [Facebook Reality Labs](https://tech.fb.com/ar-vr/) until mid-December (part-time internship extension).
 
 - <b>[Sep 3, 2021]</b> <b>Accepted paper:</b> [_Uncertainty-Aware Body Composition Analysis with Deep Regression Ensembles on UK Biobank MRI_](/publication/mri_regression/) has been accepted for publication in [Computerized Medical Imaging and Graphics](https://www.journals.elsevier.com/computerized-medical-imaging-and-graphics).
-
-- <b>[Jun 7, 2021]</b> I will spend the summer as a research intern at [Facebook Reality Labs](https://tech.fb.com/ar-vr/) (FRL Research Pittsburgh, remote due to COVID-19).
-
-- <b>[Apr 17, 2021]</b> <b>Accepted paper:</b> [_Accurate 3D Object Detection using Energy-Based Models_](/publication/ebms_3dod/) has been accepted to [CVPR Workshops 2021](http://cvpr2021.wad.vision/).
 
 Click [here](/post/news) for older news.

@@ -25,7 +25,7 @@ weight = 70
 * [Statistical Machine Learning | 5 Credits](https://uppsala.instructure.com/courses/23239)
 * [Ethics of Technology and Science II | 3 Credits](http://www.it.uu.se/grad/courses/gc2021/etso20)
 * [Convex Optimization with Engineering Applications | 6 Credits](https://www.kth.se/student/kurser/kurs/FSF3847?l=en)
-* [Using Maths and Computer Science to do Social Good | 10 Credits | (Ongoing)](https://uppsala.instructure.com/courses/51420)
+* [Using Maths and Computer Science to do Social Good | 10 Credits](https://uppsala.instructure.com/courses/51420)
 
 ### Stanford University
 
