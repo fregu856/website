@@ -20,6 +20,8 @@ image_preview = ""
 
 +++
 
+- <b>[Feb 7, 2022]</b> New blog post: [_Explaining machine learning and how it can be used to help doctors_](/post/explaining_ml/).
+
 - <b>[Feb 3, 2022]</b> Today I presented my half-time seminar _Energy-Based Probabilistic Regression in Computer Vision_ [[slides]](/files/halftime_slides.pdf).
 
 - <b>[Jan 18, 2022]</b> <b>Accepted paper:</b> [_Learning Proposals for Practical Energy-Based Regression_](/publication/ebms_proposals/) has been accepted to [AISTATS 2022](https://aistats.org/aistats2022/).
