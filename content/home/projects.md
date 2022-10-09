@@ -5,11 +5,11 @@ widget = "projects"
 active = true
 date = 2016-04-20
 
-title = "Projects"
+title = "Student Projects"
 subtitle = ""
 
 # Order that this section will appear in.
-weight = 20
+weight = 80
 
 # List format.
 #   0 = Simple

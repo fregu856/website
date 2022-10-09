@@ -11,7 +11,7 @@ title = "Reading"
 subtitle = ""
 
 # Order that this section will appear in.
-weight = 80
+weight = 75
 
 +++
 
