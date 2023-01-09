@@ -20,6 +20,8 @@ image_preview = ""
 
 +++
 
+- <b>[Dec 21, 2022]</b> <b>New preprint:</b> <i>ECG-Based Electrolyte Prediction: Evaluating Regression and Probabilistic Methods</i> [[arXiv]](https://arxiv.org/abs/2212.13890) [[code]](https://github.com/philippvb/ecg-electrolyte-regression) [[project]](/publication/regressionecg/).
+
 - <b>[Feb 7, 2022]</b> New blog post: [_Explaining machine learning and how it can be used to help doctors_](/post/explaining_ml/).
 
 - <b>[Feb 3, 2022]</b> Today I presented my half-time seminar _Energy-Based Probabilistic Regression in Computer Vision_ [[slides]](/files/halftime_slides.pdf).

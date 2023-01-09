@@ -22,7 +22,7 @@ video="https://www.youtube.com/embed/5G4cmSh4s-4?enablejsapi=1&version=3&playera
 
 +++
 
-For a project in the doctoral course _Using Maths and CS to do Social Good_ at Uppsala University, our goal was to make grade 7-9 students more interested in mathematics. To that end, we have created a [video](https://youtu.be/5G4cmSh4s-4) with an accompanying [interactive blog post](https://educaora.com/@MachineLearningDoc). In the video, we explain the essence of how machine learning works and how it can be used to help doctors discover heart attacks from patient ECGs. _There is also a [Swedish version](https://youtu.be/WKsxZ5fGvF0) of the video._
+For a project in the doctoral course _Using Maths and CS to do Social Good_ at Uppsala University, our goal was to make grade 7-9 students more interested in mathematics. To that end, we have created a [video](https://youtu.be/5G4cmSh4s-4) with an accompanying [interactive blog post](https://educaora.com/@MachineLearningDoc). In the video, we explain the essence of how machine learning works and how it can be used to help doctors discover heart attacks from patient ECGs. _There is also a [Swedish version](https://youtu.be/5ehdIBaElYA) of the video._
 
 We tailor our explanation of machine learning to grade 7-9 students by basing it on the concept of straight lines (linear functions). We start by showing how a straight line can be fitted to some collected data and then used to make predictions, for example to predict ice cream sales from the outside temperature.
 ![Illustrative ice cream example](/img/explaining_ml/img2.png)

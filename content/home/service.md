@@ -17,8 +17,8 @@ weight = 65
 
 ### Reviewing
 
-* [AISTATS 2023](http://aistats.org/aistats2023/) | (Upcoming)
-* [AAAI 2023](https://aaai.org/Conferences/AAAI-23/) | 3 + 3 Papers
+* [AISTATS 2023](http://aistats.org/aistats2023/) | 3 Papers
+* [AAAI 2023](https://aaai.org/Conferences/AAAI-23/) | 3 + 4 Papers
 * [BMVC 2022](https://bmvc2022.org/) | 6 Papers
 * [ECCV 2022](https://eccv2022.ecva.net/) | 8 Papers
 * [CVPR 2022](https://cvpr2022.thecvf.com/) | 2 Papers
