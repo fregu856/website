@@ -20,6 +20,10 @@ image_preview = ""
 
 +++
 
+- <b>[Feb 8, 2023]</b> <b>New preprint:</b> <i>How Reliable is Your Regression Model's Uncertainty Under Real-World Distribution Shifts?</i> [[arXiv]](https://arxiv.org/abs/2302.03679) [[code]](https://github.com/fregu856/regression_uncertainty) [[project]](/publication/regression_uncertainty/).
+
+- <b>[Jan 27, 2023]</b> <b>New preprint:</b> <i>Image Restoration with Mean-Reverting Stochastic Differential Equations</i> [[arXiv]](https://arxiv.org/abs/2301.11699) [[code]](https://github.com/Algolzw/image-restoration-sde) [[project]](https://algolzw.github.io/ir-sde/index.html).
+
 - <b>[Dec 21, 2022]</b> <b>New preprint:</b> <i>ECG-Based Electrolyte Prediction: Evaluating Regression and Probabilistic Methods</i> [[arXiv]](https://arxiv.org/abs/2212.13890) [[code]](https://github.com/philippvb/ecg-electrolyte-regression) [[project]](/publication/regressionecg/).
 
 - <b>[Feb 7, 2022]</b> New blog post: [_Explaining machine learning and how it can be used to help doctors_](/post/explaining_ml/).

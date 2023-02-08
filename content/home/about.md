@@ -31,14 +31,14 @@ I received my BSc in Applied Physics and Electrical Engineering in 2016 and my M
 
 ### News
 
+- <b>[Feb 8, 2023]</b> <b>New preprint:</b> <i>How Reliable is Your Regression Model's Uncertainty Under Real-World Distribution Shifts?</i> [[arXiv]](https://arxiv.org/abs/2302.03679) [[code]](https://github.com/fregu856/regression_uncertainty) [[project]](/publication/regression_uncertainty/).
+
+- <b>[Jan 27, 2023]</b> <b>New preprint:</b> <i>Image Restoration with Mean-Reverting Stochastic Differential Equations</i> [[arXiv]](https://arxiv.org/abs/2301.11699) [[code]](https://github.com/Algolzw/image-restoration-sde) [[project]](https://algolzw.github.io/ir-sde/index.html).
+
 - <b>[Dec 21, 2022]</b> <b>New preprint:</b> <i>ECG-Based Electrolyte Prediction: Evaluating Regression and Probabilistic Methods</i> [[arXiv]](https://arxiv.org/abs/2212.13890) [[code]](https://github.com/philippvb/ecg-electrolyte-regression) [[project]](/publication/regressionecg/).
 
 - <b>[Feb 7, 2022]</b> New blog post: [_Explaining machine learning and how it can be used to help doctors_](/post/explaining_ml/).
 
 - <b>[Feb 3, 2022]</b> Today I presented my half-time seminar _Energy-Based Probabilistic Regression in Computer Vision_ [[slides]](/files/halftime_slides.pdf).
-
-- <b>[Jan 18, 2022]</b> <b>Accepted paper:</b> [_Learning Proposals for Practical Energy-Based Regression_](/publication/ebms_proposals/) has been accepted to [AISTATS 2022](https://aistats.org/aistats2022/).
-
-- <b>[Oct 22, 2021]</b> <b>New preprint:</b> <i>Learning Proposals for Practical Energy-Based Regression</i> [[arXiv]](https://arxiv.org/abs/2110.11948) [[code]](https://github.com/fregu856/ebms_proposals) [[project]](/publication/ebms_proposals/).
 
 Click [here](/post/news) for older news.
