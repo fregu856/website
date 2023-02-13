@@ -15,4 +15,14 @@ weight = 75
 
 +++
 
-I categorize and post comments on all research papers I read, and share this publicly on [GitHub](https://github.com/fregu856/papers). Feel free to reach out with any questions or suggested readings, I am always interested in learning about new methods and ideas.
+<!-- I categorize, annotate and write comments for all research papers I read, and share this publicly on [GitHub](https://github.com/fregu856/papers) (220+ papers since 2018). Feel free to reach out with any questions or suggested readings, I am always interested in learning about new methods and ideas. -->
+I categorize, annotate and write comments for all research papers I read, and share this publicly on [GitHub](https://github.com/fregu856/papers) (250+ papers since September 2018). Feel free to reach out with any questions or suggested readings.
+
+
+I have also become quite interested in philosophy (mainly ethics and political philosophy), and have read the following books:
+
+* 23-02-12 | [An Introduction to Political Philosophy](https://www.amazon.com/Introduction-Political-Philosophy-Jonathan-Wolff/dp/0199658013) | _**Jonathan Wolff**_
+* 23-01-11 | [Liberalism](https://www.adlibris.com/se/bok/liberalism-9789186980573) | _**Lena Halldenius**_
+* 23-01-04 | [Grundbok i metaetik](https://www.studentlitteratur.se/kurslitteratur/humaniora-och-samhallsvetenskap/filosofi/grundbok-i-metaetik/) _(Introduction to Metaethics)_ | _**Nils Franzén, Victor Moberger, Olle Risberg**_
+* 23-01-03 | [The Moral Philosophers: An Introduction to Ethics](https://www.amazon.com/Moral-Philosophers-Introduction-Ethics/dp/0198752164) | _**Richard Norman**_
+* 22-11-26 | [Ethics in Engineering](https://www.studentlitteratur.se/kurslitteratur/organisation-och-ledarskap/organisation/ethics-in-engineering) | _**Thomas Taro Lennerfors**_

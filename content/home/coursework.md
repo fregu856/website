@@ -17,15 +17,19 @@ weight = 70
 
 ### Uppsala University
 
-* [Statistical Estimation Theory and Its Applications | 9 Credits](http://www.it.uu.se/research/systems_and_control/education/2016/set)
-* [Deep Learning | 5 Credits](http://www.it.uu.se/research/systems_and_control/education/2019/dl)
-* [Sequential Monte Carlo Methods | 6 Credits | (Ongoing)](http://www.it.uu.se/research/systems_and_control/education/2019/smc)
-* [Academic Teacher Training Course | 7.5 Credits](https://mp.uu.se/en_GB/web/info/undervisa/kurser-och-seminarier/kurser)
-* [Ethics of Technology and Science I | 2 Credits](http://www.it.uu.se/grad/courses/gc2021/etsmi)
-* [Statistical Machine Learning | 5 Credits](https://uppsala.instructure.com/courses/23239)
-* [Ethics of Technology and Science II | 3 Credits](http://www.it.uu.se/grad/courses/gc2021/etso20)
-* [Convex Optimization with Engineering Applications | 6 Credits](https://www.kth.se/student/kurser/kurs/FSF3847?l=en)
-* [Using Maths and Computer Science to do Social Good | 10 Credits](https://uppsala.instructure.com/courses/51420)
+* [Statistical Estimation Theory and Its Applications](http://www.it.uu.se/research/systems_and_control/education/2016/set) | 9 Credits
+* [Deep Learning](http://www.it.uu.se/research/systems_and_control/education/2019/dl) | 5 Credits
+* [Sequential Monte Carlo Methods](http://www.it.uu.se/research/systems_and_control/education/2019/smc) | 6 Credits | (Ongoing)
+* [Academic Teacher Training Course](https://mp.uu.se/en_GB/web/info/undervisa/kurser-och-seminarier/kurser) | 7.5 Credits
+* [Ethics of Technology and Science I](http://www.it.uu.se/grad/courses/gc2021/etsmi) | 2 Credits
+* [Statistical Machine Learning](https://uppsala.instructure.com/courses/23239) | 5 Credits
+* [Ethics of Technology and Science II](http://www.it.uu.se/grad/courses/gc2021/etso20) | 3 Credits
+* [Convex Optimization with Engineering Applications](https://www.kth.se/student/kurser/kurs/FSF3847?l=en) | 6 Credits
+* [Using Maths and Computer Science to do Social Good](https://uppsala.instructure.com/courses/51420) | 10 Credits
+* [Application-Oriented Deep Learning](https://www.uu.se/en/admissions/freestanding-courses/course-syllabus/?kpid=44835&type=1) | 5 Credits
+* [A Computational Introduction to Stochastic Differential Equations](https://github.com/spdes/computational-sde-intro-lecture) | 6 Credits
+* Social Consequences of Technology and Trustworthy AI | 3 Credits | (Ongoing)
+* [Science for Sustainable Development](https://www.teknat.uu.se/education/doctoral-studies/courses/faculty/science-for-sustainable-development/) | 5 Credits | (Ongoing)
 
 ### Stanford University
 
