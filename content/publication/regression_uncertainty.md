@@ -3,7 +3,7 @@ title = "How Reliable is Your Regression Model's Uncertainty Under Real-World Di
 date = "2023-02-07"
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["Fredrik K. Gustafsson, Martin Danelljan, Thomas B. Schön"]
+authors = ["**Fredrik K. Gustafsson**, Martin Danelljan, Thomas B. Schön"]
 
 # Publication type.
 # Legend:

@@ -3,7 +3,7 @@ title = "Automotive 3D Object Detection Without Target Domain Annotations"
 date = "2018-06-01"
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["Fredrik K. Gustafsson", "Erik Linder-Norén"]
+authors = ["**Fredrik K. Gustafsson**", "Erik Linder-Norén"]
 
 # Publication type.
 # Legend:

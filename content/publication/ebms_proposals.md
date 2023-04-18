@@ -3,7 +3,7 @@ title = "Learning Proposals for Practical Energy-Based Regression"
 date = "2021-10-22"
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["Fredrik K. Gustafsson", "Martin Danelljan", "Thomas B. Schön"]
+authors = ["**Fredrik K. Gustafsson**", "Martin Danelljan", "Thomas B. Schön"]
 
 # Publication type.
 # Legend:

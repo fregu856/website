@@ -3,7 +3,7 @@ title = "How to Train Your Energy-Based Model for Regression"
 date = "2020-05-01"
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["Fredrik K. Gustafsson", "Martin Danelljan", "Radu Timofte", "Thomas B. Schön"]
+authors = ["**Fredrik K. Gustafsson**", "Martin Danelljan", "Radu Timofte", "Thomas B. Schön"]
 
 # Publication type.
 # Legend:

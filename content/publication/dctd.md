@@ -3,7 +3,7 @@ title = "Energy-Based Models for Deep Probabilistic Regression"
 date = "2019-09-26"
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["Fredrik K. Gustafsson", "Martin Danelljan", "Goutam Bhat", "Thomas B. Schön"]
+authors = ["**Fredrik K. Gustafsson**", "Martin Danelljan", "Goutam Bhat", "Thomas B. Schön"]
 
 # Publication type.
 # Legend:

@@ -3,7 +3,7 @@ title = "Accurate 3D Object Detection using Energy-Based Models"
 date = "2020-12-08"
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["Fredrik K. Gustafsson", "Martin Danelljan", "Thomas B. Schön"]
+authors = ["**Fredrik K. Gustafsson**", "Martin Danelljan", "Thomas B. Schön"]
 
 # Publication type.
 # Legend:
@@ -22,7 +22,7 @@ publication_types = ["1"]
 # Publication name and optional abbreviated version.
 #publication = "Preprint, 2020"
 #publication_short = "Preprint, 2020"
-publication = "The IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR) Workshops, 2021"
+publication = "The IEEE/CVF Conference on Computer Vision and Pattern Recognition Workshops (CVPR Workshops), 2021"
 publication_short = "CVPR Workshops, 2021"
 
 # Abstract and optional shortened version.

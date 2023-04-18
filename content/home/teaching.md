@@ -17,6 +17,10 @@ weight = 60
 
 ### Uppsala University
 
+* [1RT495 | Automatic Control II | MSc](https://www.uu.se/en/admissions/freestanding-courses/course-syllabus/?kpid=38780&lasar=21%2F22&typ=1)\
+_**Teaching Assistant** (Swedish: Lektionsledare)_\
+Spring II 2023
+
 * [1RT700 | Statistical Machine Learning | MSc](https://uppsala.instructure.com/courses/65587)\
 _**Teaching Assistant**_\
 Autumn II 2022

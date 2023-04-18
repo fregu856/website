@@ -3,7 +3,7 @@ title = "ECG-Based Electrolyte Prediction: Evaluating Regression and Probabilist
 date = "2022-12-21"
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["Philipp Von Bachmann, Daniel Gedon, Fredrik K. Gustafsson, Antônio H. Ribeiro, Erik Lampa, Stefan Gustafsson, Johan Sundström, Thomas B. Schön"]
+authors = ["Philipp Von Bachmann, Daniel Gedon, **Fredrik K. Gustafsson**, Antônio H. Ribeiro, Erik Lampa, Stefan Gustafsson, Johan Sundström, Thomas B. Schön"]
 
 # Publication type.
 # Legend:

@@ -19,7 +19,6 @@ weight = 70
 
 * [Statistical Estimation Theory and Its Applications](http://www.it.uu.se/research/systems_and_control/education/2016/set) | 9 Credits
 * [Deep Learning](http://www.it.uu.se/research/systems_and_control/education/2019/dl) | 5 Credits
-* [Sequential Monte Carlo Methods](http://www.it.uu.se/research/systems_and_control/education/2019/smc) | 6 Credits | (Ongoing)
 * [Academic Teacher Training Course](https://mp.uu.se/en_GB/web/info/undervisa/kurser-och-seminarier/kurser) | 7.5 Credits
 * [Ethics of Technology and Science I](http://www.it.uu.se/grad/courses/gc2021/etsmi) | 2 Credits
 * [Statistical Machine Learning](https://uppsala.instructure.com/courses/23239) | 5 Credits
@@ -28,8 +27,10 @@ weight = 70
 * [Using Maths and Computer Science to do Social Good](https://uppsala.instructure.com/courses/51420) | 10 Credits
 * [Application-Oriented Deep Learning](https://www.uu.se/en/admissions/freestanding-courses/course-syllabus/?kpid=44835&type=1) | 5 Credits
 * [A Computational Introduction to Stochastic Differential Equations](https://github.com/spdes/computational-sde-intro-lecture) | 6 Credits
-* Social Consequences of Technology and Trustworthy AI | 3 Credits | (Ongoing)
+* Social Consequences of Technology and Trustworthy AI | 3 Credits
 * [Science for Sustainable Development](https://www.teknat.uu.se/education/doctoral-studies/courses/faculty/science-for-sustainable-development/) | 5 Credits | (Ongoing)
+* [Research Methodology](https://www.teknat.uu.se/education/doctoral-studies/courses/faculty/2023-research-methodology/) | 4 Credits | (Ongoing)
+* [Digital Image Analysis for Scientific Applications](https://www.teknat.uu.se/education/doctoral-studies/courses/faculty/2023-image-analysis-for-scientific-applications-digital/) | 5 Credits | (Ongoing)
 
 ### Stanford University
 

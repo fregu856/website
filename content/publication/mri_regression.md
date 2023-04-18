@@ -3,7 +3,7 @@ title = "Uncertainty-Aware Body Composition Analysis with Deep Regression Ensemb
 date = "2021-01-18"
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["Taro Langner", "Fredrik K. Gustafsson", "Benny Avelin", "Robin Strand", "Håkan Ahlström", "Joel Kullberg"]
+authors = ["Taro Langner", "**Fredrik K. Gustafsson**", "Benny Avelin", "Robin Strand", "Håkan Ahlström", "Joel Kullberg"]
 
 # Publication type.
 # Legend:

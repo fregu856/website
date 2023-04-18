@@ -3,7 +3,7 @@ title = "Image Restoration with Mean-Reverting Stochastic Differential Equations
 date = "2023-01-27"
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["Ziwei Luo, Fredrik K. Gustafsson, Zheng Zhao, Jens Sjölund, Thomas B. Schön"]
+authors = ["Ziwei Luo, **Fredrik K. Gustafsson**, Zheng Zhao, Jens Sjölund, Thomas B. Schön"]
 
 # Publication type.
 # Legend:

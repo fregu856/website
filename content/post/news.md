@@ -20,6 +20,10 @@ image_preview = ""
 
 +++
 
+- <b>[Apr 18, 2023]</b> <b>Accepted paper:</b> [_Refusion: Enabling Large-Size Realistic Image Restoration with Latent-Space Diffusion Models_](/publication/refusion/) has been accepted to [CVPR Workshops 2023](https://cvlai.net/ntire/2023/).
+
+- <b>[Mar 16, 2023]</b> Today I presented _Some Advice for New (and Old?) PhD Students_ [[slides]](/files/phd_advice_slides.pdf) at our weekly [division](https://www.it.uu.se/about_us/divisions/systems_and_control) meeting.
+
 - <b>[Feb 8, 2023]</b> <b>New preprint:</b> <i>How Reliable is Your Regression Model's Uncertainty Under Real-World Distribution Shifts?</i> [[arXiv]](https://arxiv.org/abs/2302.03679) [[code]](https://github.com/fregu856/regression_uncertainty) [[project]](/publication/regression_uncertainty/).
 
 - <b>[Jan 27, 2023]</b> <b>New preprint:</b> <i>Image Restoration with Mean-Reverting Stochastic Differential Equations</i> [[arXiv]](https://arxiv.org/abs/2301.11699) [[code]](https://github.com/Algolzw/image-restoration-sde) [[project]](https://algolzw.github.io/ir-sde/index.html).
