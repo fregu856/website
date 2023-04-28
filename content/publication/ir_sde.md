@@ -17,22 +17,22 @@ authors = ["Ziwei Luo, **Fredrik K. Gustafsson**, Zheng Zhao, Jens Sjölund, Tho
 # 7 = Thesis
 # 8 = Preprint
 # 9 = Extended abstract
-publication_types = ["8"]
+publication_types = ["1"]
 
 # Publication name and optional abbreviated version.
-publication = "Preprint, 2023"
-publication_short = "Preprint, 2023"
+publication = "The International Conference on Machine Learning (ICML), 2023"
+publication_short = "ICML, 2023"
 
 # Abstract and optional shortened version.
 abstract = "This paper presents a stochastic differential equation (SDE) approach for general-purpose image restoration. The key construction consists in a mean-reverting SDE that transforms a high-quality image into a degraded counterpart as a mean state with fixed Gaussian noise. Then, by simulating the corresponding reverse-time SDE, we are able to restore the origin of the low-quality image without relying on any task-specific prior knowledge. Crucially, the proposed mean-reverting SDE has a closed-form solution, allowing us to compute the ground truth time-dependent score and learn it with a neural network. Moreover, we propose a maximum likelihood objective to learn an optimal reverse trajectory which stabilizes the training and improves the restoration results. In the experiments, we show that our proposed method achieves highly competitive performance in quantitative comparisons on image deraining, deblurring, and denoising, setting a new state-of-the-art on two deraining datasets. Finally, the general applicability of our approach is further demonstrated via qualitative results on image super-resolution, inpainting, and dehazing."
 
-abstract_short = ""
+abstract_short = "We present a stochastic differential equation (SDE) approach for general-purpose image restoration. The key construction is a mean-reverting SDE that models the degradation process from high-quality image to low-quality counterpart. By simulating the corresponding reverse-time SDE, high-quality images can then be restored. We also propose a maximum likelihood objective that stabilizes the training and improves the restoration results. Our method achieves highly competitive performance on the tasks of image deraining, deblurring and denoising. The general applicability is further demonstrated via qualitative results on image super-resolution, inpainting and dehazing."
 
 # Featured image thumbnail (optional)
 image_preview = "ir_sde.png"
 
 # Is this a selected publication? (true/false)
-selected = false
+selected = true
 
 # Projects (optional).
 #   Associate this publication with one or more of your projects.

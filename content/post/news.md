@@ -20,6 +20,8 @@ image_preview = ""
 
 +++
 
+- <b>[Apr 25, 2023]</b> <b>Accepted paper:</b> [_Image Restoration with Mean-Reverting Stochastic Differential Equations_](/publication/ir_sde/) has been accepted to [ICML 2023](https://icml.cc/Conferences/2023).
+
 - <b>[Apr 18, 2023]</b> <b>Accepted paper:</b> [_Refusion: Enabling Large-Size Realistic Image Restoration with Latent-Space Diffusion Models_](/publication/refusion/) has been accepted to [CVPR Workshops 2023](https://cvlai.net/ntire/2023/).
 
 - <b>[Mar 16, 2023]</b> Today I presented _Some Advice for New (and Old?) PhD Students_ [[slides]](/files/phd_advice_slides.pdf) at our weekly [division](https://www.it.uu.se/about_us/divisions/systems_and_control) meeting.
