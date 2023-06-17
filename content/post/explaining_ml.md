@@ -1,5 +1,5 @@
 +++
-title = "Explaining machine learning and how it can be used to help doctors"
+title = "Explaining Machine Learning and How It Can Be Used to Help Doctors"
 
 date = 2022-02-07T00:00:00
 lastmod = 2022-02-07T00:00:00

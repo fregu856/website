@@ -16,11 +16,12 @@ weight = 75
 +++
 
 <!-- I categorize, annotate and write comments for all research papers I read, and share this publicly on [GitHub](https://github.com/fregu856/papers) (220+ papers since 2018). Feel free to reach out with any questions or suggested readings, I am always interested in learning about new methods and ideas. -->
-I categorize, annotate and write comments for all research papers I read, and share this publicly on [GitHub](https://github.com/fregu856/papers) (280+ papers since September 2018). Feel free to reach out with any questions or suggested readings.
+I categorize, annotate and write comments for all research papers I read, and share this publicly on [GitHub](https://github.com/fregu856/papers) (300+ papers since September 2018). Feel free to reach out with any questions or suggested readings.
 
 
 I have also become quite interested in philosophy (mainly ethics and political philosophy), and have read the following books:
 
+* 23-06-03 | [Meaning in Life and Why It Matters](https://www.amazon.com/Meaning-Matters-University-Center-Values/dp/0691154503) | _**Susan Wolf**_
 * 23-03-14 | [Practical Ethics](https://www.amazon.com/Practical-Ethics-Peter-Singer/dp/0521707684) | _**Peter Singer**_
 * 23-02-12 | [An Introduction to Political Philosophy](https://www.amazon.com/Introduction-Political-Philosophy-Jonathan-Wolff/dp/0199658013) | _**Jonathan Wolff**_
 * 23-01-11 | [Liberalism](https://www.adlibris.com/se/bok/liberalism-9789186980573) | _**Lena Halldenius**_

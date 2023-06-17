@@ -1,5 +1,5 @@
 +++
-title = "Getting started with PyTorch:<br> 1 - Linear regression"
+title = "Getting Started with PyTorch:<br> 1 - Linear Regression"
 
 date = 2019-04-25T00:00:00
 lastmod = 2019-04-25T00:00:00
