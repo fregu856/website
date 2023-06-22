@@ -4,8 +4,8 @@
 title = "The How and Why of Reading 300 Papers in 5 Years"
 #title = "The How and Why of Reading 300 Research Papers in 5 Years"
 
-date = 2023-06-16T00:00:00
-lastmod = 2023-06-16T00:00:00
+date = 2023-06-22T00:00:00
+lastmod = 2023-06-22T00:00:00
 draft = false
 math = true
 
@@ -49,28 +49,23 @@ Moreover, discussing a paper you've read in a reading group almost always signif
 
 
 #### How I organize my paper reading
-For each paper I read in detail, I create a note somewhere where I can easily find it later. In this note, I write down any questions, thoughts and ideas which arise during reading. Reading papers can generate a lot of research ideas, and they all seem obvious right there and then, but if you don’t write them down they will be very difficult to remember in the future. A PhD is long, you might want to go back to a certain read paper years later, and then such notes (even if they are very brief) can be incredibly useful.
+For each paper I read in detail, I create a note somewhere where I can easily find it later. In this note, I write down any questions, thoughts or ideas which arise during reading. Reading papers can generate a lot of research ideas, and they all seem obvious right there and then, but if you don’t write them down they will be very difficult to remember in the future. A PhD is long, you might want to go back to a certain read paper years later, and then such notes (even if they are very brief) can be incredibly useful.
 
-Afterwards, I also write a very short summary of the paper. Quickly answering questions such as "Was the paper interesting overall?", "Was it easy to understand?" or "Could it be relevant for my research now or in the future?". Having short answers to simple questions like these can also turn out to be surprisingly helpful.
+Afterwards, I also write a very short summary of the paper, quickly answering questions such as "Was the paper interesting overall?", "Was it easy to understand?" or "Could it be relevant for my research now or in the future?". Having short answers to simple questions like these can also turn out to be surprisingly helpful.
 
 For each paper, I also annotate the pdf and upload it to my [GitHub repository](https://github.com/fregu856/papers/tree/master/commented_pdfs) (i.e., somewhere where I can easily find it later). I strongly recommend getting a tablet for reading and annotating papers, it really does make a big difference.
 
 The main reason for why I annotate each paper is that this makes it easier to stay focused while reading. I find that actively annotating a paper "forces" you to actually try to understand what you're reading. Moreover, it enables you to go back to a paper years later and quickly find the most interesting and important information.
 
 
+#### Why I share my reading publicly
+The reason why I share a list of all my read papers publicly on [GitHub](https://github.com/fregu856/papers) is somewhat of a coincidence, it's mostly just an idea I happened to have one day when I started my PhD. Now almost five years later, it is however something that I definitely can recommend.
 
-Personally, I also maintain a list of all the read papers, which I share publicly:
-• https://github.com/fregu856/papers
-• Of course there are much more advanced tools (Zotero?), but this is super simple
-and seems to provide all the features I need.
-• Why share it publicly? Why not? I strongly believe in open science.
-• It definitely motivates me to read papers at least (would be kind of neat to reach
-300 papers, and it doesn’t hurt to get some more stars on github, I suppose? ).
+There are of course much more advanced tools such as [Zotero](https://www.zotero.org/) (which I'm sure can be super useful and convenient), but I really enjoy the simplicity of my "GitHub repository" system, and it seems to provide all the features I need. For example, it enables me to go back and very quickly find particular papers that I've read before.
 
+Moreover, I strongly believe in the general principles of open science. Open exchange and publication of information are defining features of the scientific community, and publicly sharing all of my reading in this way is, at least to me, a natural next step towards truly transparent and accessible research.
 
-
-
-
+Last but not least, publicly sharing my reading definitely motivates me to read more papers. It adds a bit of external pressure and encouragement to stay consistent with my reading, to actually set aside some time (almost) every week. Without it, I'm quite confident that I wouldn't have been able to reach 300 read papers already.
 
 
 #### How I find interesting papers to read
@@ -88,55 +83,8 @@ I have a (nearly) daily habit of quickly going through all new [cs.LG](https://a
 Whenever I find a seemingly interesting paper, I go through it very quickly (check the abstract, scroll through the method and/or experiments) and decide whether or not it still seems interesting. If so, I then save it somewhere where I easily can go back and find it later. Specifically, I put the paper titles in Google Keep lists, and if a paper seems especially interesting I also make a short note about that. Once I have time to read a paper in detail, I then go through my lists of interesting papers and pick one.
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-The importance of actually reading a paper IN DETAIL? Att det valdigt ofta ar forst da som jag verkligen forstar hur metoden i ett papper funkar, och att det valdigt ofta ocksa ar sa att ett papper/metod/resultat kan verka valdigt imponernade, men nar man val laser det i detalj sa visar det sig inte vara sa varst imponerande egentligen.........
-
-
-
-
-
-
-
-TODO!
-TODO!
-TODO!
-
-
-
-Why use a github repo to keep all papers.
-
-It's simple.
-
-Very easy to quickly find a particular paper I've read before.
-
-
-### Paper Statistics
-
-Text text text.....
-
-303 read papers.
-
-1.84 GB of annotated pdfs.
-
-
-
-
-
-
 ### 30 Particularly Interesting and/or Well-Written Papers
-
-Text text text..................................
+I went through my comments for all 300 read papers, and selected a list of 30 papers that I found particularly interesting and/or well-written:
 
 **Uncertainty Estimation:**
 
@@ -179,3 +127,17 @@ Text text text..................................
 - [_The Uselessness of AI Ethics_](https://link.springer.com/article/10.1007/s43681-022-00209-w) (AI and Ethics, 2022)
 - [_Why AI is Harder Than We Think_](https://arxiv.org/abs/2104.12871) (GECCO 2021)
 - [_Talking About Large Language Models_](https://arxiv.org/abs/2212.03551) (arXiv, 2022)
+
+
+### Paper Statistics
+
+I compiled some more detailed statics of my read papers (number of papers read each year, papers by publication year, papers by venue, papers by category):
+
+303 read papers.
+
+1.84 GB of annotated pdfs.
+
+![Papers read each year](/img/phd_of_reading/papers_read_each_year.svg)
+![Papers by publication year](/img/phd_of_reading/papers_by_publication_year.svg)
+![Papers by venue](/img/phd_of_reading/papers_by_venue.svg)
+![Papers by category](/img/phd_of_reading/papers_by_category.svg)

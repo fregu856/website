@@ -20,6 +20,8 @@ image_preview = ""
 
 +++
 
+- <b>[Jun 22, 2023]</b> New blog post: [_The How and Why of Reading 300 Papers in 5 Years_](/post/phd_of_reading/).
+
 - <b>[Apr 25, 2023]</b> <b>Accepted paper:</b> [_Image Restoration with Mean-Reverting Stochastic Differential Equations_](/publication/ir_sde/) has been accepted to [ICML 2023](https://icml.cc/Conferences/2023).
 
 - <b>[Apr 18, 2023]</b> <b>Accepted paper:</b> [_Refusion: Enabling Large-Size Realistic Image Restoration with Latent-Space Diffusion Models_](/publication/refusion/) has been accepted to [CVPR Workshops 2023](https://cvlai.net/ntire/2023/).

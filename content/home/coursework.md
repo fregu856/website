@@ -28,9 +28,9 @@ weight = 70
 * [Application-Oriented Deep Learning](https://www.uu.se/en/admissions/freestanding-courses/course-syllabus/?kpid=44835&type=1) | 5 Credits
 * [A Computational Introduction to Stochastic Differential Equations](https://github.com/spdes/computational-sde-intro-lecture) | 6 Credits
 * Social Consequences of Technology and Trustworthy AI | 3 Credits
-* [Science for Sustainable Development](https://www.teknat.uu.se/education/doctoral-studies/courses/faculty/science-for-sustainable-development/) | 5 Credits | (Ongoing)
-* [Research Methodology](https://www.teknat.uu.se/education/doctoral-studies/courses/faculty/2023-research-methodology/) | 4 Credits | (Ongoing)
-* [Digital Image Analysis for Scientific Applications](https://www.teknat.uu.se/education/doctoral-studies/courses/faculty/2023-image-analysis-for-scientific-applications-digital/) | 5 Credits | (Ongoing)
+* [Science for Sustainable Development](https://www.teknat.uu.se/education/doctoral-studies/courses/faculty/science-for-sustainable-development/) | 3 Credits
+* [Research Methodology](https://www.teknat.uu.se/education/doctoral-studies/courses/faculty/2023-research-methodology/) | 4 Credits
+* [Digital Image Analysis for Scientific Applications](https://www.teknat.uu.se/education/doctoral-studies/courses/faculty/2023-image-analysis-for-scientific-applications-digital/) | 5 Credits
 
 ### Stanford University
 
