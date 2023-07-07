@@ -131,7 +131,7 @@ I went through my comments for all 300 read papers, and selected a list of 30 pa
 
 ### Paper Statistics
 
-I compiled some more detailed statics of my read papers (number of papers read each year, papers by publication year, papers by venue, papers by category):
+I compiled some more detailed statistics of my read papers (number of papers read each year, papers by publication year, papers by venue, papers by category):
 
 303 read papers.
 

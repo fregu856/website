@@ -17,11 +17,11 @@ authors = ["**Fredrik K. Gustafsson**, Martin Danelljan, Thomas B. Schön"]
 # 7 = Thesis
 # 8 = Preprint
 # 9 = Extended abstract
-publication_types = ["8"]
+publication_types = ["2"]
 
 # Publication name and optional abbreviated version.
-publication = "Preprint, 2023"
-publication_short = "Preprint, 2023"
+publication = "Transactions on Machine Learning Research (TMLR), 2023"
+publication_short = "TMLR, 2023"
 
 # Abstract and optional shortened version.
 abstract = "Many important computer vision applications are naturally formulated as regression problems. Within medical imaging, accurate regression models have the potential to automate various tasks, helping to lower costs and improve patient outcomes. Such safety-critical deployment does however require reliable estimation of model uncertainty, also under the wide variety of distribution shifts that might be encountered in practice. Motivated by this, we set out to investigate the reliability of regression uncertainty estimation methods under various real-world distribution shifts. To that end, we propose an extensive benchmark of 8 image-based regression datasets with different types of challenging distribution shifts. We then employ our benchmark to evaluate many of the most common uncertainty estimation methods, as well as two state-of-the-art uncertainty scores from the task of out-of-distribution detection. We find that while methods are well calibrated when there is no distribution shift, they all become highly overconfident on many of the benchmark datasets. This uncovers important limitations of current uncertainty estimation methods, and the proposed benchmark therefore serves as a challenge to the research community. We hope that our benchmark will spur more work on how to develop truly reliable regression uncertainty estimation methods."

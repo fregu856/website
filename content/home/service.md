@@ -17,8 +17,8 @@ weight = 65
 
 ### Reviewing
 
-* [NeurIPS 2023](https://nips.cc/Conferences/2023) | Upcoming
-* [BMVC 2023](https://bmvc2023.org/) | Upcoming
+* [NeurIPS 2023](https://nips.cc/Conferences/2023) | 6 Papers
+* [BMVC 2023](https://bmvc2023.org/) | 5 Papers
 * [ICCV 2023](https://iccv2023.thecvf.com/) | 4 Papers
 * [AISTATS 2023](http://aistats.org/aistats2023/) | 3 Papers
 * [AAAI 2023](https://aaai.org/Conferences/AAAI-23/) | 3 + 4 Papers
@@ -32,3 +32,5 @@ weight = 65
 * [ICRA 2021](https://www.ieee-ras.org/about-ras/ras-calendar/upcoming-ras-events/event/1920-icra-2021) | 1 Paper
 * [BMVC 2020](https://www.bmvc2020-conference.com/) | 1 Paper
 * [IFAC World Congress 2020](https://www.ifac2020.org/) | 2 Papers
+
+63 papers in total.

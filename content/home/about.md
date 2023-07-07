@@ -31,6 +31,8 @@ I received my BSc in Applied Physics and Electrical Engineering in 2016 and my M
 
 ### News
 
+- <b>[Jun 28, 2023]</b> <b>Accepted paper:</b> [_How Reliable is Your Regression Model's Uncertainty Under Real-World Distribution Shifts?_](/publication/regression_uncertainty/) has been accepted to [TMLR](https://jmlr.org/tmlr/).
+
 - <b>[Jun 22, 2023]</b> New blog post: [_The How and Why of Reading 300 Papers in 5 Years_](/post/phd_of_reading/).
 
 - <b>[Apr 25, 2023]</b> <b>Accepted paper:</b> [_Image Restoration with Mean-Reverting Stochastic Differential Equations_](/publication/ir_sde/) has been accepted to [ICML 2023](https://icml.cc/Conferences/2023).
@@ -38,7 +40,5 @@ I received my BSc in Applied Physics and Electrical Engineering in 2016 and my M
 - <b>[Apr 18, 2023]</b> <b>Accepted paper:</b> [_Refusion: Enabling Large-Size Realistic Image Restoration with Latent-Space Diffusion Models_](/publication/refusion/) has been accepted to [CVPR Workshops 2023](https://cvlai.net/ntire/2023/).
 
 - <b>[Mar 16, 2023]</b> Today I presented _Some Advice for New (and Old?) PhD Students_ [[slides]](/files/phd_advice_slides.pdf) at our weekly [division](https://www.it.uu.se/about_us/divisions/systems_and_control) meeting.
-
-- <b>[Feb 8, 2023]</b> <b>New preprint:</b> <i>How Reliable is Your Regression Model's Uncertainty Under Real-World Distribution Shifts?</i> [[arXiv]](https://arxiv.org/abs/2302.03679) [[code]](https://github.com/fregu856/regression_uncertainty) [[project]](/publication/regression_uncertainty/).
 
 Click [here](/post/news) for older news.
