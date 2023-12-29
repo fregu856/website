@@ -1,21 +1,47 @@
 +++
-# Recent and Upcoming Talks widget.
-widget = "talks"
-active = false
+# Custom widget.
+# An example of using the custom widget to create your own homepage section.
+# To create more sections, duplicate this file and edit the values below as desired.
+widget = "andmeteadus"
+active = true
 date = "2016-04-20T00:00:00"
 
-title = "Recent & Upcoming Talks"
+# Note: a full width section format can be enabled by commenting out the `title` and `subtitle` with a `#`.
+title = "Talks"
 subtitle = ""
 
 # Order that this section will appear in.
-weight = 30
-
-# Number of talks to list.
-count = 10
-
-# List format.
-#   0 = Simple
-#   1 = Detailed
-list_format = 0
+weight = 66
 
 +++
+
+### Invited Talks
+
+* **How Reliable is Your Regression Model’s Uncertainty Under Real-World Distribution Shifts?**\
+[RISE Learning Machines Seminars](https://www.ri.se/en/learningmachinesseminars) | _Online_\
+March 21, 2024 (Upcoming)
+
+* **How Reliable is Your Regression Model’s Uncertainty Under Real-World Distribution Shifts?**\
+[DFKI Augmented Vision Workshop](https://www.dfki.de/en/web/research/research-departments/augmented-vision) | _Online_ | [[slides]](/files/talk_231031_slides.pdf)\
+October 31, 2023
+
+* **Accurate 3D Object Detection using Energy-Based Models**\
+[Zenseact](https://zenseact.com/) | _Online_ | [[slides]](/files/ebms_3dod_slides210129.pdf)\
+January 29, 2021
+
+* **Evaluating Scalable Bayesian Deep Learning Methods for Robust Computer Vision**\
+[Zenuity](https://zenseact.com/) | _Gothenburg, Sweden_ | [[slides]](/files/evaluating_bdl_zenuity_2.pdf)\
+June 18, 2019
+
+
+
+
+### Other Presentations
+
+* **Towards Accurate and Reliable Deep Regression Models**\
+PhD Defense | _Uppsala, Sweden_ | [[slides]](/files/defense_slides_handout.pdf)\
+November 30, 2023
+
+* **Some Advice for New (and Old?) PhD Students**\
+SysCon &mu; seminar at our weekly [division](https://www.it.uu.se/about_us/divisions/systems_and_control) meeting | _Uppsala, Sweden_ | [[slides]](/files/phd_advice_slides.pdf)\
+March 16, 2023

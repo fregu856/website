@@ -31,6 +31,10 @@ weight = 70
 * [Science for Sustainable Development](https://www.teknat.uu.se/education/doctoral-studies/courses/faculty/science-for-sustainable-development/) | 3 Credits
 * [Research Methodology](https://www.teknat.uu.se/education/doctoral-studies/courses/faculty/2023-research-methodology/) | 4 Credits
 * [Digital Image Analysis for Scientific Applications](https://www.teknat.uu.se/education/doctoral-studies/courses/faculty/2023-image-analysis-for-scientific-applications-digital/) | 5 Credits
+* [Reading Course in Machine Learning](/post/phd_of_reading/) | 8 Credits
+
+81.5 credits in total.
+
 
 ### Stanford University
 
@@ -47,6 +51,9 @@ weight = 70
 * CS 547 | Human-Computer Interaction Seminar | 1 Unit
 * EE 380 | Colloquium on Computer Systems | 1 Unit
 * MS&E 472 | Entrepreneurial Thought Leaders' Seminar | 1 Unit
+
+29 units (58 credits) in total.
+
 
 ### Linköping University
 
@@ -92,3 +99,5 @@ weight = 70
 * TGTU49 | History of Technology | 6 Credits
 * TSEA81 | Computer Engineering and Real-time Systems | 6 Credits
 * TQET33 | Degree Project - Master's Thesis | 30 Credits
+
+277 credits in total.
