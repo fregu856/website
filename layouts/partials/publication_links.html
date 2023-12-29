@@ -69,6 +69,11 @@
   {{ i18n "btn_video" }}
 </a>
 {{ end }}
+{{ with $.Params.url_openreview }}
+<a class="btn btn-primary btn-outline{{ if $is_list }} btn-xs{{end}}" href="{{ . | absURL }}" target="_blank" rel="noopener">
+  {{ i18n "btn_openreview" }}
+</a>
+{{ end }}
 {{ with $.Params.url_slides }}
 <a class="btn btn-primary btn-outline{{ if $is_list }} btn-xs{{end}}" href="{{ . | absURL }}" target="_blank" rel="noopener">
   {{ i18n "btn_slides" }}
