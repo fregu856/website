@@ -31,6 +31,8 @@ I received my BSc in Applied Physics and Electrical Engineering in 2016 and my M
 
 ### News
 
+- <b>[Oct 2, 2023]</b> <b>New preprint:</b> <i>Controlling Vision-Language Models for Universal Image Restoration</i> [[arXiv]](https://arxiv.org/abs/2310.01018) [[code]](https://github.com/Algolzw/daclip-uir) [[project]](https://algolzw.github.io/daclip-uir/).
+
 - <b>[Jun 28, 2023]</b> <b>Accepted paper:</b> [_How Reliable is Your Regression Model's Uncertainty Under Real-World Distribution Shifts?_](/publication/regression_uncertainty/) has been accepted to [TMLR](https://jmlr.org/tmlr/).
 
 - <b>[Jun 22, 2023]</b> New blog post: [_The How and Why of Reading 300 Papers in 5 Years_](/post/phd_of_reading/).
