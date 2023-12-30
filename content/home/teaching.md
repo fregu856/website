@@ -73,6 +73,9 @@ Spring I 2019
 _**Teaching Assistant** (Swedish: Lektionsledare)_\
 Spring I 2019
 
+
+
+
 ### Linköping University
 
 * [TATA24 | Linear Algebra | BSc](https://liu.se/studieinfo/en/kurs/tata24/ht-2018)\

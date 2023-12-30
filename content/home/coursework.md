@@ -11,7 +11,7 @@ title = "Coursework"
 subtitle = ""
 
 # Order that this section will appear in.
-weight = 70
+weight = 79
 
 +++
 
@@ -36,6 +36,8 @@ weight = 70
 81.5 credits in total.
 
 
+
+
 ### Stanford University
 
 * CS 229 | Machine Learning | 3 Units
@@ -53,6 +55,8 @@ weight = 70
 * MS&E 472 | Entrepreneurial Thought Leaders' Seminar | 1 Unit
 
 29 units (58 credits) in total.
+
+
 
 
 ### Linköping University

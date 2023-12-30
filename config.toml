@@ -7,7 +7,8 @@ baseurl = "/"
 
 # Title of your site
 # title = "Fredrik K. Gustafsson | PhD Student in Uncertainty-Aware Deep Learning"
-title = "Fredrik K. Gustafsson | PhD Student in Probabilistic Deep Learning"
+# title = "Fredrik K. Gustafsson | PhD Student in Probabilistic Deep Learning"
+title = "Fredrik K. Gustafsson | Postdoc | Machine Learning for Computational Pathology"
 
 # Your copyright notice - appears in site footer.
 # To display a copyright symbol, type `&copy;`.
@@ -53,7 +54,8 @@ defaultContentLanguageInSubdir = false
   # Your details.
   name = "Fredrik K. Gustafsson"
   # role = "PhD Student in Uncertainty-Aware Deep Learning"
-    role = "PhD Student in Probabilistic Deep Learning"
+  # role = "PhD Student in Probabilistic Deep Learning"
+    role = "Postdoc | Machine Learning for Computational Pathology"
 
   # Organizations/Affiliations.
   #   Separate multiple entries with a comma, using the form: `[ {name="Org1", url=""}, {name="Org2", url=""} ]`.
@@ -361,10 +363,10 @@ defaultContentLanguageInSubdir = false
     url = "#talks"
     weight = 5
 
-[[menu.main]]
-  name = "Coursework"
-  url = "#coursework"
-  weight = 6
+# [[menu.main]]
+#   name = "Coursework"
+#   url = "#coursework"
+#   weight = 6
 
 [[menu.main]]
   name = "Reading"

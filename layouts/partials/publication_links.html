@@ -16,6 +16,16 @@
   {{ "Link to paper" }}
 </a>
 {{ end }}
+{{ with $.Params.url_pdf_pdf }}
+<a class="btn btn-primary btn-outline{{ if $is_list }} btn-xs{{end}}" href="{{ . | absURL }}" target="_blank" rel="noopener">
+  {{ "pdf" }}
+</a>
+{{ end }}
+{{ with $.Params.url_diva }}
+<a class="btn btn-primary btn-outline{{ if $is_list }} btn-xs{{end}}" href="{{ . | absURL }}" target="_blank" rel="noopener">
+  {{ "DiVA" }}
+</a>
+{{ end }}
 {{ with $.Params.url_code }}
 <a class="btn btn-primary btn-outline{{ if $is_list }} btn-xs{{end}}" href="{{ . | absURL }}" target="_blank" rel="noopener">
   {{ i18n "btn_code" }}

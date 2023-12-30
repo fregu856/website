@@ -17,23 +17,17 @@ autolink = false
 
 <ul class="fa-ul" itemscope>
 
-  <!-- <li>
-    <i class="fa-li fa fa-map-marker fa-2x" aria-hidden="true"></i>
-    <span id="person-address" itemprop="address">
-    <a href="https://goo.gl/maps/EZumPhF7q7A2" target="_blank">Room 2237, Department of Information Technology, Uppsala University</a>
-    </span>
-  </li> -->
   <li>
     <i class="fa-li fa fa-map-marker fa-2x" aria-hidden="true"></i>
     <span id="person-address" itemprop="address">
-    <a href="https://goo.gl/maps/faAQczjow4b6nYMD6" target="_blank">Ångström Laboratory, Department of Information Technology, Room 103166</a>
+    <a href="https://maps.app.goo.gl/PNhSZ7jPGGZf1Psd7" target="_blank">Department of Medical Epidemiology and Biostatistics, Room 2416</a>
     </span>
   </li>
 
   <li>
     <i class="fa-li fa fa-envelope fa-2x" aria-hidden="true"></i>
     <span id="person-email" itemprop="email">
-    fregu856@gmail.com | fredrik.gustafsson@it.uu.se
+    fregu856@gmail.com | fredrik.gustafsson@ki.se
     </span>
   </li>
 
