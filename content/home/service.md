@@ -22,6 +22,7 @@ weight = 65
 * [ICLR 2024](https://iclr.cc/Conferences/2024) | 5 Papers
 * [BRAVO Workshop at ICCV 2023](https://valeoai.github.io/bravo/) | 1 Paper
 * [NeurIPS 2023](https://nips.cc/Conferences/2023) | 6 Papers
+  * Recognized as one of the [top reviewers](https://nips.cc/Conferences/2023/ProgramCommittee#top-reivewers).
 * [BMVC 2023](https://bmvc2023.org/) | 5 Papers
 * [ICCV 2023](https://iccv2023.thecvf.com/) | 4 Papers
 * [AISTATS 2023](http://aistats.org/aistats2023/) | 3 Papers

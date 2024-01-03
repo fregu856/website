@@ -49,8 +49,8 @@ url_project = ""
 url_video_90sec = ""
 url_slides_90sec = ""
 url_video = ""
-url_slides = ""
-url_poster = ""
+url_slides = "/files/aistats2022_slides.pdf"
+url_poster = "/files/aistats2022_poster.pdf"
 url_source = ""
 
 # Custom links (optional).

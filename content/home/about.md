@@ -57,7 +57,7 @@ Click [here](/post/news) for older news. -->
 
 
 
-I am a postdoctoral researcher in the group of [Mattias Rantalainen](https://ki.se/en/people/mattias-rantalainen) at [Karolinska Institutet](https://ki.se/en) in Stockholm, working on **machine learning** and **computer vision** for **computational pathology**. My research focuses on how to build and evaluate _reliable machine learning_ models for _safe data-driven medicine_.
+I am a postdoctoral researcher in the group of [Mattias Rantalainen](https://ki.se/en/people/mattias-rantalainen) at [Karolinska Institutet](https://ki.se/en) in Stockholm, working on **machine learning** and **computer vision** for **computational pathology**. My research focuses on how to build and evaluate _reliable machine learning_ models for _safe data-driven medicine_. It has often included regression problems, uncertainty estimation methods or energy-based models.
 
 I received my BSc in _Applied Physics and Electrical Engineering_ in 2016 and my MSc in _Electrical Engineering_ in 2018, both from [Linköping University](https://liu.se/en). During my MSc, I also spent one year as a graduate exchange student at [Stanford University](https://www.stanford.edu/"). I received my PhD in _Machine Learning_ in 2023 from [Uppsala University](http://www.uu.se/en) for the thesis [_Towards Accurate and Reliable Deep Regression Models_](/publication/thesis/). During my PhD, I was supervised by [Thomas Schön](http://user.it.uu.se/~thosc112/) and [Martin Danelljan](https://martin-danelljan.github.io/).
 
@@ -66,7 +66,9 @@ I received my BSc in _Applied Physics and Electrical Engineering_ in 2016 and my
 
 - <b>[Dec 8, 2023]</b> I have joined the group of [Mattias Rantalainen](https://ki.se/en/people/mattias-rantalainen) at [Karolinska Institutet](https://ki.se/en) as a postdoc to work on computational pathology.
 
-- <b>[Nov 30, 2023]</b> I have successfully defended my PhD thesis _Towards Accurate and Reliable Deep Regression Models_ [[pdf]](/files/thesis.pdf) [[DiVA]](https://urn.kb.se/resolve?urn=urn:nbn:se:uu:diva-513727) [[slides]](/files/defense_slides_handout.pdf).
+- <b>[Nov 30, 2023]</b> I have successfully defended my PhD thesis _Towards Accurate and Reliable Deep Regression Models_ [[pdf]](/files/thesis.pdf) [[DiVA]](https://urn.kb.se/resolve?urn=urn:nbn:se:uu:diva-513727) [[slides]](/files/defense_slides_handout.pdf) [[video]](https://youtu.be/tkmi-b48VMY?si=6ETZoBJLEm5dMfIl).
+
+- <b>[Oct 31, 2023]</b> Invited talk: I presented _How Reliable is Your Regression Model's Uncertainty Under Real-World Distribution Shifts?_ [[slides]](/files/talk_231031_slides.pdf) at the [DFKI Augmented Vision Workshop](https://www.dfki.de/en/web/research/research-departments/augmented-vision).
 
 - <b>[Oct 2, 2023]</b> <b>New preprint:</b> <i>Controlling Vision-Language Models for Universal Image Restoration</i> [[arXiv]](https://arxiv.org/abs/2310.01018) [[code]](https://github.com/Algolzw/daclip-uir) [[project]](https://algolzw.github.io/daclip-uir/).
 
@@ -77,7 +79,5 @@ I received my BSc in _Applied Physics and Electrical Engineering_ in 2016 and my
 - <b>[Apr 25, 2023]</b> <b>Accepted paper:</b> [_Image Restoration with Mean-Reverting Stochastic Differential Equations_](/publication/ir_sde/) has been accepted to [ICML 2023](https://icml.cc/Conferences/2023).
 
 - <b>[Apr 18, 2023]</b> <b>Accepted paper:</b> [_Refusion: Enabling Large-Size Realistic Image Restoration with Latent-Space Diffusion Models_](/publication/refusion/) has been accepted to [CVPR Workshops 2023](https://cvlai.net/ntire/2023/).
-
-- <b>[Mar 16, 2023]</b> Today I presented _Some Advice for New (and Old?) PhD Students_ [[slides]](/files/phd_advice_slides.pdf) at our weekly [division](https://www.it.uu.se/about_us/divisions/systems_and_control) meeting.
 
 Click [here](/post/news) for older news.
