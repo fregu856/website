@@ -64,20 +64,20 @@ I received my BSc in _Applied Physics and Electrical Engineering_ in 2016 and my
 
 ### News
 
+- <b>[Jan 29, 2024]</b> New blog post: [_My Year of Reading in 2023_](/post/year_of_reading_2023/).
+
+- <b>[Jan 16, 2024]</b> <b>Accepted paper:</b> [_Controlling Vision-Language Models for Multi-Task Image Restoration_](/publication/da_clip/), work lead by the incredibly skilled [Ziwei Luo](https://algolzw.github.io/), has been accepted to [ICLR 2024](https://iclr.cc/Conferences/2024).
+
 - <b>[Dec 8, 2023]</b> I have joined the group of [Mattias Rantalainen](https://ki.se/en/people/mattias-rantalainen) at [Karolinska Institutet](https://ki.se/en) as a postdoc to work on computational pathology.
 
 - <b>[Nov 30, 2023]</b> I have successfully defended my PhD thesis _Towards Accurate and Reliable Deep Regression Models_ [[pdf]](/files/thesis.pdf) [[DiVA]](https://urn.kb.se/resolve?urn=urn:nbn:se:uu:diva-513727) [[slides]](/files/defense_slides_handout.pdf) [[video]](https://youtu.be/tkmi-b48VMY?si=6ETZoBJLEm5dMfIl).
 
 - <b>[Oct 31, 2023]</b> Invited talk: I presented _How Reliable is Your Regression Model's Uncertainty Under Real-World Distribution Shifts?_ [[slides]](/files/talk_231031_slides.pdf) at the [DFKI Augmented Vision Workshop](https://www.dfki.de/en/web/research/research-departments/augmented-vision).
 
-- <b>[Oct 2, 2023]</b> <b>New preprint:</b> <i>Controlling Vision-Language Models for Universal Image Restoration</i> [[arXiv]](https://arxiv.org/abs/2310.01018) [[code]](https://github.com/Algolzw/daclip-uir) [[project]](https://algolzw.github.io/daclip-uir/).
+- <b>[Oct 2, 2023]</b> <b>New preprint:</b> <i>Controlling Vision-Language Models for Multi-Task Image Restoration</i> [[arXiv]](https://arxiv.org/abs/2310.01018) [[code]](https://github.com/Algolzw/daclip-uir) [[project]](https://algolzw.github.io/daclip-uir/).
 
 - <b>[Jun 28, 2023]</b> <b>Accepted paper:</b> [_How Reliable is Your Regression Model's Uncertainty Under Real-World Distribution Shifts?_](/publication/regression_uncertainty/) has been accepted to [TMLR](https://jmlr.org/tmlr/).
 
 - <b>[Jun 22, 2023]</b> New blog post: [_The How and Why of Reading 300 Papers in 5 Years_](/post/phd_of_reading/).
-
-- <b>[Apr 25, 2023]</b> <b>Accepted paper:</b> [_Image Restoration with Mean-Reverting Stochastic Differential Equations_](/publication/ir_sde/) has been accepted to [ICML 2023](https://icml.cc/Conferences/2023).
-
-- <b>[Apr 18, 2023]</b> <b>Accepted paper:</b> [_Refusion: Enabling Large-Size Realistic Image Restoration with Latent-Space Diffusion Models_](/publication/refusion/) has been accepted to [CVPR Workshops 2023](https://cvlai.net/ntire/2023/).
 
 Click [here](/post/news) for older news.

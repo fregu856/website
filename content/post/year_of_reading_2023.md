@@ -1,37 +1,42 @@
 +++
-# Custom widget.
-# An example of using the custom widget to create your own homepage section.
-# To create more sections, duplicate this file and edit the values below as desired.
-widget = "andmeteadus"
-active = true
-date = "2016-04-20T00:00:00"
+title = "My Year of Reading in 2023"
 
-# Note: a full width section format can be enabled by commenting out the `title` and `subtitle` with a `#`.
-title = "Reading"
-subtitle = ""
+date = 2024-01-29T00:00:00
+lastmod = 2024-01-29T00:00:00
+draft = false
+math = true
 
-# Order that this section will appear in.
-weight = 75
+# Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
+authors = []
+
+tags = []
+summary = "In 2023, I read 87 papers and 26 non-technical books. 87 papers is slightly more than my previous record (82 papers in 2022), and I've never even been remotely close to reading 26 books in a year. Deciding to read more books is definitely..."
+
+[header]
+image = ""
+caption = ""
+#image_preview = "1d_regression.png"
+image_preview = "year_of_reading_2023/papers_read_each_year.png"
+#small_image = "phd_of_reading/cover_image_orig.png" # (header image the same size as the article)
+#video="https://www.youtube.com/embed/5G4cmSh4s-4?enablejsapi=1&version=3&playerapiid=ytplayer" # (like small_image, but with an embedded youtube video instead)
 
 +++
 
+In 2023, I read 87 papers and 26 non-technical books. 87 papers is slightly more than my previous record (82 papers in 2022), and I've never even been remotely close to reading 26 books in a year. Deciding to read more books is definitely one of the best things I did in 2023, it's a great way to relax and learn some new things about the world.
 
-### Papers
-
-<!-- I categorize, annotate and write comments for all research papers I read, and share this publicly on [GitHub](https://github.com/fregu856/papers) (220+ papers since 2018). Feel free to reach out with any questions or suggested readings, I am always interested in learning about new methods and ideas. -->
-I categorize, annotate and write comments for all research papers I read, and share this publicly on [GitHub](https://github.com/fregu856/papers) (330+ papers since September 2018). Feel free to reach out with any questions or suggested reading. In June 2023, I also wrote the blog post [_The How and Why of Reading 300 Papers in 5 Years_](/post/phd_of_reading/) about this.
-
-From 2018 to 2023, I organized the [SysCon machine learning reading group](https://www.it.uu.se/about_us/divisions/systems_and_control/activities/mlreadinggroup).
+In 2024, I want to read at least 100 papers and 12 non-technical books.
 
 
+Some more detailed statistics of my read papers (number of papers read each year, papers by publication year, papers by venue, papers by category):
+
+![Papers read each year](/img/year_of_reading_2023/papers_read_each_year.svg)
+![Papers by publication year](/img/year_of_reading_2023/papers_by_publication_year.svg)
+![Papers by venue](/img/year_of_reading_2023/papers_by_venue.svg)
+![Papers by category](/img/year_of_reading_2023/papers_by_category.svg)
 
 
-### Books
-<!-- I have also become quite interested in philosophy (mainly ethics and political philosophy), and have read the following books: -->
-I have also started to really enjoy reading non-technical books, e.g. about ethics and political philosophy. Since late 2022, I have read the following books:
+The 26 non-technical books I read in 2023:
 
-* 24-01-27 | [Inseparable](https://www.goodreads.com/book/show/56197486-inseparable) | _**Simone de Beauvoir**_ | Rating: 4
-* 24-01-22 | [1984](https://www.goodreads.com/book/show/61439040-1984) | _**George Orwell**_ | Rating: 4
 * 23-10-25 | [The Plague](https://www.goodreads.com/book/show/11989.The_Plague) | _**Albert Camus**_ | Rating: 4
 * 23-10-23 | [Animal Farm](https://www.goodreads.com/book/show/170448.Animal_Farm) | _**George Orwell**_ | Rating: 4
 * 23-10-11 | [The Stranger](https://www.goodreads.com/book/show/49552.The_Stranger) | _**Albert Camus**_ | Rating: 3.5
@@ -58,6 +63,12 @@ I have also started to really enjoy reading non-technical books, e.g. about ethi
 * 23-01-11 | [Liberalism](https://www.goodreads.com/book/show/17206336-liberalism) | _**Lena Halldenius**_ | Rating: 4.5
 * 23-01-04 | [Grundbok i metaetik](https://www.goodreads.com/book/show/59757676-grundbok-i-metaetik) _(Introduction to Metaethics)_ | _**Nils Franzén, Victor Moberger, Olle Risberg**_ | Rating: 3.5
 * 23-01-03 | [The Moral Philosophers: An Introduction to Ethics](https://www.goodreads.com/book/show/2120675.The_Moral_Philosophers) | _**Richard Norman**_ | Rating: 3
-* 22-11-26 | [Ethics in Engineering](https://www.goodreads.com/book/show/50680935-ethics-in-engineering) | _**Thomas Taro Lennerfors**_ | Rating: 3
 
-29 books in total.
+
+Among the 26 books, these are my top 5 favorites (in alphabetical order):
+
+* [Animal Farm](https://www.goodreads.com/book/show/170448.Animal_Farm) | _**George Orwell**_ | Rating: 4
+* [Liberalism](https://www.goodreads.com/book/show/17206336-liberalism) | _**Lena Halldenius**_ | Rating: 4.5
+* [Memoirs of a Dutiful Daughter](https://www.goodreads.com/book/show/164006.Memoirs_of_a_Dutiful_Daughter) | _**Simone de Beauvoir**_ | Rating: 4
+* [The Trial](https://www.goodreads.com/book/show/17690.The_Trial) | _**Franz Kafka**_ | Rating: 4
+* [Tills alla dör](https://www.goodreads.com/book/show/57761906-tills-alla-d-r) | _**Diamant Salihu**_ | Rating: 4.5
