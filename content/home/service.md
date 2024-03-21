@@ -17,7 +17,7 @@ weight = 65
 
 ### Reviewing
 
-* [ICML 2024](https://icml.cc/Conferences/2024) | Upcoming
+* [ICML 2024](https://icml.cc/Conferences/2024) | 6 Papers
 * [AISTATS 2024](http://aistats.org/aistats2024/) | 5 Papers
 * [ICLR 2024](https://iclr.cc/Conferences/2024) | 5 Papers
 * [BRAVO Workshop at ICCV 2023](https://valeoai.github.io/bravo/) | 1 Paper
@@ -38,4 +38,4 @@ weight = 65
 * [BMVC 2020](https://www.bmvc2020-conference.com/) | 1 Paper
 * [IFAC World Congress 2020](https://www.ifac2020.org/) | 2 Papers
 
-74 papers in total.
+80 papers in total.

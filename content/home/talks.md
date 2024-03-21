@@ -18,8 +18,8 @@ weight = 66
 ### Invited Talks
 
 * **How Reliable is Your Regression Model's Uncertainty Under Real-World Distribution Shifts?**\
-[RISE Learning Machines Seminars](https://www.ri.se/en/learningmachinesseminars) | _Online_\
-March 21, 2024 (Upcoming)
+[RISE Learning Machines Seminars](https://www.ri.se/en/learningmachinesseminars) | _Online_ | [[slides]](/files/talk_240321_slides_handout.pdf)\
+March 21, 2024
 
 * **How Reliable is Your Regression Model's Uncertainty Under Real-World Distribution Shifts?**\
 [DFKI Augmented Vision Workshop](https://www.dfki.de/en/web/research/research-departments/augmented-vision) | _Online_ | [[slides]](/files/talk_231031_slides.pdf)\

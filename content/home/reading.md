@@ -19,7 +19,7 @@ weight = 75
 ### Papers
 
 <!-- I categorize, annotate and write comments for all research papers I read, and share this publicly on [GitHub](https://github.com/fregu856/papers) (220+ papers since 2018). Feel free to reach out with any questions or suggested readings, I am always interested in learning about new methods and ideas. -->
-I categorize, annotate and write comments for all research papers I read, and share this publicly on [GitHub](https://github.com/fregu856/papers) (330+ papers since September 2018). Feel free to reach out with any questions or suggested reading. In June 2023, I also wrote the blog post [_The How and Why of Reading 300 Papers in 5 Years_](/post/phd_of_reading/) about this.
+I categorize, annotate and write comments for all research papers I read, and share this publicly on [GitHub](https://github.com/fregu856/papers) (380+ papers since September 2018). Feel free to reach out with any questions or suggested reading. In June 2023, I also wrote the blog post [_The How and Why of Reading 300 Papers in 5 Years_](/post/phd_of_reading/) about this.
 
 From 2018 to 2023, I organized the [SysCon machine learning reading group](https://www.it.uu.se/about_us/divisions/systems_and_control/activities/mlreadinggroup).
 
@@ -30,6 +30,7 @@ From 2018 to 2023, I organized the [SysCon machine learning reading group](https
 <!-- I have also become quite interested in philosophy (mainly ethics and political philosophy), and have read the following books: -->
 I have also started to really enjoy reading non-technical books, e.g. about ethics and political philosophy. Since late 2022, I have read the following books:
 
+* 24-02-02 | [Löparens hjärta](https://www.goodreads.com/book/show/25251914-l-parens-hj-rta) | _**Markus Torgeby**_ | Rating: 4
 * 24-01-27 | [Inseparable](https://www.goodreads.com/book/show/56197486-inseparable) | _**Simone de Beauvoir**_ | Rating: 4
 * 24-01-22 | [1984](https://www.goodreads.com/book/show/61439040-1984) | _**George Orwell**_ | Rating: 4
 * 23-10-25 | [The Plague](https://www.goodreads.com/book/show/11989.The_Plague) | _**Albert Camus**_ | Rating: 4
@@ -60,4 +61,4 @@ I have also started to really enjoy reading non-technical books, e.g. about ethi
 * 23-01-03 | [The Moral Philosophers: An Introduction to Ethics](https://www.goodreads.com/book/show/2120675.The_Moral_Philosophers) | _**Richard Norman**_ | Rating: 3
 * 22-11-26 | [Ethics in Engineering](https://www.goodreads.com/book/show/50680935-ethics-in-engineering) | _**Thomas Taro Lennerfors**_ | Rating: 3
 
-29 books in total.
+30 books in total.
