@@ -64,6 +64,10 @@ I received my BSc in _Applied Physics and Electrical Engineering_ in 2016 and my
 
 ### News
 
+- <b>[Apr 15, 2024]</b> <b>Accepted paper:</b> [_Photo-Realistic Image Restoration in the Wild with Controlled Vision-Language Models_](/publication/daclip-ir/) has been accepted to [CVPR Workshops 2024](https://cvlai.net/ntire/2024/). This is follow-up work on our ICLR [paper](/publication/da_clip/), once again lead by [Ziwei Luo](https://algolzw.github.io/).
+
+- <b>[Mar 21, 2024]</b> Invited talk: I presented _How Reliable is Your Regression Model's Uncertainty Under Real-World Distribution Shifts?_ [[slides]](/files/talk_240321_slides_handout.pdf) [[video]](https://youtu.be/QGGP1zsq7Sc?si=-ZznIv-2Td6kAma3) at the [RISE Learning Machines Seminars](https://www.ri.se/en/learningmachinesseminars).
+
 - <b>[Jan 29, 2024]</b> New blog post: [_My Year of Reading in 2023_](/post/year_of_reading_2023/).
 
 - <b>[Jan 16, 2024]</b> <b>Accepted paper:</b> [_Controlling Vision-Language Models for Multi-Task Image Restoration_](/publication/da_clip/), work lead by the incredibly skilled [Ziwei Luo](https://algolzw.github.io/), has been accepted to [ICLR 2024](https://iclr.cc/Conferences/2024).
@@ -75,9 +79,5 @@ I received my BSc in _Applied Physics and Electrical Engineering_ in 2016 and my
 - <b>[Oct 31, 2023]</b> Invited talk: I presented _How Reliable is Your Regression Model's Uncertainty Under Real-World Distribution Shifts?_ [[slides]](/files/talk_231031_slides.pdf) at the [DFKI Augmented Vision Workshop](https://www.dfki.de/en/web/research/research-departments/augmented-vision).
 
 - <b>[Oct 2, 2023]</b> <b>New preprint:</b> <i>Controlling Vision-Language Models for Multi-Task Image Restoration</i> [[arXiv]](https://arxiv.org/abs/2310.01018) [[code]](https://github.com/Algolzw/daclip-uir) [[project]](https://algolzw.github.io/daclip-uir/).
-
-- <b>[Jun 28, 2023]</b> <b>Accepted paper:</b> [_How Reliable is Your Regression Model's Uncertainty Under Real-World Distribution Shifts?_](/publication/regression_uncertainty/) has been accepted to [TMLR](https://jmlr.org/tmlr/).
-
-- <b>[Jun 22, 2023]</b> New blog post: [_The How and Why of Reading 300 Papers in 5 Years_](/post/phd_of_reading/).
 
 Click [here](/post/news) for older news.

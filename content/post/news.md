@@ -20,6 +20,10 @@ image_preview = ""
 
 +++
 
+- <b>[Apr 15, 2024]</b> <b>Accepted paper:</b> [_Photo-Realistic Image Restoration in the Wild with Controlled Vision-Language Models_](/publication/daclip-ir/) has been accepted to [CVPR Workshops 2024](https://cvlai.net/ntire/2024/). This is follow-up work on our ICLR [paper](/publication/da_clip/), once again lead by [Ziwei Luo](https://algolzw.github.io/).
+
+- <b>[Mar 21, 2024]</b> Invited talk: I presented _How Reliable is Your Regression Model's Uncertainty Under Real-World Distribution Shifts?_ [[slides]](/files/talk_240321_slides_handout.pdf) [[video]](https://youtu.be/QGGP1zsq7Sc?si=-ZznIv-2Td6kAma3) at the [RISE Learning Machines Seminars](https://www.ri.se/en/learningmachinesseminars).
+
 - <b>[Jan 29, 2024]</b> New blog post: [_My Year of Reading in 2023_](/post/year_of_reading_2023/).
 
 - <b>[Jan 16, 2024]</b> <b>Accepted paper:</b> [_Controlling Vision-Language Models for Multi-Task Image Restoration_](/publication/da_clip/), work lead by the incredibly skilled [Ziwei Luo](https://algolzw.github.io/), has been accepted to [ICLR 2024](https://iclr.cc/Conferences/2024).
