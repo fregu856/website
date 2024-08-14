@@ -3,7 +3,7 @@ title = "Deep Energy-Based NARX Models"
 date = "2020-12-09"
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["Johannes Hendriks", "**Fredrik K. Gustafsson**", "Antônio Ribeiro", "Adrian Wills", "Thomas B. Schön"]
+authors = ["Johannes Hendriks", "**Fredrik K. Gustafsson**", "Antônio H. Ribeiro", "Adrian Wills", "Thomas B. Schön"]
 
 # Publication type.
 # Legend:

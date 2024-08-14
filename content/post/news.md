@@ -20,6 +20,8 @@ image_preview = ""
 
 +++
 
+- <b>[Jul 3, 2024]</b> <b>Accepted paper:</b> [_Evaluating Regression and Probabilistic Methods for ECG-Based Electrolyte Prediction_](/publication/regressionecg/), work lead together with [Philipp Von Bachmann](https://de.linkedin.com/in/philipp-vonbachmann) and [Daniel Gedon](https://dgedon.github.io/), has been published in [Scientific Reports](https://www.nature.com/srep/).
+
 - <b>[Apr 15, 2024]</b> <b>Accepted paper:</b> [_Photo-Realistic Image Restoration in the Wild with Controlled Vision-Language Models_](/publication/daclip-ir/) has been accepted to [CVPR Workshops 2024](https://cvlai.net/ntire/2024/). This is follow-up work on our ICLR [paper](/publication/da_clip/), once again lead by [Ziwei Luo](https://algolzw.github.io/).
 
 - <b>[Mar 21, 2024]</b> Invited talk: I presented _How Reliable is Your Regression Model's Uncertainty Under Real-World Distribution Shifts?_ [[slides]](/files/talk_240321_slides_handout.pdf) [[video]](https://youtu.be/QGGP1zsq7Sc?si=-ZznIv-2Td6kAma3) at the [RISE Learning Machines Seminars](https://www.ri.se/en/learningmachinesseminars).

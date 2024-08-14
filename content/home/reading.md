@@ -19,7 +19,7 @@ weight = 75
 ### Papers
 
 <!-- I categorize, annotate and write comments for all research papers I read, and share this publicly on [GitHub](https://github.com/fregu856/papers) (220+ papers since 2018). Feel free to reach out with any questions or suggested readings, I am always interested in learning about new methods and ideas. -->
-I categorize, annotate and write comments for all research papers I read, and share this publicly on [GitHub](https://github.com/fregu856/papers) (380+ papers since September 2018). Feel free to reach out with any questions or suggested reading. In June 2023, I also wrote the blog post [_The How and Why of Reading 300 Papers in 5 Years_](/post/phd_of_reading/) about this.
+I categorize, annotate and write comments for all research papers I read, and share this publicly on [GitHub](https://github.com/fregu856/papers) (410+ papers since September 2018). Feel free to reach out with any questions or suggested reading. In June 2023, I also wrote the blog post [_The How and Why of Reading 300 Papers in 5 Years_](/post/phd_of_reading/) about this.
 
 From 2018 to 2023, I organized the [SysCon machine learning reading group](https://www.it.uu.se/about_us/divisions/systems_and_control/activities/mlreadinggroup).
 
@@ -28,8 +28,16 @@ From 2018 to 2023, I organized the [SysCon machine learning reading group](https
 
 ### Books
 <!-- I have also become quite interested in philosophy (mainly ethics and political philosophy), and have read the following books: -->
-I have also started to really enjoy reading non-technical books, e.g. about ethics and political philosophy. Since late 2022, I have read the following books:
+I have also started to really enjoy reading various non-technical book. Since late 2022, I have read the following books:
 
+* 24-08-10 | [The World of Yesterday](https://www.goodreads.com/book/show/629429.The_World_of_Yesterday) | _**Stefan Zweig**_ | Rating: 3.5
+* 24-07-30 | [En tysk mans historia](https://www.goodreads.com/book/show/25004547-en-tysk-mans-historia-minnen-1914-1933) | _**Sebastian Haffner**_ | Rating: 4
+* 24-07-19 | [Denna dagen, ett liv - En biografi över Astrid Lindgren](https://www.goodreads.com/book/show/23480268-denne-dag-et-liv) | _**Jens Andersen**_ | Rating: 4
+* 24-07-10 | [The Woman Destroyed](https://www.goodreads.com/book/show/40144034-den-brutna-kvinnan) | _**Simone de Beauvoir**_ | Rating: 4
+* 24-07-08 | [Notes from Underground](https://www.goodreads.com/book/show/49455.Notes_from_Underground) | _**Fyodor Dostoevsky**_ | Rating: 3
+* 24-07-06 | [White Nights](https://www.goodreads.com/book/show/1772910.White_Nights) | _**Fyodor Dostoevsky**_ | Rating: 2.5
+* 24-07-04 | [Det går an](https://www.goodreads.com/book/show/3892118-det-g-r-an) | _**Carl Jonas Love Almqvist**_ | Rating: 3.5
+* 24-06-01 | [The Old Man and the Sea](https://www.goodreads.com/book/show/2165.The_Old_Man_and_the_Sea) | _**Ernest Hemingway**_ | Rating: 3
 * 24-04-12 | [Down and Out in Paris and London](https://www.goodreads.com/book/show/393199.Down_and_Out_in_Paris_and_London) | _**George Orwell**_ | Rating: 3
 * 24-02-02 | [Löparens hjärta](https://www.goodreads.com/book/show/25251914-l-parens-hj-rta) | _**Markus Torgeby**_ | Rating: 4
 * 24-01-27 | [Inseparable](https://www.goodreads.com/book/show/56197486-inseparable) | _**Simone de Beauvoir**_ | Rating: 4
@@ -62,4 +70,4 @@ I have also started to really enjoy reading non-technical books, e.g. about ethi
 * 23-01-03 | [The Moral Philosophers: An Introduction to Ethics](https://www.goodreads.com/book/show/2120675.The_Moral_Philosophers) | _**Richard Norman**_ | Rating: 3
 * 22-11-26 | [Ethics in Engineering](https://www.goodreads.com/book/show/50680935-ethics-in-engineering) | _**Thomas Taro Lennerfors**_ | Rating: 3
 
-31 books in total.
+39 books in total.
