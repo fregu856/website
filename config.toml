@@ -358,10 +358,15 @@ defaultContentLanguageInSubdir = false
   url = "#service"
   weight = 4
 
-  [[menu.main]]
-    name = "Talks"
-    url = "#talks"
-    weight = 5
+[[menu.main]]
+  name = "Talks"
+  url = "#talks"
+  weight = 5
+
+[[menu.main]]
+  name = "Network"
+  url = "#network"
+  weight = 6
 
 # [[menu.main]]
 #   name = "Coursework"
