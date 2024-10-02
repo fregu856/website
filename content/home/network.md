@@ -21,6 +21,10 @@ weight = 67
 Co-supervisor, since Feb 2024\
 Main supervisor: [Thomas Schön](https://user.it.uu.se/~thosc112/), other co-supervisor: [Jens Sjölund](https://jsjol.github.io/)
 
+* [Erik Thiringer](https://www.linkedin.com/in/erik-thiringer-992a5816b/) | MSc Thesis student at Karolinska Institutet\
+Co-supervisor, since Sep 2024\
+Main supervisor: [Mattias Rantalainen](https://ki.se/en/people/mattias-rantalainen)
+
 
 
 
@@ -28,20 +32,20 @@ Main supervisor: [Thomas Schön](https://user.it.uu.se/~thosc112/), other co-sup
 
 ### Co-authors
 
-* [Thomas Schön](https://user.it.uu.se/~thosc112/) | Professor at Uppsala University | _12 papers_\
+* [Thomas Schön](https://user.it.uu.se/~thosc112/) | Professor at Uppsala University | _13 papers_\
 _Years with papers: 2024, 2023, 2022, 2021, 2020_
 * [Martin Danelljan](https://martin-danelljan.github.io/) | Senior Research Engineer at Apple | _6 papers_\
 _Years with papers: 2023, 2022, 2021, 2020_
-* [Ziwei Luo](https://algolzw.github.io/) | PhD student at Uppsala University | _4 papers_\
+* [Ziwei Luo](https://algolzw.github.io/) | PhD student at Uppsala University | _5 papers_\
 _Years with papers: 2024, 2023_
-* [Zheng Zhao](https://zz.zabemon.com/) | Postdoc at Uppsala University | _4 papers_\
+* [Zheng Zhao](https://zz.zabemon.com/) | Assistant professor at Linköping University | _5 papers_\
 _Years with papers: 2024, 2023_
-* [Jens Sjölund](https://jsjol.github.io/) | Assistant professor at Uppsala University | _4 papers_\
+* [Jens Sjölund](https://jsjol.github.io/) | Assistant professor at Uppsala University | _5 papers_\
 _Years with papers: 2024, 2023_
 * [Antônio H. Ribeiro](https://antonior92.github.io/) | Assistant professor at Uppsala University | _2 papers_\
 _Years with papers: 2024, 2021_
 
-(_Minimum 2 papers, updated 2024-08-16_)
+(_Minimum 2 papers, updated 2024-10-02_)
 
 
 

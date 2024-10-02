@@ -74,13 +74,15 @@ I received my BSc in _Applied Physics and Electrical Engineering_ in 2016 and my
 
 
 
-I am a postdoctoral researcher in the group of [Mattias Rantalainen](https://ki.se/en/people/mattias-rantalainen) at [Karolinska Institutet](https://ki.se/en) in Stockholm, working on **machine learning** and **computer vision** for **computational pathology**. My research focuses on how to build _reliable machine learning_ models for _data-driven medicine and healthcare_. It has often included regression problems, uncertainty estimation methods or energy-based models.
+I am a postdoctoral researcher in the group of [Mattias Rantalainen](https://ki.se/en/people/mattias-rantalainen) at [Karolinska Institutet](https://ki.se/en) in Stockholm, working on **machine learning** and **computer vision** for **computational pathology**. My research focuses on how to build and evaluate _reliable machine learning_ models, for applications within _data-driven medicine and healthcare_. It has often included regression problems, uncertainty estimation methods or energy-based models.
 
 I received my BSc in _Applied Physics and Electrical Engineering_ in 2016 and my MSc in _Electrical Engineering_ in 2018, both from [Linköping University](https://liu.se/en). During my MSc, I also spent one year as an exchange student at [Stanford University](https://www.stanford.edu/). I received my PhD in _Machine Learning_ in 2023 from [Uppsala University](http://www.uu.se/en) for the thesis [_Towards Accurate and Reliable Deep Regression Models_](/publication/thesis/). During my PhD, I was supervised by [Thomas Schön](http://user.it.uu.se/~thosc112/) and [Martin Danelljan](https://martin-danelljan.github.io/). I am originally from [Trollhättan](https://en.wikipedia.org/wiki/Trollh%C3%A4ttan), Sweden.
 
 
 
 ### News
+
+- <b>[Sep 16, 2024]</b> <b>New preprint:</b> <i>Taming Diffusion Models for Image Restoration: A Review</i> [[arXiv]](https://arxiv.org/abs/2409.10353) [[project]](/publication/diff_ir_review/), work lead by [Ziwei Luo](https://algolzw.github.io/).
 
 - <b>[Jul 3, 2024]</b> <b>Accepted paper:</b> [_Evaluating Regression and Probabilistic Methods for ECG-Based Electrolyte Prediction_](/publication/regressionecg/), work lead together with [Philipp Von Bachmann](https://de.linkedin.com/in/philipp-vonbachmann) and [Daniel Gedon](https://dgedon.github.io/), has been published in [Scientific Reports](https://www.nature.com/srep/).
 
@@ -95,7 +97,5 @@ I received my BSc in _Applied Physics and Electrical Engineering_ in 2016 and my
 - <b>[Jan 16, 2024]</b> <b>Accepted paper:</b> [_Controlling Vision-Language Models for Multi-Task Image Restoration_](/publication/da_clip/), work lead by the incredibly skilled [Ziwei Luo](https://algolzw.github.io/), has been accepted to [ICLR 2024](https://iclr.cc/Conferences/2024).
 
 - <b>[Dec 8, 2023]</b> I have joined the group of [Mattias Rantalainen](https://ki.se/en/people/mattias-rantalainen) at [Karolinska Institutet](https://ki.se/en) as a postdoc to work on computational pathology.
-
-- <b>[Nov 30, 2023]</b> I have successfully defended my PhD thesis _Towards Accurate and Reliable Deep Regression Models_ [[pdf]](/files/thesis.pdf) [[DiVA]](https://urn.kb.se/resolve?urn=urn:nbn:se:uu:diva-513727) [[slides]](/files/defense_slides_handout.pdf) [[video]](https://youtu.be/tkmi-b48VMY?si=6ETZoBJLEm5dMfIl).
 
 Click [here](/post/news) for older news.

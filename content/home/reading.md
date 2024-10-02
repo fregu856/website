@@ -28,8 +28,11 @@ From 2018 to 2023, I organized the [SysCon machine learning reading group](https
 
 ### Books
 <!-- I have also become quite interested in philosophy (mainly ethics and political philosophy), and have read the following books: -->
-I have also started to really enjoy reading various non-technical book. Since late 2022, I have read the following books:
+I have also started to really enjoy reading various non-technical book. Since late 2022, I have read the following books (I'm also on [Goodreads](https://www.goodreads.com/user/show/167840381-fredrik-gustafsson)):
 
+* 24-09-21 | [Mina drömmars stad](https://www.goodreads.com/book/show/1696078.Mina_dr_mmars_stad) | _**Per Anders Fogelström**_ | Rating: 4
+* 24-08-31 | [Amok](https://www.goodreads.com/book/show/28186038-amok) | _**Stefan Zweig**_ | Rating: 4
+* 24-08-17 | [The Choice: Embrace the Possible](https://www.goodreads.com/book/show/30753738-the-choice) | _**Edith Eger**_ | Rating: 3.5
 * 24-08-10 | [The World of Yesterday](https://www.goodreads.com/book/show/629429.The_World_of_Yesterday) | _**Stefan Zweig**_ | Rating: 3.5
 * 24-07-30 | [En tysk mans historia](https://www.goodreads.com/book/show/25004547-en-tysk-mans-historia-minnen-1914-1933) | _**Sebastian Haffner**_ | Rating: 4
 * 24-07-19 | [Denna dagen, ett liv - En biografi över Astrid Lindgren](https://www.goodreads.com/book/show/23480268-denne-dag-et-liv) | _**Jens Andersen**_ | Rating: 4
@@ -70,4 +73,4 @@ I have also started to really enjoy reading various non-technical book. Since la
 * 23-01-03 | [The Moral Philosophers: An Introduction to Ethics](https://www.goodreads.com/book/show/2120675.The_Moral_Philosophers) | _**Richard Norman**_ | Rating: 3
 * 22-11-26 | [Ethics in Engineering](https://www.goodreads.com/book/show/50680935-ethics-in-engineering) | _**Thomas Taro Lennerfors**_ | Rating: 3
 
-39 books in total.
+42 books in total.

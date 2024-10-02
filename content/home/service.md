@@ -17,6 +17,7 @@ weight = 65
 
 ### Reviewing
 
+* [AISTATS 2025](https://aistats.org/aistats2025//) | (Upcoming)
 * [ICLR 2025](https://iclr.cc/Conferences/2025) | (Upcoming)
 * [NeurIPS 2024](https://nips.cc/Conferences/2024) | 6 Papers
 * [ICML 2024](https://icml.cc/Conferences/2024) | 6 Papers
