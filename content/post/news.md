@@ -20,9 +20,9 @@ image_preview = ""
 
 +++
 
-<!-- - <b>[Oct 3, 2024]</b> <b>New preprint:</b> <i>Evaluating Deep Regression Models for WSI-Based Gene-Expression Prediction</i> [[arXiv]](TODO!) [[project]](/publication/gene-exp/). -->
+- <b>[Oct 1, 2024]</b> New preprint: <i>Evaluating Deep Regression Models for WSI-Based Gene-Expression Prediction</i> [[arXiv]](https://arxiv.org/abs/2410.00945) [[project]](/publication/gene-exp/).
 
-- <b>[Sep 16, 2024]</b> <b>New preprint:</b> <i>Taming Diffusion Models for Image Restoration: A Review</i> [[arXiv]](https://arxiv.org/abs/2409.10353) [[project]](/publication/diff_ir_review/), work lead by [Ziwei Luo](https://algolzw.github.io/).
+- <b>[Sep 16, 2024]</b> New preprint: <i>Taming Diffusion Models for Image Restoration: A Review</i> [[arXiv]](https://arxiv.org/abs/2409.10353) [[project]](/publication/diff_ir_review/), work lead by [Ziwei Luo](https://algolzw.github.io/).
 
 - <b>[Jul 3, 2024]</b> <b>Accepted paper:</b> [_Evaluating Regression and Probabilistic Methods for ECG-Based Electrolyte Prediction_](/publication/regressionecg/), work lead together with [Philipp Von Bachmann](https://de.linkedin.com/in/philipp-vonbachmann) and [Daniel Gedon](https://dgedon.github.io/), has been published in [Scientific Reports](https://www.nature.com/srep/).
 

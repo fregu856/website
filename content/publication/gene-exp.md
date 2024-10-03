@@ -1,6 +1,6 @@
 +++
 title = "Evaluating Deep Regression Models for WSI-Based Gene-Expression Prediction"
-date = "2024-11-02"
+date = "2024-10-01"
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
 authors = ["**Fredrik K. Gustafsson**, Mattias Rantalainen"]
@@ -40,7 +40,7 @@ selected = true
 projects = []
 
 # Links (optional).
-url_arxiv = ""
+url_arxiv = "https://arxiv.org/abs/2410.00945"
 url_pdf = ""
 url_preprint = ""
 url_code = ""
