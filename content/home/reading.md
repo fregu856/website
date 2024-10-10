@@ -19,7 +19,7 @@ weight = 75
 ### Papers
 
 <!-- I categorize, annotate and write comments for all research papers I read, and share this publicly on [GitHub](https://github.com/fregu856/papers) (220+ papers since 2018). Feel free to reach out with any questions or suggested readings, I am always interested in learning about new methods and ideas. -->
-I categorize, annotate and write comments for all research papers I read, and share this publicly on [GitHub](https://github.com/fregu856/papers) (410+ papers since September 2018). Feel free to reach out with any questions or suggested reading. In June 2023, I also wrote the blog post [_The How and Why of Reading 300 Papers in 5 Years_](/post/phd_of_reading/) about this.
+I categorize, annotate and write comments for all research papers I read, and share this publicly on [GitHub](https://github.com/fregu856/papers) (430+ papers since September 2018). Feel free to reach out with any questions or suggested reading. In June 2023, I also wrote the blog post [_The How and Why of Reading 300 Papers in 5 Years_](/post/phd_of_reading/) about this.
 
 From 2018 to 2023, I organized the [SysCon machine learning reading group](https://www.it.uu.se/about_us/divisions/systems_and_control/activities/mlreadinggroup).
 

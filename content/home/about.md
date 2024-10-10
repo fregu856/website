@@ -82,6 +82,8 @@ I received my BSc in _Applied Physics and Electrical Engineering_ in 2016 and my
 
 ### News
 
+- <b>[Oct 10, 2024]</b> New preprint: <i>Evaluating Computational Pathology Foundation Models for Prostate Cancer Grading under Distribution Shifts</i> [[arXiv]](https://arxiv.org/abs/2410.06723) [[project]](/publication/cpath_fms_shifts/).
+
 - <b>[Oct 1, 2024]</b> New preprint: <i>Evaluating Deep Regression Models for WSI-Based Gene-Expression Prediction</i> [[arXiv]](https://arxiv.org/abs/2410.00945) [[project]](/publication/gene-exp/).
 
 - <b>[Sep 16, 2024]</b> New preprint: <i>Taming Diffusion Models for Image Restoration: A Review</i> [[arXiv]](https://arxiv.org/abs/2409.10353) [[project]](/publication/diff_ir_review/), work lead by [Ziwei Luo](https://algolzw.github.io/).
@@ -95,7 +97,5 @@ I received my BSc in _Applied Physics and Electrical Engineering_ in 2016 and my
 - <b>[Feb 12, 2024]</b> I am now officially co-advising [Ziwei Luo](https://algolzw.github.io/), PhD student at Uppsala University, together with [Thomas Schön](https://user.it.uu.se/~thosc112/) (main supervisor) and [Jens Sjölund](https://jsjol.github.io/).  
 
 - <b>[Jan 29, 2024]</b> New blog post: [_My Year of Reading in 2023_](/post/year_of_reading_2023/).
-
-- <b>[Jan 16, 2024]</b> <b>Accepted paper:</b> [_Controlling Vision-Language Models for Multi-Task Image Restoration_](/publication/da_clip/), work lead by the incredibly skilled [Ziwei Luo](https://algolzw.github.io/), has been accepted to [ICLR 2024](https://iclr.cc/Conferences/2024).
 
 Click [here](/post/news) for older news.

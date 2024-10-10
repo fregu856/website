@@ -42,10 +42,12 @@ _Years with papers: 2024, 2023_
 _Years with papers: 2024, 2023_
 * [Jens Sjölund](https://jsjol.github.io/) | Assistant professor at Uppsala University | _5 papers_\
 _Years with papers: 2024, 2023_
+* [Mattias Rantalainen](https://ki.se/en/people/mattias-rantalainen) | Associate professor, Karolinska Institutet | _2 papers_\
+_Years with papers: 2024_
 * [Antônio H. Ribeiro](https://antonior92.github.io/) | Assistant professor at Uppsala University | _2 papers_\
 _Years with papers: 2024, 2021_
 
-(_Minimum 2 papers, updated 2024-10-02_)
+(_Minimum 2 papers, updated 2024-10-07_)
 
 
 

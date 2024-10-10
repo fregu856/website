@@ -20,6 +20,8 @@ image_preview = ""
 
 +++
 
+- <b>[Oct 10, 2024]</b> New preprint: <i>Evaluating Computational Pathology Foundation Models for Prostate Cancer Grading under Distribution Shifts</i> [[arXiv]](https://arxiv.org/abs/2410.06723) [[project]](/publication/cpath_fms_shifts/).
+
 - <b>[Oct 1, 2024]</b> New preprint: <i>Evaluating Deep Regression Models for WSI-Based Gene-Expression Prediction</i> [[arXiv]](https://arxiv.org/abs/2410.00945) [[project]](/publication/gene-exp/).
 
 - <b>[Sep 16, 2024]</b> New preprint: <i>Taming Diffusion Models for Image Restoration: A Review</i> [[arXiv]](https://arxiv.org/abs/2409.10353) [[project]](/publication/diff_ir_review/), work lead by [Ziwei Luo](https://algolzw.github.io/).
