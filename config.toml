@@ -255,7 +255,7 @@ defaultContentLanguageInSubdir = false
   [[params.social]]
     icon = "file"
     icon_pack = "fa"
-    link = "/files/CV_Fredrik_K_Gustafsson_Oct24.pdf"
+    link = "/files/CV_Fredrik_K_Gustafsson_241013.pdf"
 
   [[params.social]]
     icon = "google-scholar"
