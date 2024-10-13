@@ -36,6 +36,23 @@ June 18, 2019
 
 
 
+
+
+### Contributed Talks
+
+* **On the Use and Evaluation of Computational Pathology Foundation Models for WSI-Based Prediction Tasks**\
+Scandinavian Seminar on Translational Pathology | _Uppsala, Sweden_ | (Upcoming)\
+November 23, 2024
+
+* **Evaluating Computational Pathology Foundation Models for Prostate Cancer Grading under Distribution Shifts**\
+[Mayo-KI Annual Scientific Research Meeting](https://ki.se/en/collaboration/international-collaboration/the-mayo-clinic-and-karolinska-institutet-collaboration/the-mayo-ki-annual-scientific-research-meeting-2024) | _Stockholm, Sweden_ | [[slides]](/files/talk_241016_slides.pdf)\
+October 16, 2024
+
+
+
+
+
+
 ### Other Presentations
 
 * **Towards Accurate and Reliable Deep Regression Models**\
