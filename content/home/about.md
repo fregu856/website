@@ -50,7 +50,7 @@ I received my BSc in Applied Physics and Electrical Engineering in 2016 and my M
 
 - <b>[Apr 25, 2023]</b> <b>Accepted paper:</b> [_Image Restoration with Mean-Reverting Stochastic Differential Equations_](/publication/ir_sde/) has been accepted to [ICML 2023](https://icml.cc/Conferences/2023).
 
-Click [here](/post/news) for older news. -->
+Click [here](/post/news) for older news. --> 
 
 
 
