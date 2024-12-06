@@ -17,8 +17,8 @@ weight = 65
 
 ### Reviewing
 
-* [AISTATS 2025](https://aistats.org/aistats2025//) | (Upcoming)
-* [ICLR 2025](https://iclr.cc/Conferences/2025) | (Upcoming)
+* [AISTATS 2025](https://aistats.org/aistats2025//) | 2 Papers
+* [TMLR, 2024](https://jmlr.org/tmlr/) | 3 Papers
 * [NeurIPS 2024](https://nips.cc/Conferences/2024) | 6 Papers
 * [ICML 2024](https://icml.cc/Conferences/2024) | 6 Papers
 * [AISTATS 2024](http://aistats.org/aistats2024/) | 5 Papers
@@ -41,4 +41,4 @@ weight = 65
 * [BMVC 2020](https://www.bmvc2020-conference.com/) | 1 Paper
 * [IFAC World Congress 2020](https://www.ifac2020.org/) | 2 Papers
 
-86 papers in total.
+91 papers in total.

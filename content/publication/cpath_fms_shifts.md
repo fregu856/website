@@ -49,7 +49,7 @@ url_project = ""
 url_video_90sec = ""
 url_slides_90sec = ""
 url_video = ""
-url_slides = ""
+url_slides = "/files/talk_241016_slides.pdf"
 url_poster = ""
 url_source = ""
 

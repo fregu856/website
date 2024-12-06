@@ -30,6 +30,10 @@ From 2018 to 2023, I organized the [SysCon machine learning reading group](https
 <!-- I have also become quite interested in philosophy (mainly ethics and political philosophy), and have read the following books: -->
 I have also started to really enjoy reading various non-technical book. Since late 2022, I have read the following books (I'm also on [Goodreads](https://www.goodreads.com/user/show/167840381-fredrik-gustafsson)):
 
+* 24-11-03 | [Small Things Like These](https://www.goodreads.com/book/show/58662236-small-things-like-these) | _**Claire Keegan**_ | Rating: 3.5
+* 24-10-27 | [Din vilja sitter i skogen](https://www.goodreads.com/book/show/218063480-din-vilja-sitter-i-skogen) | _**Mattias Timander**_ | Rating: 3.5
+* 24-10-20 | [Ditt lilla mörker i ljuset](https://www.goodreads.com/book/show/40024238-ditt-lilla-m-rker-i-ljuset) | _**Andrev Walden**_ | Rating: 3.5
+* 24-10-13 | [Barn av sin stad](https://www.goodreads.com/book/show/1696088.Barn_av_sin_stad) | _**Per Anders Fogelström**_ | Rating: 4
 * 24-09-21 | [Mina drömmars stad](https://www.goodreads.com/book/show/1696078.Mina_dr_mmars_stad) | _**Per Anders Fogelström**_ | Rating: 4
 * 24-08-31 | [Amok](https://www.goodreads.com/book/show/28186038-amok) | _**Stefan Zweig**_ | Rating: 4
 * 24-08-17 | [The Choice: Embrace the Possible](https://www.goodreads.com/book/show/30753738-the-choice) | _**Edith Eger**_ | Rating: 3.5
@@ -73,4 +77,4 @@ I have also started to really enjoy reading various non-technical book. Since la
 * 23-01-03 | [The Moral Philosophers: An Introduction to Ethics](https://www.goodreads.com/book/show/2120675.The_Moral_Philosophers) | _**Richard Norman**_ | Rating: 3
 * 22-11-26 | [Ethics in Engineering](https://www.goodreads.com/book/show/50680935-ethics-in-engineering) | _**Thomas Taro Lennerfors**_ | Rating: 3
 
-42 books in total.
+46 books in total.

@@ -50,7 +50,7 @@ url_video_90sec = ""
 url_slides_90sec = ""
 url_video = ""
 url_slides = ""
-url_poster = ""
+url_poster = "/files/gene-exp_poster.pdf"
 url_source = ""
 
 # Custom links (optional).

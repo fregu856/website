@@ -20,6 +20,10 @@ image_preview = ""
 
 +++
 
+- <b>[Nov 18, 2024]</b> New preprint: <i>Multi-Stain Modelling of Histopathology Slides for Breast Cancer Prognosis Prediction</i> [[medRxiv]](https://www.medrxiv.org/content/10.1101/2024.11.10.24317066v1) [[project]](/publication/multi-stain/), work lead by [Abhinav Sharma](https://ki.se/en/people/abhinav-sharma).
+
+- <b>[Oct 25, 2024]</b> New preprint: <i>Automated Segmentation of Synchrotron-Scanned Fossils</i> [[bioRxiv]](https://www.biorxiv.org/content/10.1101/2024.10.23.619778v1.abstract) [[project]](/publication/ml4paleo/), work lead by [Melanie During](https://www.uu.se/en/contact-and-organisation/staff?query=N19-1696) and [Jordan Matelsky](https://jordan.matelsky.com/).
+
 - <b>[Oct 10, 2024]</b> New preprint: <i>Evaluating Computational Pathology Foundation Models for Prostate Cancer Grading under Distribution Shifts</i> [[arXiv]](https://arxiv.org/abs/2410.06723) [[project]](/publication/cpath_fms_shifts/).
 
 - <b>[Oct 1, 2024]</b> New preprint: <i>Evaluating Deep Regression Models for WSI-Based Gene-Expression Prediction</i> [[arXiv]](https://arxiv.org/abs/2410.00945) [[project]](/publication/gene-exp/).

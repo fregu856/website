@@ -41,7 +41,7 @@ June 18, 2019
 ### Contributed Talks
 
 * **On the Use and Evaluation of Computational Pathology Foundation Models for WSI-Based Prediction Tasks**\
-Scandinavian Seminar on Translational Pathology | _Uppsala, Sweden_ | (Upcoming)\
+Scandinavian Seminar on Translational Pathology | _Uppsala, Sweden_ | [[slides]](/files/talk_241123_slides.pdf)\
 November 23, 2024
 
 * **Evaluating Computational Pathology Foundation Models for Prostate Cancer Grading under Distribution Shifts**\

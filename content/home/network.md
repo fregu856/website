@@ -23,7 +23,7 @@ Main supervisor: [Thomas Schön](https://user.it.uu.se/~thosc112/), other co-sup
 
 * [Erik Thiringer](https://www.linkedin.com/in/erik-thiringer-992a5816b/) | MSc Thesis student at Karolinska Institutet\
 Co-supervisor, since Sep 2024\
-Main supervisor: [Mattias Rantalainen](https://ki.se/en/people/mattias-rantalainen)
+Main supervisor: [Mattias Rantalainen](https://ki.se/en/research/research-areas-centres-and-networks/research-groups/predictive-medicine-mattias-rantalainens-research-group)
 
 
 
@@ -32,7 +32,7 @@ Main supervisor: [Mattias Rantalainen](https://ki.se/en/people/mattias-rantalain
 
 ### Co-authors
 
-* [Thomas Schön](https://user.it.uu.se/~thosc112/) | Professor at Uppsala University | _13 papers_\
+* [Thomas Schön](https://user.it.uu.se/~thosc112/) | Professor at Uppsala University | _14 papers_\
 _Years with papers: 2024, 2023, 2022, 2021, 2020_
 * [Martin Danelljan](https://martin-danelljan.github.io/) | Senior Research Engineer at Apple | _6 papers_\
 _Years with papers: 2023, 2022, 2021, 2020_
@@ -42,7 +42,7 @@ _Years with papers: 2024, 2023_
 _Years with papers: 2024, 2023_
 * [Jens Sjölund](https://jsjol.github.io/) | Assistant professor at Uppsala University | _5 papers_\
 _Years with papers: 2024, 2023_
-* [Mattias Rantalainen](https://ki.se/en/people/mattias-rantalainen) | Associate professor, Karolinska Institutet | _2 papers_\
+* [Mattias Rantalainen](https://ki.se/en/research/research-areas-centres-and-networks/research-groups/predictive-medicine-mattias-rantalainens-research-group) | Associate professor, Karolinska Institutet | _3 papers_\
 _Years with papers: 2024_
 * [Antônio H. Ribeiro](https://antonior92.github.io/) | Assistant professor at Uppsala University | _2 papers_\
 _Years with papers: 2024, 2021_
