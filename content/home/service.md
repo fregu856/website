@@ -17,6 +17,8 @@ weight = 65
 
 ### Reviewing
 
+* [MIDL 2025](https://2025.midl.io/) | (Upcoming)
+* [ICML 2025](https://icml.cc/Conferences/2025) | (Upcoming)
 * [AISTATS 2025](https://aistats.org/aistats2025//) | 2 Papers
 * [TMLR, 2024](https://jmlr.org/tmlr/) | 3 Papers
 * [NeurIPS 2024](https://nips.cc/Conferences/2024) | 6 Papers

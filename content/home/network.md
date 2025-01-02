@@ -47,7 +47,7 @@ _Years with papers: 2024_
 * [Antônio H. Ribeiro](https://antonior92.github.io/) | Assistant professor at Uppsala University | _2 papers_\
 _Years with papers: 2024, 2021_
 
-(_Minimum 2 papers, updated 2024-10-07_)
+(_Minimum 2 papers, updated 2024-11-18_)
 
 
 

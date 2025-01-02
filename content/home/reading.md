@@ -30,6 +30,8 @@ From 2018 to 2023, I organized the [SysCon machine learning reading group](https
 <!-- I have also become quite interested in philosophy (mainly ethics and political philosophy), and have read the following books: -->
 I have also started to really enjoy reading various non-technical book. Since late 2022, I have read the following books (I'm also on [Goodreads](https://www.goodreads.com/user/show/167840381-fredrik-gustafsson)):
 
+* 24-12-26 | [Den vidunderliga ordningen](https://www.goodreads.com/book/show/214479660-den-vidunderliga-ordningen) | _**Andrev Walden**_ | Rating: 4
+* 24-12-11 | [Historien om Norrland. Dimmans land: från istid till hungernöd](https://www.goodreads.com/book/show/217189639-dimmans-land) | _**Robin Olovsson**_ | Rating: 3.5
 * 24-11-03 | [Small Things Like These](https://www.goodreads.com/book/show/58662236-small-things-like-these) | _**Claire Keegan**_ | Rating: 3.5
 * 24-10-27 | [Din vilja sitter i skogen](https://www.goodreads.com/book/show/218063480-din-vilja-sitter-i-skogen) | _**Mattias Timander**_ | Rating: 3.5
 * 24-10-20 | [Ditt lilla mörker i ljuset](https://www.goodreads.com/book/show/40024238-ditt-lilla-m-rker-i-ljuset) | _**Andrev Walden**_ | Rating: 3.5
@@ -77,4 +79,4 @@ I have also started to really enjoy reading various non-technical book. Since la
 * 23-01-03 | [The Moral Philosophers: An Introduction to Ethics](https://www.goodreads.com/book/show/2120675.The_Moral_Philosophers) | _**Richard Norman**_ | Rating: 3
 * 22-11-26 | [Ethics in Engineering](https://www.goodreads.com/book/show/50680935-ethics-in-engineering) | _**Thomas Taro Lennerfors**_ | Rating: 3
 
-46 books in total.
+48 books in total.
