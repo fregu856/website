@@ -50,7 +50,7 @@ I received my BSc in Applied Physics and Electrical Engineering in 2016 and my M
 
 - <b>[Apr 25, 2023]</b> <b>Accepted paper:</b> [_Image Restoration with Mean-Reverting Stochastic Differential Equations_](/publication/ir_sde/) has been accepted to [ICML 2023](https://icml.cc/Conferences/2023).
 
-Click [here](/post/news) for older news. --> 
+Click [here](/post/news) for older news. -->
 
 
 
@@ -82,6 +82,8 @@ I received my BSc in _Applied Physics and Electrical Engineering_ in 2016 and my
 
 ### News
 
+- <b>[Jan 3, 2025]</b> New blog post: [_My Year of Reading in 2024_](/post/year_of_reading_2024/).
+
 - <b>[Nov 18, 2024]</b> New preprint: <i>Multi-Stain Modelling of Histopathology Slides for Breast Cancer Prognosis Prediction</i> [[medRxiv]](https://www.medrxiv.org/content/10.1101/2024.11.10.24317066v1) [[project]](/publication/multi-stain/), work lead by [Abhinav Sharma](https://ki.se/en/people/abhinav-sharma).
 
 - <b>[Oct 25, 2024]</b> New preprint: <i>Automated Segmentation of Synchrotron-Scanned Fossils</i> [[bioRxiv]](https://www.biorxiv.org/content/10.1101/2024.10.23.619778v1.abstract) [[project]](/publication/ml4paleo/), work lead by [Melanie During](https://www.uu.se/en/contact-and-organisation/staff?query=N19-1696) and [Jordan Matelsky](https://jordan.matelsky.com/).
@@ -95,7 +97,5 @@ I received my BSc in _Applied Physics and Electrical Engineering_ in 2016 and my
 - <b>[Jul 3, 2024]</b> <b>Accepted paper:</b> [_Evaluating Regression and Probabilistic Methods for ECG-Based Electrolyte Prediction_](/publication/regressionecg/), work lead together with [Philipp Von Bachmann](https://de.linkedin.com/in/philipp-vonbachmann) and [Daniel Gedon](https://dgedon.github.io/), has been published in [Scientific Reports](https://www.nature.com/srep/).
 
 - <b>[Apr 15, 2024]</b> <b>Accepted paper:</b> [_Photo-Realistic Image Restoration in the Wild with Controlled Vision-Language Models_](/publication/daclip-ir/) has been accepted to [CVPR Workshops 2024](https://cvlai.net/ntire/2024/). This is follow-up work on our ICLR [paper](/publication/da_clip/), once again lead by [Ziwei Luo](https://algolzw.github.io/).
-
-- <b>[Mar 21, 2024]</b> Invited talk: I presented _How Reliable is Your Regression Model's Uncertainty Under Real-World Distribution Shifts?_ [[slides]](/files/talk_240321_slides_handout.pdf) [[video]](https://youtu.be/QGGP1zsq7Sc?si=-ZznIv-2Td6kAma3) at the [RISE Learning Machines Seminars](https://www.ri.se/en/learningmachinesseminars).
 
 Click [here](/post/news) for older news.
