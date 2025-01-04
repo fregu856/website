@@ -17,6 +17,7 @@ image = ""
 caption = ""
 #image_preview = "1d_regression.png"
 image_preview = "year_of_reading_2024/papers_read_each_year_2024.png"
+#image_preview = "year_of_reading_2024/year_of_reading_2024.png"
 #small_image = "year_of_reading_2024/year_of_reading_2024.png" # (header image the same size as the article)
 #video="https://www.youtube.com/embed/5G4cmSh4s-4?enablejsapi=1&version=3&playerapiid=ytplayer" # (like small_image, but with an embedded youtube video instead)
 
@@ -27,11 +28,35 @@ In 2024, I read 99 papers and 21 non-technical books. 99 papers is slightly more
 In 2025, I want to read 100 papers and at least 20 non-technical books.
 
 
-The complete list of my read papers can be found at [github.com/fregu856/papers](https://github.com/fregu856/papers). Some statistics (number of papers read each year, papers by publication year, papers by venue):
+
+
+Complete list of my read papers: [github.com/fregu856/papers](https://github.com/fregu856/papers).
+
+Among the 99 papers, here are 15 that I found particularly interesting and/or well-written (in alphabetical order):
+
+* [A Visual-Language Foundation Model for Computational Pathology](https://www.nature.com/articles/s41591-024-02856-4) (Nature Medicine, 2024)
+* [A Whole-Slide Foundation Model for Digital Pathology from Real-World Data](https://www.nature.com/articles/s41586-024-07441-w) (Nature, 2024)
+* [Artificial Intelligence to Identify Genetic Alterations in Conventional Histopathology](https://pathsocjournals.onlinelibrary.wiley.com/doi/full/10.1002/path.5898) (Journal of Pathology, 2022)
+* [Benchmarking Foundation Models as Feature Extractors For Weakly-Supervised Computational Pathology](https://arxiv.org/abs/2408.15823) (arXiv, 2024-08)
+* [Deep Extended Hazard Models for Survival Analysis](https://proceedings.neurips.cc/paper/2021/hash/7f6caf1f0ba788cd7953d817724c2b6e-Abstract.html) (NeurIPS 2021)
+* [Diffusion-Based Generation of Histopathological Whole Slide Images at a Gigapixel Scale](https://arxiv.org/abs/2311.08199) (WACV 2024)
+* [Do Histopathological Foundation Models Eliminate Batch Effects? A Comparative Study](https://arxiv.org/abs/2411.05489) (NeurIPS Workshops 2024)
+* [Generation of Synthetic Whole-Slide Image Tiles of Tumours from RNA-Sequencing Data via Cascaded Diffusion Models](https://www.nature.com/articles/s41551-024-01193-8) (Nature Biomedical Engineering, 2024)
+* [Modeling Dense Multimodal Interactions Between Biological Pathways and Histology for Survival Prediction](https://arxiv.org/abs/2304.06819) (CVPR 2024)
+* [Morphological Prototyping for Unsupervised Slide Representation Learning in Computational Pathology](https://arxiv.org/abs/2405.11643) (CVPR 2024)
+* [Multimodal Histopathologic Models Stratify Hormone Receptor-Positive Early Breast Cancer](https://www.biorxiv.org/content/10.1101/2024.02.23.581806v1) (bioRxiv, 2024-02)
+* [Regression-Based Deep-Learning Predicts Molecular Biomarkers From Pathology Slides](https://www.nature.com/articles/s41467-024-45589-1) (Nature Communications, 2024)
+* [Survival Mixture Density Networks](https://arxiv.org/abs/2208.10759) (MLHC 2022)
+* [Towards a General-Purpose Foundation Model for Computational Pathology](https://www.nature.com/articles/s41591-024-02857-3) (Nature Medicine, 2024)
+* [Transcriptomics-Guided Slide Representation Learning in Computational Pathology](https://arxiv.org/abs/2405.11618) (CVPR 2024)
+
+Some paper statistics (number of papers read each year, papers by publication year, papers by venue):
 
 ![Papers read each year](/img/year_of_reading_2024/papers_read_each_year_2024.svg)
 ![Papers by publication year](/img/year_of_reading_2024/papers_by_publication_year_2024.svg)
 ![Papers by venue](/img/year_of_reading_2024/papers_by_venue_2024.svg)
+
+
 
 
 The 21 non-technical books I read in 2024:
