@@ -17,8 +17,12 @@ weight = 60
 
 ### Reviewing
 
-* [NeurIPS 2025](https://nips.cc/Conferences/2025) | (Upcoming)
-* [TMLR, 2025](https://jmlr.org/tmlr/) | 2 Papers
+* [ICML 2026](https://icml.cc/Conferences/2026) | (Upcoming)
+* [MIDL 2026](https://2026.midl.io/) | (Upcoming)
+* [AISTATS 2026](https://aistats.org/aistats2026//) | 1 Paper
+* [ICLR 2026](https://iclr.cc/Conferences/2026) | 5 Papers
+* [TMLR, 2025](https://jmlr.org/tmlr/) | 6 Papers
+* [NeurIPS 2025](https://nips.cc/Conferences/2025) | 5 Papers
 * [ICML 2025](https://icml.cc/Conferences/2025) | 5 Papers
 * [MIDL 2025](https://2025.midl.io/) | 4 Papers
 * [AISTATS 2025](https://aistats.org/aistats2025//) | 2 Papers
@@ -45,4 +49,4 @@ weight = 60
 * [BMVC 2020](https://www.bmvc2020-conference.com/) | 1 Paper
 * [IFAC World Congress 2020](https://www.ifac2020.org/) | 2 Papers
 
-102 papers in total.
+117 papers in total.
