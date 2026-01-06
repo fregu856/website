@@ -16,9 +16,10 @@ weight = 77
 +++
 
 
-During the years of my PhD, running turned into an important part of my life, crucial in order to keep me productive and in a good mental state throughout the work days and weeks.  I'm a relatively serious runner, but I run mostly just because it's a lot of fun and a great way to explore your surroundings, and because it's good for both my physical and mental health. My training can be followed on [Strava](https://www.strava.com/athletes/41453104).
+<!-- During the years of my PhD, running turned into an important part of my life, crucial in order to keep me productive and in a good mental state throughout the work days and weeks.  I'm a relatively serious runner, but I run mostly just because it's a lot of fun and a great way to explore your surroundings, and because it's good for both my physical and mental health. My training can be followed on [Strava](https://www.strava.com/athletes/41453104).
 
-From Sep 10 2020 until Dec 31 2023, I was on a run streak (running at least 2 km outside every day) of 1208 days. I'm currently on a run streak of 300+ days, since Jan 27 2024.
+From Sep 10 2020 until Dec 31 2023, I was on a run streak (running at least 2 km outside every day) of 1208 days. I'm currently on a run streak of 300+ days, since Jan 27 2024. -->
+During the years of my PhD, running turned into an important part of my life, crucial in order to keep me productive and in a good mental state throughout the work days and weeks.  I used to be a relatively serious runner, but nowadays I run mostly just because it's a lot of fun and a great way to explore your surroundings, and because it's good for both my physical and mental health. From Sep 10 2020 until Dec 31 2023, I was on a run streak (running at least 2 km outside every day) of 1208 days. My training can be followed on [Strava](https://www.strava.com/athletes/41453104).
 
 #### Personal Bests
 * 10 km: 34:44 (3:28 min/km) | Bålsta, 23-04-29 | [[Strava]](https://www.strava.com/activities/8975987229)

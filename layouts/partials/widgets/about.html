@@ -38,7 +38,7 @@
 
       <link itemprop="url" href="{{ $.Site.BaseURL }}">
 
-      <ul class="network-icon" aria-hidden="true">
+      <!-- <ul class="network-icon" aria-hidden="true">
         {{ range $.Site.Params.social }}
         {{ $pack := or .icon_pack "fa" }}
         <li>
@@ -47,7 +47,37 @@
           </a>
         </li>
         {{ end }}
+      </ul> -->
+      <ul class="network-icon" aria-hidden="true">
+        {{ range $.Site.Params.social }}
+          {{ $pack := or .icon_pack "fa" }}
+          {{ $raw := (or .icon "") | lower }}
+
+          {{/* normalize legacy names using a dict and index */}}
+          {{ $norm := dict "twitter" "x-twitter" "x" "x-twitter" "twitter-square" "x-twitter" }}
+          {{ $mapped := index $norm $raw }}
+          {{ $icon := or $mapped $raw }}
+
+          <li>
+            <a itemprop="sameAs" href="{{ .link | safeURL }}" target="_blank" rel="noopener" aria-label="{{ $icon }}">
+              {{ if eq $pack "ai" }}
+                <i class="ai ai-{{ $icon }} big-icon" aria-hidden="true"></i>
+              {{ else if eq $pack "fa" }}
+                {{/* brand icons should use fa-brands */}}
+                {{ $brandIcons := slice "github" "linkedin" "x-twitter" "bluesky" "youtube" "facebook" "instagram" }}
+                {{ if in $brandIcons $icon }}
+                  <i class="fa-brands fa-{{ $icon }} big-icon" aria-hidden="true"></i>
+                {{ else }}
+                  <i class="fa-solid fa-{{ $icon }} big-icon" aria-hidden="true"></i>
+                {{ end }}
+              {{ else }}
+                <i class="{{ $pack }} {{ $pack }}-{{ $icon }} big-icon" aria-hidden="true"></i>
+              {{ end }}
+            </a>
+          </li>
+        {{ end }}
       </ul>
+
 
     </div>
   </div>

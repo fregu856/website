@@ -8,11 +8,12 @@ baseurl = "/"
 # Title of your site
 # title = "Fredrik K. Gustafsson | PhD Student in Uncertainty-Aware Deep Learning"
 # title = "Fredrik K. Gustafsson | PhD Student in Probabilistic Deep Learning"
-title = "Fredrik K. Gustafsson | Postdoc | Machine Learning for Computational Pathology"
+# title = "Fredrik K. Gustafsson | Postdoc | Machine Learning for Computational Pathology"
+title = "Fredrik K. Gustafsson | Postdoc in Oxford | Machine Learning for Healthcare"
 
 # Your copyright notice - appears in site footer.
 # To display a copyright symbol, type `&copy;`.
-copyright = "Copyright &copy; Fredrik K. Gustafsson 2025"
+copyright = "Copyright &copy; Fredrik K. Gustafsson 2026"
 
 theme = "academic"
 enableEmoji = true
@@ -55,7 +56,9 @@ defaultContentLanguageInSubdir = false
   name = "Fredrik K. Gustafsson"
   # role = "PhD Student in Uncertainty-Aware Deep Learning"
   # role = "PhD Student in Probabilistic Deep Learning"
-    role = "Postdoc | Machine Learning for Computational Pathology"
+  # role = "Postdoc | Machine Learning for Computational Pathology"
+  role = "Postdoc in Oxford | Machine Learning for Healthcare"
+
 
   # Organizations/Affiliations.
   #   Separate multiple entries with a comma, using the form: `[ {name="Org1", url=""}, {name="Org2", url=""} ]`.
@@ -252,9 +255,14 @@ defaultContentLanguageInSubdir = false
   # #   icon_pack = "fa"
   # #   link = "/files/CV_apr23.pdf"
 
+  # [[params.social]]
+  #   icon = "envelope"
+  #   icon_pack = "fa"
+  #   link = "mailto:fregu856@gmail.com"
+
   [[params.social]]
-    icon = "file"
-    icon_pack = "fa"
+    icon = "cv"
+    icon_pack = "ai"
     link = "/files/CV_Fredrik_K_Gustafsson_250102.pdf"
 
   [[params.social]]
@@ -273,9 +281,14 @@ defaultContentLanguageInSubdir = false
     link = "https://www.linkedin.com/in/fregu856/"
 
   [[params.social]]
-    icon = "twitter"
+    icon = "bluesky"
     icon_pack = "fa"
-    link = "https://twitter.com/fregu856"
+    link = "https://bsky.app/profile/fregu856.bsky.social"
+
+  # [[params.social]]
+  #   icon = "x-twitter"
+  #   icon_pack = "fa"
+  #   link = "https://x.com/fregu856"
 
   [[params.social]]
     icon = "youtube"

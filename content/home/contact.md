@@ -20,21 +20,21 @@ autolink = false
   <li>
     <i class="fa-li fa fa-map-marker fa-2x" aria-hidden="true"></i>
     <span id="person-address" itemprop="address">
-    <a href="https://maps.app.goo.gl/PNhSZ7jPGGZf1Psd7" target="_blank">Department of Medical Epidemiology and Biostatistics, Room 2416</a>
+    <a href="https://maps.app.goo.gl/bsMisotbXD7kshUj9" target="_blank">Institute of Biomedical Engineering, Old Road Campus Research Building</a>
     </span>
   </li>
 
   <li>
     <i class="fa-li fa fa-envelope fa-2x" aria-hidden="true"></i>
     <span id="person-email" itemprop="email">
-    fregu856@gmail.com | fredrik.gustafsson@ki.se
+    fregu856@gmail.com | fredrik.gustafsson@eng.ox.ac.uk
     </span>
   </li>
 
   <li>
     <i class="fa-li fa fa-phone fa-2x" aria-hidden="true"></i>
     <span id="person-telephone" itemprop="telephone">
-    +46705786348
+    +447826918964 | +46705786348
     </span>
   </li>
 

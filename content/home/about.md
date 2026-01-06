@@ -74,9 +74,19 @@ I received my BSc in _Applied Physics and Electrical Engineering_ in 2016 and my
 
 
 
-I am a postdoctoral researcher in the group of [Mattias Rantalainen](https://ki.se/en/research/research-areas-centres-and-networks/research-groups/predictive-medicine-mattias-rantalainens-research-group) at [Karolinska Institutet](https://ki.se/en) in Stockholm, working on **machine learning** and **computer vision** for **computational pathology**. My research focuses on how to build and evaluate _reliable machine learning_ models, for applications within _data-driven medicine and healthcare_. It has often included regression problems, uncertainty estimation methods or energy-based models.
+<!-- I am a postdoctoral researcher in the group of [Mattias Rantalainen](https://ki.se/en/research/research-areas-centres-and-networks/research-groups/predictive-medicine-mattias-rantalainens-research-group) at [Karolinska Institutet](https://ki.se/en) in Stockholm, working on **machine learning** and **computer vision** for **computational pathology**. My research focuses on how to build and evaluate _reliable machine learning_ models, for applications within _data-driven medicine and healthcare_. It has often included regression problems, uncertainty estimation methods or energy-based models.
 
-I received my BSc in _Applied Physics and Electrical Engineering_ in 2016 and my MSc in _Electrical Engineering_ in 2018, both from [Linköping University](https://liu.se/en). During my MSc, I also spent one year as an exchange student at [Stanford University](https://www.stanford.edu/). I received my PhD in _Machine Learning_ in 2023 from [Uppsala University](http://www.uu.se/en) for the thesis [_Towards Accurate and Reliable Deep Regression Models_](/publication/thesis/). During my PhD, I was supervised by [Thomas Schön](http://user.it.uu.se/~thosc112/) and [Martin Danelljan](https://martin-danelljan.github.io/). I am originally from [Trollhättan](https://en.wikipedia.org/wiki/Trollh%C3%A4ttan), Sweden.
+I received my BSc in _Applied Physics and Electrical Engineering_ in 2016 and my MSc in _Electrical Engineering_ in 2018, both from [Linköping University](https://liu.se/en). During my MSc, I also spent one year as an exchange student at [Stanford University](https://www.stanford.edu/). I received my PhD in _Machine Learning_ in 2023 from [Uppsala University](http://www.uu.se/en) for the thesis [_Towards Accurate and Reliable Deep Regression Models_](/publication/thesis/). During my PhD, I was supervised by [Thomas Schön](http://user.it.uu.se/~thosc112/) and [Martin Danelljan](https://martin-danelljan.github.io/). I am originally from [Trollhättan](https://en.wikipedia.org/wiki/Trollh%C3%A4ttan), Sweden. -->
+
+
+
+
+
+
+I am a postdoc in the group of [David Clifton](https://eng.ox.ac.uk/chi/team) at the [University of Oxford](https://www.ox.ac.uk/), working on **machine learning for healthcare** with a particular focus on _biosignals_ and _wearables_.  More broadly, I am interested in how to build and evaluate _reliable machine learning_ models, for applications within _data-driven medicine and healthcare_. My research has often included regression problems, uncertainty estimation methods, energy-based models, diffusion models, or the evaluation of foundation models.
+
+Before moving to Oxford, I was a postdoc in the group of [Mattias Rantalainen](https://ki.se/en/research/research-areas-centres-and-networks/research-groups/predictive-medicine-mattias-rantalainens-research-group) at [Karolinska Institutet](https://ki.se/en) from 2023 to 2025, working on _computational pathology_. I received my BSc in _Applied Physics and Electrical Engineering_ in 2016 and my MSc in _Electrical Engineering_ in 2018, both from [Linköping University](https://liu.se/en). During my MSc, I also spent one year as an exchange student at [Stanford University](https://www.stanford.edu/). I received my PhD in _Machine Learning_ in 2023 from [Uppsala University](http://www.uu.se/en) for the thesis [_Towards Accurate and Reliable Deep Regression Models_](/publication/thesis/). During my PhD, I was supervised by [Thomas Schön](http://user.it.uu.se/~thosc112/) and [Martin Danelljan](https://martin-danelljan.github.io/). I am originally from [Trollhättan](https://en.wikipedia.org/wiki/Trollh%C3%A4ttan), Sweden.
+
 
 
 
