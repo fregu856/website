@@ -17,22 +17,22 @@ authors = ["Ziwei Luo, **Fredrik K. Gustafsson**, Zheng Zhao, Jens Sjölund, Tho
 # 7 = Thesis
 # 8 = Preprint
 # 9 = Extended abstract
-publication_types = ["8"]
+publication_types = ["2"]
 
 # Publication name and optional abbreviated version.
-publication = "Preprint, 2024"
-publication_short = "Preprint, 2024"
+publication = "Philosophical Transactions of the Royal Society A, 2025"
+publication_short = "Philosophical Transactions of the Royal Society A, 2025"
 
 # Abstract and optional shortened version.
 abstract = "Diffusion models have achieved remarkable progress in generative modelling, particularly in enhancing image quality to conform to human preferences. Recently, these models have also been applied to low-level computer vision for photo-realistic image restoration (IR) in tasks such as image denoising, deblurring, dehazing, etc. In this review paper, we introduce key constructions in diffusion models and survey contemporary techniques that make use of diffusion models in solving general IR tasks. Furthermore, we point out the main challenges and limitations of existing diffusion-based IR frameworks and provide potential directions for future work."
 
-abstract_short = ""
+abstract_short = "Diffusion models have achieved remarkable progress in generative modelling, and have recently also been applied to low-level computer vision for photo-realistic image restoration (IR). We introduce key constructions in diffusion models and survey contemporary techniques that make use of diffusion models in solving general IR tasks. Furthermore, we point out the main challenges and limitations of existing diffusion-based IR frameworks and provide potential directions for future work."
 
 # Featured image thumbnail (optional)
 image_preview = "diff_ir_review.png"
 
 # Is this a selected publication? (true/false)
-selected = false
+selected = true
 
 # Projects (optional).
 #   Associate this publication with one or more of your projects.
@@ -41,7 +41,7 @@ projects = []
 
 # Links (optional).
 url_arxiv = "https://arxiv.org/abs/2409.10353"
-url_pdf = ""
+url_pdf = "https://royalsocietypublishing.org/rsta/article/383/2299/20240358/234771/Taming-diffusion-models-for-image-restoration-a"
 url_preprint = ""
 url_code = ""
 url_dataset = ""

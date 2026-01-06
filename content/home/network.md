@@ -32,22 +32,22 @@ Main supervisor: [Mattias Rantalainen](https://ki.se/en/research/research-areas-
 
 ### Co-authors
 
-* [Thomas Schön](https://user.it.uu.se/~thosc112/) | Professor at Uppsala University | _14 papers_\
-_Years with papers: 2024, 2023, 2022, 2021, 2020_
+* [Thomas Schön](https://user.it.uu.se/~thosc112/) | Professor at Uppsala University | _15 papers_\
+_Years with papers: 2025, 2024, 2023, 2022, 2021, 2020_
+* [Ziwei Luo](https://algolzw.github.io/) | PhD student at Uppsala University | _6 papers_\
+_Years with papers: 2025, 2024, 2023_
+* [Jens Sjölund](https://jsjol.github.io/) | Assistant professor at Uppsala University | _6 papers_\
+_Years with papers: 2025, 2024, 2023_
 * [Martin Danelljan](https://martin-danelljan.github.io/) | Senior Research Engineer at Apple | _6 papers_\
 _Years with papers: 2023, 2022, 2021, 2020_
-* [Ziwei Luo](https://algolzw.github.io/) | PhD student at Uppsala University | _5 papers_\
-_Years with papers: 2024, 2023_
 * [Zheng Zhao](https://zz.zabemon.com/) | Assistant professor at Linköping University | _5 papers_\
-_Years with papers: 2024, 2023_
-* [Jens Sjölund](https://jsjol.github.io/) | Assistant professor at Uppsala University | _5 papers_\
 _Years with papers: 2024, 2023_
 * [Mattias Rantalainen](https://ki.se/en/research/research-areas-centres-and-networks/research-groups/predictive-medicine-mattias-rantalainens-research-group) | Associate professor, Karolinska Institutet | _3 papers_\
 _Years with papers: 2024_
 * [Antônio H. Ribeiro](https://antonior92.github.io/) | Assistant professor at Uppsala University | _2 papers_\
 _Years with papers: 2024, 2021_
 
-(_Minimum 2 papers, updated 2024-11-18_)
+(_Minimum 2 papers, updated 2026-01-06_)
 
 
 

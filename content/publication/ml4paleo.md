@@ -17,11 +17,11 @@ authors = ["Melanie A.D. During, Jordan K. Matelsky, **Fredrik K. Gustafsson**, 
 # 7 = Thesis
 # 8 = Preprint
 # 9 = Extended abstract
-publication_types = ["8"]
+publication_types = ["2"]
 
 # Publication name and optional abbreviated version.
-publication = "Preprint, 2024"
-publication_short = "Preprint, 2024"
+publication = "Fossil Record, 2025"
+publication_short = "Fossil Record, 2025"
 
 # Abstract and optional shortened version.
 abstract = "Computed tomography has revolutionised the study of the internal three-dimensional structure of fossils. Historically, fossils typically spent years in preparation to be freed from the enclosing rock. Now, X-ray and synchrotron tomography reveal structure that is otherwise invisible and data acquisition can be fast. However, manual segmentation of these 3D volumes can still take months to years. This is especially challenging for resource-poor teams, as scanning may be free, but the computing power and (AI-assisted) segmentation software required to handle the resulting large data sets are complex to use and expensive. Here we present a free, browser-based segmentation tool that reduces computational overhead by splitting volumes into small chunks, allowing processing on low-memory, inexpensive hardware. Our tool also speeds up collaborative ground-truth generation and 3D visualization, all in-browser. We developed and evaluated our pipeline on various open-data scans of differing contrast, resolution, textural complexity, and size. Our tool successfully isolated the Thrinaxodon and Broomistega pair from an Early Triassic burrow. It isolated cranial bones from the Cretaceous acipenseriform Parapsephurus willybemisi on both 45.53 µm and 13.67 µm resolution scanning data. We also isolated bones of the Middle Triassic sauropterygian Nothosaurus and a challenging scan of a squamate embryo inside an egg dating back to the Early Cretaceous. Our tool reliably reproduces expert-supervised segmentation at a fraction of the time and cost, offering greater accessibility than existing tools. Beyond the online tool, all our code is open source, enabling contributions from the palaeontology community to further this emerging machine learning ecosystem."
@@ -41,7 +41,7 @@ projects = []
 
 # Links (optional).
 url_arxiv = ""
-url_pdf = ""
+url_pdf = "https://fr.pensoft.net/article/139379/"
 url_preprint = "https://www.biorxiv.org/content/10.1101/2024.10.23.619778v1.abstract"
 url_code = ""
 url_dataset = ""
