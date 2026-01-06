@@ -11,7 +11,7 @@ title = "Academic Service"
 subtitle = ""
 
 # Order that this section will appear in.
-weight = 65
+weight = 60
 
 +++
 

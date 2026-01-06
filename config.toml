@@ -362,18 +362,18 @@ defaultContentLanguageInSubdir = false
   weight = 2
 
 [[menu.main]]
-  name = "Teaching"
-  url = "#teaching"
-  weight = 3
-
-[[menu.main]]
   name = "Service"
   url = "#service"
-  weight = 4
+  weight = 3
 
 [[menu.main]]
   name = "Talks"
   url = "#talks"
+  weight = 4
+
+[[menu.main]]
+  name = "Teaching"
+  url = "#teaching"
   weight = 5
 
 [[menu.main]]
@@ -381,19 +381,14 @@ defaultContentLanguageInSubdir = false
   url = "#network"
   weight = 6
 
-# [[menu.main]]
-#   name = "Coursework"
-#   url = "#coursework"
-#   weight = 6
+[[menu.main]]
+  name = "Blog Posts"
+  url = "#posts"
+  weight = 7
 
 [[menu.main]]
   name = "Reading"
   url = "#reading"
-  weight = 7
-
-[[menu.main]]
-  name = "Blog Posts"
-  url = "#posts"
   weight = 8
 
 [[menu.main]]

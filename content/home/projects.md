@@ -5,7 +5,8 @@ widget = "projects"
 active = true
 date = 2016-04-20
 
-title = "My Old Student Projects"
+#title = "My Old Student Projects"
+title = "BSc/MSc Student Projects"
 subtitle = ""
 
 # Order that this section will appear in.
