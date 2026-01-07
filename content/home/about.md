@@ -94,15 +94,15 @@ Before moving to Oxford, I was a postdoc in the group of [Mattias Rantalainen](h
 
 - <b>[Jul 15, 2025]</b> I have joined the group of [David Clifton](https://eng.ox.ac.uk/chi/team) at the [University of Oxford](https://www.ox.ac.uk/) as a postdoc to work on machine learning for healthcare.
 
-- <b>[Jun 19, 2025]</b> <b>Accepted paper:</b> [_Taming Diffusion Models for Image Restoration: A Review_](/publication/diff_ir_review/), work lead by [Ziwei Luo](https://algolzw.github.io/), has been published in [Philosophical Transactions of the Royal Society A](https://royalsocietypublishing.org/rsta).
+- <b>[Jun 19, 2025]</b> <b>Accepted paper:</b> [_Taming Diffusion Models for Image Restoration: A Review_](/publication/diff_ir_review/), work led by [Ziwei Luo](https://algolzw.github.io/), has been published in [Philosophical Transactions of the Royal Society A](https://royalsocietypublishing.org/rsta).
 
-- <b>[May 22, 2025]</b> New preprint: <i>Forward-only Diffusion Probabilistic Models</i> [[arXiv]](https://arxiv.org/abs/2505.16733?) [[project]](/publication/fod/), work lead by [Ziwei Luo](https://algolzw.github.io/).
+- <b>[May 22, 2025]</b> New preprint: <i>Forward-only Diffusion Probabilistic Models</i> [[arXiv]](https://arxiv.org/abs/2505.16733?) [[project]](/publication/fod/), work led by [Ziwei Luo](https://algolzw.github.io/).
 
-- <b>[Mar 6, 2025]</b> <b>Accepted paper:</b> [_Automated Segmentation of Synchrotron-Scanned Fossils_](/publication/ml4paleo), work lead by [Melanie During](https://www.uu.se/en/contact-and-organisation/staff?query=N19-1696) and [Jordan Matelsky](https://jordan.matelsky.com/), has been published in [Fossil Record](https://fr.pensoft.net/).
+- <b>[Mar 6, 2025]</b> <b>Accepted paper:</b> [_Automated Segmentation of Synchrotron-Scanned Fossils_](/publication/ml4paleo), work led by [Melanie During](https://www.uu.se/en/contact-and-organisation/staff?query=N19-1696) and [Jordan Matelsky](https://jordan.matelsky.com/), has been published in [Fossil Record](https://fr.pensoft.net/).
 
 - <b>[Jan 3, 2025]</b> New blog post: [_My Year of Reading in 2024_](/post/year_of_reading_2024/).
 
-- <b>[Nov 18, 2024]</b> New preprint: <i>Multi-Stain Modelling of Histopathology Slides for Breast Cancer Prognosis Prediction</i> [[medRxiv]](https://www.medrxiv.org/content/10.1101/2024.11.10.24317066v1) [[project]](/publication/multi-stain/), work lead by [Abhinav Sharma](https://ki.se/en/people/abhinav-sharma).
+- <b>[Nov 18, 2024]</b> New preprint: <i>Multi-Stain Modelling of Histopathology Slides for Breast Cancer Prognosis Prediction</i> [[medRxiv]](https://www.medrxiv.org/content/10.1101/2024.11.10.24317066v1) [[project]](/publication/multi-stain/), work led by [Abhinav Sharma](https://ki.se/en/people/abhinav-sharma).
 
 - <b>[Oct 10, 2024]</b> New preprint: <i>Evaluating Computational Pathology Foundation Models for Prostate Cancer Grading under Distribution Shifts</i> [[arXiv]](https://arxiv.org/abs/2410.06723) [[project]](/publication/cpath_fms_shifts/).
 

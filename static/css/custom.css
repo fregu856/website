@@ -5,3 +5,46 @@
   line-height: 1.25;
   margin-bottom: 0.15rem;
 }
+
+
+
+
+/* Compact publications container */
+.compact-pubs p {
+  margin-top: 0.85rem;
+  margin-bottom: 0.85rem;
+}
+
+/* Layout */
+.compact-pubs .pub-item {
+  display: flex;
+  align-items: flex-start;
+}
+
+.compact-pubs .pub-id {
+  min-width: 2.15rem;
+  line-height: 1.3;
+}
+
+.compact-pubs .pub-text {
+  flex: 1;
+}
+
+/* Title: tight line spacing if it wraps */
+.compact-pubs .pub-text a {
+  display: inline-block;
+  line-height: 1.2;
+  margin-bottom: 0.15rem;
+}
+
+/* Authors: also tight, but slightly looser than title */
+.compact-pubs .pub-text em {
+  display: inline-block;
+  line-height: 1.25;
+  margin-bottom: 0.15rem;
+}
+
+/* Venue */
+.compact-pubs .pub-text {
+  line-height: 1.3;
+}
