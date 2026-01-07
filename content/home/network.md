@@ -22,8 +22,9 @@ Co-supervisor, since Feb 2024\
 Main supervisor: [Thomas Schön](https://user.it.uu.se/~thosc112/), other co-supervisor: [Jens Sjölund](https://jsjol.github.io/)
 
 * [Erik Thiringer](https://www.linkedin.com/in/erik-thiringer-992a5816b/) | MSc Thesis student at Karolinska Institutet\
-Co-supervisor, since Sep 2024\
-Main supervisor: [Mattias Rantalainen](https://ki.se/en/research/research-areas-centres-and-networks/research-groups/predictive-medicine-mattias-rantalainens-research-group)
+Co-supervisor, Sep 2024 -- Feb 2025\
+Main supervisor: [Mattias Rantalainen](https://ki.se/en/research/research-areas-centres-and-networks/research-groups/predictive-medicine-mattias-rantalainens-research-group)\
+Subsequent position: Research Assistant at Karolinska Institutet
 
 
 
@@ -47,7 +48,8 @@ _Years with papers: 2024_
 * [Antônio H. Ribeiro](https://antonior92.github.io/) | Assistant professor at Uppsala University | _2 papers_\
 _Years with papers: 2024, 2021_
 
-(_Minimum 2 papers, updated 2026-01-06_)
+(_Minimum 2 papers, updated 2026-01-07_)
+
 
 
 
@@ -55,8 +57,11 @@ _Years with papers: 2024, 2021_
 
 ### Academic Lineage
 
-* **Main supervisor: [Thomas Schön](https://scholar.google.com/citations?user=FUqUC2oAAAAJ&hl)** | PhD in 2006 from Linköping University\
-_Advised by [Fredrik Gustafsson](https://scholar.google.com/citations?user=sMGv1xoAAAAJ&hl) (PhD in 1992 from Linköping University), advised by [Lennart Ljung](https://scholar.google.com/citations?user=2lo28DgAAAAJ&hl) (PhD in 1974 from Lund University), advised by [Karl Johan Åström](https://scholar.google.com/citations?user=ZS-RjQsAAAAJ&hl) (PhD in 1960 from KTH Royal Institute of Technology)_
+* **Main supervisor: [Thomas Schön](https://scholar.google.com/citations?user=FUqUC2oAAAAJ&hl)** | PhD in 2006 from Linköping University  
+  _Advised by [Fredrik Gustafsson](https://scholar.google.com/citations?user=sMGv1xoAAAAJ&hl) (PhD in 1992 from Linköping University),  
+  advised by [Lennart Ljung](https://scholar.google.com/citations?user=2lo28DgAAAAJ&hl) (PhD in 1974 from Lund University),  
+  advised by [Karl Johan Åström](https://scholar.google.com/citations?user=ZS-RjQsAAAAJ&hl) (PhD in 1960 from KTH)._
 
-* **Co-supervisor: [Martin Danelljan](https://scholar.google.com/citations?user=NCSSpMkAAAAJ&hl)** | PhD in 2018 from Linköping University\
-_Advised by [Michael Felsberg](https://scholar.google.com/citations?user=lkWfR08AAAAJ&hl) (PhD in 2002 from Kiel University) and [Fahad Shahbaz Khan](https://scholar.google.com/citations?user=zvaeYnUAAAAJ&hl) (PhD in 2011 from Autonomous University of Barcelona)_
+* **Co-supervisor: [Martin Danelljan](https://scholar.google.com/citations?user=NCSSpMkAAAAJ&hl)** | PhD in 2018 from Linköping University  
+  _Advised by [Michael Felsberg](https://scholar.google.com/citations?user=lkWfR08AAAAJ&hl) (PhD in 2002 from Kiel University)  
+  and [Fahad Shahbaz Khan](https://scholar.google.com/citations?user=zvaeYnUAAAAJ&hl) (PhD in 2011 from UAB Barcelona)._
