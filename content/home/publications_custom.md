@@ -50,6 +50,14 @@ weight = 9
 ### Preprints
 
 <div class="compact-pubs">
+<p class="pub-item">
+  <span class="pub-id">[P5]</span>
+  <span class="pub-text">
+    <a href="/publication/pfms_scanners">Scanner-Induced Domain Shifts Undermine the Robustness of Pathology Foundation Models</a><br>
+    <em>Erik Thiringer, <strong>Fredrik K. Gustafsson</strong>, Kajsa Ledesma Eriksson, Mattias Rantalainen</em><br>
+  </span>
+</p>
+
   <p class="pub-item">
     <span class="pub-id">[P4]</span>
     <span class="pub-text">

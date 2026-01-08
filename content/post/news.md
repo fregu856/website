@@ -20,6 +20,8 @@ image_preview = ""
 
 +++
 
+- <b>[Jan 8, 2026]</b> New preprint: <i>Scanner-Induced Domain Shifts Undermine the Robustness of Pathology Foundation Models</i> [[arXiv]](https://arxiv.org/abs/2601.04163) [[project]](/publication/pfms_scanners/), work led together with [Erik Thiringer](https://www.linkedin.com/in/erik-thiringer-992a5816b/).
+
 - <b>[Jul 15, 2025]</b> I have joined the group of [David Clifton](https://eng.ox.ac.uk/chi/team) at the [University of Oxford](https://www.ox.ac.uk/) as a postdoc to work on machine learning for healthcare.
 
 - <b>[Jun 19, 2025]</b> <b>Accepted paper:</b> [_Taming Diffusion Models for Image Restoration: A Review_](/publication/diff_ir_review/), work led by [Ziwei Luo](https://algolzw.github.io/), has been published in [Philosophical Transactions of the Royal Society A](https://royalsocietypublishing.org/rsta).

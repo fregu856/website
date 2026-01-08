@@ -217,6 +217,31 @@
 }
 
 
+/* Compact spacing for sub-bullets in Academic Network */
+#network ul ul {
+  margin-top: 0.2rem;
+  margin-bottom: 0.2rem;
+}
+
+#network ul ul li {
+  margin-top: 0.15rem;
+  margin-bottom: 0.15rem;
+  line-height: 1.2;
+}
+
+/* Remove extra paragraph spacing inside sub-bullets */
+#network ul ul li p {
+  margin: 0;
+}
+
+/* Remove extra space before first sub-bullet in Academic Network */
+#network li > p {
+  margin-bottom: 0;
+}
+
+
+
+
 
 
 

@@ -92,6 +92,8 @@ Before moving to Oxford, I was a postdoc in the group of [Mattias Rantalainen](h
 
 ### News
 
+- <b>[Jan 8, 2026]</b> New preprint: <i>Scanner-Induced Domain Shifts Undermine the Robustness of Pathology Foundation Models</i> [[arXiv]](https://arxiv.org/abs/2601.04163) [[project]](/publication/pfms_scanners/), work led together with [Erik Thiringer](https://www.linkedin.com/in/erik-thiringer-992a5816b/).
+
 - <b>[Jul 15, 2025]</b> I have joined the group of [David Clifton](https://eng.ox.ac.uk/chi/team) at the [University of Oxford](https://www.ox.ac.uk/) as a postdoc to work on machine learning for healthcare.
 
 - <b>[Jun 19, 2025]</b> <b>Accepted paper:</b> [_Taming Diffusion Models for Image Restoration: A Review_](/publication/diff_ir_review/), work led by [Ziwei Luo](https://algolzw.github.io/), has been published in [Philosophical Transactions of the Royal Society A](https://royalsocietypublishing.org/rsta).
@@ -105,7 +107,5 @@ Before moving to Oxford, I was a postdoc in the group of [Mattias Rantalainen](h
 - <b>[Nov 18, 2024]</b> New preprint: <i>Multi-Stain Modelling of Histopathology Slides for Breast Cancer Prognosis Prediction</i> [[medRxiv]](https://www.medrxiv.org/content/10.1101/2024.11.10.24317066v1) [[project]](/publication/multi-stain/), work led by [Abhinav Sharma](https://ki.se/en/people/abhinav-sharma).
 
 - <b>[Oct 10, 2024]</b> New preprint: <i>Evaluating Computational Pathology Foundation Models for Prostate Cancer Grading under Distribution Shifts</i> [[arXiv]](https://arxiv.org/abs/2410.06723) [[project]](/publication/cpath_fms_shifts/).
-
-- <b>[Oct 1, 2024]</b> New preprint: <i>Evaluating Deep Regression Models for WSI-Based Gene-Expression Prediction</i> [[arXiv]](https://arxiv.org/abs/2410.00945) [[project]](/publication/gene-exp/).
 
 Click [here](/post/news) for older news.
