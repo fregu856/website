@@ -20,8 +20,8 @@ authors = ["**Fredrik K. Gustafsson**, Mattias Rantalainen"]
 publication_types = ["8"]
 
 # Publication name and optional abbreviated version.
-publication = "Preprint, 2024"
-publication_short = "Preprint, 2024"
+publication = "Preprint"
+publication_short = "Preprint"
 
 # Abstract and optional shortened version.
 abstract = "Foundation models have recently become a popular research direction within computational pathology. They are intended to be general-purpose feature extractors, promising to achieve good performance on a wide range of downstream tasks. Real-world pathology image data does however exhibit considerable variability. Foundation models should be robust to these variations and other distribution shifts which might be encountered in practice. We evaluate two computational pathology foundation models: UNI (trained on more than 100,000 whole-slide images) and CONCH (trained on more than 1.1 million image-caption pairs), by utilizing them as feature extractors within prostate cancer grading models. We find that while UNI and CONCH perform well relative to baselines, the absolute performance can still be far from satisfactory. The fact that foundation models have been trained on large and varied datasets does not guarantee that downstream models always will be robust to common distribution shifts."

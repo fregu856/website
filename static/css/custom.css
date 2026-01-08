@@ -215,3 +215,24 @@
   display: inline-block;
   line-height: 1.25;
 }
+
+
+
+
+
+/* Compact spacing for Reading > Books list */
+#reading li {
+  line-height: 1.2;        /* tighter wrapped lines */
+  margin-top: 0.50rem; /* space between books */
+  margin-bottom: 0.50rem; /* space between books */
+}
+
+
+
+
+
+
+/* Compact spacing for Teaching section */
+#teaching li {
+  line-height: 1.2;
+}

@@ -20,8 +20,8 @@ authors = ["**Fredrik K. Gustafsson**, Mattias Rantalainen"]
 publication_types = ["8"]
 
 # Publication name and optional abbreviated version.
-publication = "Preprint, 2024"
-publication_short = "Preprint, 2024"
+publication = "Preprint"
+publication_short = "Preprint"
 
 # Abstract and optional shortened version.
 abstract = "Prediction of mRNA gene-expression profiles directly from routine whole-slide images (WSIs) using deep learning models could potentially offer cost-effective and widely accessible molecular phenotyping. While such WSI-based gene-expression prediction models have recently emerged within computational pathology, the high-dimensional nature of the corresponding regression problem offers numerous design choices which remain to be analyzed in detail. This study provides recommendations on how deep regression models should be trained for WSI-based gene-expression prediction. For example, we conclude that training a single model to simultaneously regress all 20530 genes is a computationally efficient yet very strong baseline."
