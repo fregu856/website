@@ -22,7 +22,7 @@ weight = 76
 <!-- I categorize, annotate and write comments for all research papers I read, and share this publicly on [GitHub](https://github.com/fregu856/papers) (440+ papers since September 2018). Feel free to reach out with any questions or suggested reading. In June 2023, I also wrote the blog post [_The How and Why of Reading 300 Papers in 5 Years_](/post/phd_of_reading/) about this.
 
 From 2018 to 2023, I organized the [SysCon machine learning reading group](https://www.it.uu.se/about_us/divisions/systems_and_control/activities/mlreadinggroup). -->
-I categorize, annotate and write comments for all research papers I read, and share this publicly on [GitHub](https://github.com/fregu856/papers) (440+ papers since September 2018). Feel free to reach out with any questions or suggested reading. In June 2023, I also wrote the blog post [_The How and Why of Reading 300 Papers in 5 Years_](/post/phd_of_reading/) about this.
+I categorize, annotate and write comments for all research papers I read, and share this publicly on [GitHub](https://github.com/fregu856/papers) (500+ papers since September 2018). Feel free to reach out with any questions or suggested reading. In June 2023, I also wrote the blog post [_The How and Why of Reading 300 Papers in 5 Years_](/post/phd_of_reading/) about this.
 
 
 
@@ -30,6 +30,24 @@ I categorize, annotate and write comments for all research papers I read, and sh
 <!-- I have also become quite interested in philosophy (mainly ethics and political philosophy), and have read the following books: -->
 I have also started to really enjoy reading various non-technical book. Since late 2022, I have read the following books (I'm also on [Goodreads](https://www.goodreads.com/user/show/167840381-fredrik-gustafsson)):
 
+
+* 26-01-03 | [Löpa varg](https://www.goodreads.com/book/show/57946876-l-pa-varg) | _**Kerstin Ekman**_ | Rating: 4
+* 25-12-31 | [Bildhuggarens dotter](https://www.goodreads.com/book/show/1865260.Bildhuggarens_dotter) | _**Tove Jansson**_ | Rating: 3.5
+* 25-12-06 | [Invandrarna](https://www.goodreads.com/book/show/17189707-invandrarna) | _**Vilhelm Moberg**_ | Rating: 4
+* 25-10-04 | [Stad i världen](https://www.goodreads.com/book/show/1696115.Stad_i_v_rlden) | _**Per Anders Fogelström**_ | Rating: 3.5
+* 25-08-30 | [I en förvandlad stad](https://www.goodreads.com/book/show/1696105.I_en_f_rvandlad_stad) | _**Per Anders Fogelström**_ | Rating: 4
+* 25-07-08 | [Resa med lätt bagage](https://www.goodreads.com/book/show/23276898-resa-med-l-tt-bagage) | _**Tove Jansson**_ | Rating: 3.5
+* 25-06-21 | [Egenmäktigt förfarande](https://www.goodreads.com/book/show/18458190-egenm-ktigt-f-rfarande) | _**Lena Andersson**_ | Rating: 3.5
+* 25-06-12 | [Doktor Glas](https://www.goodreads.com/book/show/10780909-doktor-glas) | _**Hjalmar Söderberg**_ | Rating: 3.5
+* 25-06-01 | [Utvandrarna](https://www.goodreads.com/book/show/703475.Utvandrarna) | _**Vilhelm Moberg**_ | Rating: 3.5
+* 25-05-05 | [Stacken](https://www.goodreads.com/book/show/194021202-stacken) | _**Annika Norlin**_ | Rating: 4
+* 25-04-20 | [Jävla karlar](https://www.goodreads.com/book/show/195857823-j-vla-karlar) | _**Andrev Walden**_ | Rating: 4
+* 25-04-05 | [Den lodande människan. Havet, djupet och nyfikenheten: Essäer](https://www.goodreads.com/book/show/61952471-den-lodande-m-nniskan) | _**Patrik Svensson**_ | Rating: 3.5
+* 25-03-15 | [Köpenhamnstriologin](https://www.goodreads.com/book/show/53317528-the-copenhagen-trilogy) | _**Tove Ditlevsen**_ | Rating: 4.5
+* 25-02-22 | [Jag ser allt du gör](https://www.goodreads.com/book/show/49412309-jag-ser-allt-du-g-r) | _**Annika Norlin**_ | Rating: 4
+* 25-02-07 | [Sommarboken](https://www.goodreads.com/book/show/79550.The_Summer_Book) | _**Tove Jansson**_ | Rating: 3.5
+* 25-01-19 | [Foster](https://www.goodreads.com/book/show/8143909-foster) | _**Claire Keegan**_ | Rating: 4
+* 25-01-11 | [Minns du den stad](https://www.goodreads.com/book/show/1696122.Minns_du_den_stad) | _**Per Anders Fogelström**_ | Rating: 4.5
 * 24-12-26 | [Den vidunderliga ordningen](https://www.goodreads.com/book/show/214479660-den-vidunderliga-ordningen) | _**Andrev Walden**_ | Rating: 4
 * 24-12-11 | [Historien om Norrland. Dimmans land: från istid till hungernöd](https://www.goodreads.com/book/show/217189639-dimmans-land) | _**Robin Olovsson**_ | Rating: 3.5
 * 24-11-03 | [Small Things Like These](https://www.goodreads.com/book/show/58662236-small-things-like-these) | _**Claire Keegan**_ | Rating: 3.5
@@ -79,4 +97,4 @@ I have also started to really enjoy reading various non-technical book. Since la
 * 23-01-03 | [The Moral Philosophers: An Introduction to Ethics](https://www.goodreads.com/book/show/2120675.The_Moral_Philosophers) | _**Richard Norman**_ | Rating: 3
 * 22-11-26 | [Ethics in Engineering](https://www.goodreads.com/book/show/50680935-ethics-in-engineering) | _**Thomas Taro Lennerfors**_ | Rating: 3
 
-48 books in total.
+65 books in total.

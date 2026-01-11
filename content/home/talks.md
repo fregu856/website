@@ -40,6 +40,10 @@ June 18, 2019
 
 ### Contributed Talks
 
+* **Building and Evaluating Computational Pathology Foundation Models for Breast Cancer**\
+[Annual SeRC Meeting](https://e-science.se/serc-annual-meeting-2025/) | _Stockholm, Sweden_ | [[slides]](/files/talk_250515_slides.pdf)\
+May 15, 2025
+
 * **On the Use and Evaluation of Computational Pathology Foundation Models for WSI-Based Prediction Tasks**\
 Scandinavian Seminar on Translational Pathology | _Uppsala, Sweden_ | [[slides]](/files/talk_241123_slides.pdf)\
 November 23, 2024

@@ -40,7 +40,7 @@ weight = 9
   </div>
 
   <div class="cite-legend-note">
-    Citation counts based on <a href="https://scholar.google.com/citations?user=bjbzGCcAAAAJ&hl">Google Scholar</a>, manually updated 2026-01-07.
+    Citation counts based on <a href="https://scholar.google.com/citations?user=bjbzGCcAAAAJ&hl">Google Scholar</a> (updated 2026-01-11), shown for papers with 20+ citations.
   </div>
 </div>
 
@@ -156,7 +156,7 @@ weight = 9
       <a href="/publication/da_clip">Controlling Vision-Language Models for Multi-Task Image Restoration</a><br>
       <em>Ziwei Luo, <strong>Fredrik K. Gustafsson</strong>, Zheng Zhao, Jens Sjölund, Thomas B. Schön</em><br>
       ICLR, 2024
-      <br><span class="cite-count cite-orange">Cited by 230</span>
+      <br><span class="cite-count cite-orange">Cited by 235</span>
     </span>
   </p>
 
@@ -166,7 +166,7 @@ weight = 9
       <a href="/publication/ir_sde">Image Restoration with Mean-Reverting Stochastic Differential Equations</a><br>
       <em>Ziwei Luo, <strong>Fredrik K. Gustafsson</strong>, Zheng Zhao, Jens Sjölund, Thomas B. Schön</em><br>
       ICML, 2023
-      <br><span class="cite-count cite-red">Cited by 320</span>
+      <br><span class="cite-count cite-red">Cited by 325</span>
     </span>
   </p>
 
