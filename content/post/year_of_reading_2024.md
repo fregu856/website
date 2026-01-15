@@ -23,7 +23,7 @@ image_preview = "year_of_reading_2024/papers_read_each_year_2024.png"
 
 +++
 
-In 2024, I read 99 papers and 21 non-technical books. 99 papers is slightly more than my previous record (87 papers in 2023), while 21 books is slighly less than the 26 I read in 2023 (but still a lot more than what I've ever read in a year before that).
+In 2024, I read 99 papers and 21 non-technical books. 99 papers is slightly more than my previous record (87 papers in 2023), while 21 books is slightly less than the 26 I read in 2023 (but still a lot more than what I've ever read in a year before that).
 
 In 2025, I want to read 100 papers and at least 20 non-technical books.
 
@@ -32,7 +32,7 @@ In 2025, I want to read 100 papers and at least 20 non-technical books.
 
 Complete list of my read papers: [github.com/fregu856/papers](https://github.com/fregu856/papers).
 
-Among the 99 papers, here are 15 that I found particularly interesting and/or well-written (in alphabetical order):
+Among the 99 papers, here are 15 that I found particularly interesting and/or well written (in alphabetical order):
 
 * [A Visual-Language Foundation Model for Computational Pathology](https://www.nature.com/articles/s41591-024-02856-4) (Nature Medicine, 2024)
 * [A Whole-Slide Foundation Model for Digital Pathology from Real-World Data](https://www.nature.com/articles/s41586-024-07441-w) (Nature, 2024)
