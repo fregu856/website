@@ -18,7 +18,7 @@ weight = 60
 ### Reviewing
 
 * [ICML 2026](https://icml.cc/Conferences/2026) | (Upcoming)
-* [MIDL 2026](https://2026.midl.io/) | 4 Papers
+* [MIDL 2026](https://2026.midl.io/) | 5 Papers
 * [AISTATS 2026](https://aistats.org/aistats2026//) | 1 Paper
 * [ICLR 2026](https://iclr.cc/Conferences/2026) | 5 Papers
 * [TMLR, 2025](https://jmlr.org/tmlr/) | 6 Papers
@@ -49,4 +49,4 @@ weight = 60
 * [BMVC 2020](https://www.bmvc2020-conference.com/) | 1 Paper
 * [IFAC World Congress 2020](https://www.ifac2020.org/) | 2 Papers
 
-121 papers in total.
+122 papers in total.

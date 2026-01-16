@@ -263,7 +263,7 @@ defaultContentLanguageInSubdir = false
   [[params.social]]
     icon = "cv"
     icon_pack = "ai"
-    link = "/files/CV_Fredrik_K_Gustafsson_260111.pdf"
+    link = "/files/CV_Fredrik_K_Gustafsson_260116.pdf"
 
   [[params.social]]
     icon = "google-scholar"
