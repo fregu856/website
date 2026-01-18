@@ -10,7 +10,7 @@ math = true
 authors = []
 
 tags = []
-summary = "In 2024, I read 99 papers and 21 non-technical books. 99 papers is slightly more than my previous record (87 papers in 2023), while 21 books is slighly less..."
+summary = "In 2024, I read 99 papers and 21 non-technical books. 99 papers is slightly more than my previous record (87 papers in 2023), while 21 books is slightly less..."
 
 [header]
 image = ""

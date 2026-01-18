@@ -92,6 +92,8 @@ Before moving to Oxford, I was a postdoc in the group of [Mattias Rantalainen](h
 
 ### News
 
+- <b>[Jan 18, 2026]</b> New blog post: [_My Year of Reading in 2025_](/post/year_of_reading_2025/).
+
 - <b>[Jan 8, 2026]</b> New preprint: <i>Scanner-Induced Domain Shifts Undermine the Robustness of Pathology Foundation Models</i> [[arXiv]](https://arxiv.org/abs/2601.04163) [[project]](/publication/pfms_scanners/), work led together with [Erik Thiringer](https://www.linkedin.com/in/erik-thiringer-992a5816b/).
 
 - <b>[Jul 15, 2025]</b> I have joined the group of [David Clifton](https://eng.ox.ac.uk/chi/team) at the [University of Oxford](https://www.ox.ac.uk/) as a postdoc to work on machine learning for healthcare.
@@ -105,7 +107,5 @@ Before moving to Oxford, I was a postdoc in the group of [Mattias Rantalainen](h
 - <b>[Jan 3, 2025]</b> New blog post: [_My Year of Reading in 2024_](/post/year_of_reading_2024/).
 
 - <b>[Nov 18, 2024]</b> New preprint: <i>Multi-Stain Modelling of Histopathology Slides for Breast Cancer Prognosis Prediction</i> [[medRxiv]](https://www.medrxiv.org/content/10.1101/2024.11.10.24317066v1) [[project]](/publication/multi-stain/), work led by [Abhinav Sharma](https://ki.se/en/people/abhinav-sharma).
-
-- <b>[Oct 10, 2024]</b> New preprint: <i>Evaluating Computational Pathology Foundation Models for Prostate Cancer Grading under Distribution Shifts</i> [[arXiv]](https://arxiv.org/abs/2410.06723) [[project]](/publication/cpath_fms_shifts/).
 
 Click [here](/post/news) for older news.

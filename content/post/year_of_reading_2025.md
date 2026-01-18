@@ -1,8 +1,8 @@
 +++
 title = "My Year of Reading in 2025"
 
-date = 2026-01-15T00:00:00
-lastmod = 2026-01-15T00:00:00
+date = 2026-01-18T00:00:00
+lastmod = 2026-01-18T00:00:00
 draft = false
 math = true
 
@@ -10,22 +10,20 @@ math = true
 authors = []
 
 tags = []
-summary = "TODO! TODO! TODO!"
+summary = "In 2025, I read 113 papers and 16 non-technical books. 113 papers is slightly more than my previous record (99 papers in 2024). In 2026, I want to read..."
 
 [header]
 image = ""
 caption = ""
 #image_preview = "1d_regression.png"
-image_preview = "year_of_reading_2024/papers_read_each_year_2024.png"
+image_preview = "year_of_reading_2025/papers_read_each_year_2025.png"
 #image_preview = "year_of_reading_2024/year_of_reading_2024.png"
 #small_image = "year_of_reading_2024/year_of_reading_2024.png" # (header image the same size as the article)
 #video="https://www.youtube.com/embed/5G4cmSh4s-4?enablejsapi=1&version=3&playerapiid=ytplayer" # (like small_image, but with an embedded youtube video instead)
 
 +++
 
-In 2025, I read 113 papers and 16 non-technical books. 113 papers is ..................., while 16 books is.................
-
-In 2026, I want to read 100 papers and at least 15 non-technical books.
+In 2025, I read 113 papers and 16 non-technical books. 113 papers is slightly more than my previous record (99 papers in 2024). In 2026, I want to read 100 papers and at least 15 non-technical books.
 
 
 
@@ -60,12 +58,12 @@ Among the 113 papers, here are 25 that I found particularly interesting and/or w
 * [Towards Physician-Centered Oversight of Conversational Diagnostic AI](https://arxiv.org/abs/2507.15743) (arxiv, 2025-07)
 * [Zero Shot Health Trajectory Prediction Using Transformer](https://www.nature.com/articles/s41746-024-01235-0) (npj Digital Medicine, 2024)
 
+Some paper statistics (number of papers read each year, papers by venue):
 
-TODO!
+![Papers read each year](/img/year_of_reading_2025/papers_read_each_year_2025.svg)
+![Papers by venue](/img/year_of_reading_2025/papers_by_venue_2025.svg)
 
-TODO!
 
-TODO!
 
 
 The 16 non-technical books I read in 2025:
@@ -87,7 +85,8 @@ The 16 non-technical books I read in 2025:
 * 25-01-19 | [Foster](https://www.goodreads.com/book/show/8143909-foster) | _**Claire Keegan**_ | Rating: 4
 * 25-01-11 | [Minns du den stad](https://www.goodreads.com/book/show/1696122.Minns_du_den_stad) | _**Per Anders Fogelström**_ | Rating: 4.5
 
-![Read books](/img/year_of_reading_2025/book_reading_2025.jpg) TODO! TODO! TODO!
+![Read books](/img/year_of_reading_2025/book_reading_2025_2.jpg)
+![Read books](/img/year_of_reading_2025/book_reading_2025_1.jpg)
 
 
 Among the 16 books, these are my top 5 favorites (in alphabetical order):
