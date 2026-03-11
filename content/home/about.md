@@ -92,6 +92,8 @@ Before moving to Oxford, I was a postdoc in the group of [Mattias Rantalainen](h
 
 ### News
 
+- <b>[Mar 11, 2026]</b> New preprint: <i>SignalMC-MED: A Multimodal Benchmark for Evaluating Biosignal Foundation Models on Single-Lead ECG and PPG</i> [[arXiv]](https://arxiv.org/abs/2603.09940) [[code]](https://github.com/fregu856/SignalMC-MED) [[project]](/publication/signalmc-med/).
+
 - <b>[Jan 18, 2026]</b> New blog post: [_My Year of Reading in 2025_](/post/year_of_reading_2025/).
 
 - <b>[Jan 8, 2026]</b> New preprint: <i>Scanner-Induced Domain Shifts Undermine the Robustness of Pathology Foundation Models</i> [[arXiv]](https://arxiv.org/abs/2601.04163) [[project]](/publication/pfms_scanners/), work led together with [Erik Thiringer](https://www.linkedin.com/in/erik-thiringer-992a5816b/).
@@ -105,7 +107,5 @@ Before moving to Oxford, I was a postdoc in the group of [Mattias Rantalainen](h
 - <b>[Mar 6, 2025]</b> <b>Accepted paper:</b> [_Automated Segmentation of Synchrotron-Scanned Fossils_](/publication/ml4paleo), work led by [Melanie During](https://www.uu.se/en/contact-and-organisation/staff?query=N19-1696) and [Jordan Matelsky](https://jordan.matelsky.com/), has been published in [Fossil Record](https://fr.pensoft.net/).
 
 - <b>[Jan 3, 2025]</b> New blog post: [_My Year of Reading in 2024_](/post/year_of_reading_2024/).
-
-- <b>[Nov 18, 2024]</b> New preprint: <i>Multi-Stain Modelling of Histopathology Slides for Breast Cancer Prognosis Prediction</i> [[medRxiv]](https://www.medrxiv.org/content/10.1101/2024.11.10.24317066v1) [[project]](/publication/multi-stain/), work led by [Abhinav Sharma](https://ki.se/en/people/abhinav-sharma).
 
 Click [here](/post/news) for older news.

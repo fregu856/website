@@ -1,6 +1,6 @@
 +++
 title = "Scanner-Induced Domain Shifts Undermine the Robustness of Pathology Foundation Models"
-date = "2025-01-08"
+date = "2026-01-08"
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
 authors = ["Erik Thiringer, **Fredrik K. Gustafsson**, Kajsa Ledesma Eriksson, Mattias&nbsp;Rantalainen"]

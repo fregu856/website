@@ -40,7 +40,7 @@ weight = 9
   </div>
 
   <div class="cite-legend-note">
-    Citation counts based on <a href="https://scholar.google.com/citations?user=bjbzGCcAAAAJ&hl">Google Scholar</a> (updated 2026-01-11), shown for papers with 20+ citations.
+    Citation counts based on <a href="https://scholar.google.com/citations?user=bjbzGCcAAAAJ&hl">Google Scholar</a> (updated 2026-03-11), shown for papers with 20+ citations.
   </div>
 </div>
 
@@ -50,6 +50,14 @@ weight = 9
 ### Preprints
 
 <div class="compact-pubs">
+<p class="pub-item">
+  <span class="pub-id">[P6]</span>
+  <span class="pub-text">
+    <a href="/publication/signalmc-med">SignalMC-MED: A Multimodal Benchmark for Evaluating Biosignal Foundation Models on Single-Lead ECG and PPG</a><br>
+    <em><strong>Fredrik K. Gustafsson</strong>, Xiao Gu, Mattia Carletti, Patitapaban Palo, David W. Eyre, David&nbsp;A.&nbsp;Clifton</em><br>
+  </span>
+</p>
+
 <p class="pub-item">
   <span class="pub-id">[P5]</span>
   <span class="pub-text">
@@ -103,6 +111,7 @@ weight = 9
       <a href="/publication/diff_ir_review">Taming Diffusion Models for Image Restoration: A Review</a><br>
       <em>Ziwei Luo, <strong>Fredrik K. Gustafsson</strong>, Zheng Zhao, Jens Sjölund, Thomas B. Schön</em><br>
       Philosophical Transactions of the Royal Society A, 2025
+      <br><span class="cite-count cite-blue">Cited by 20</span>
     </span>
   </p>
 
@@ -139,7 +148,6 @@ weight = 9
       <a href="/publication/mri_regression">Uncertainty-Aware Body Composition Analysis with Deep Regression Ensembles on UK Biobank MRI</a><br>
       <em>Taro Langner, <strong>Fredrik K. Gustafsson</strong>, Benny Avelin, Robin Strand, Håkan Ahlström, Joel&nbsp;Kullberg</em><br>
       Computerized Medical Imaging and Graphics, 2021
-      <br><span class="cite-count cite-blue">Cited by 20</span>
     </span>
   </p>
 </div>
@@ -156,7 +164,7 @@ weight = 9
       <a href="/publication/da_clip">Controlling Vision-Language Models for Multi-Task Image Restoration</a><br>
       <em>Ziwei Luo, <strong>Fredrik K. Gustafsson</strong>, Zheng Zhao, Jens Sjölund, Thomas B. Schön</em><br>
       ICLR, 2024
-      <br><span class="cite-count cite-orange">Cited by 235</span>
+      <br><span class="cite-count cite-red">Cited by 270</span>
     </span>
   </p>
 
@@ -166,7 +174,7 @@ weight = 9
       <a href="/publication/ir_sde">Image Restoration with Mean-Reverting Stochastic Differential Equations</a><br>
       <em>Ziwei Luo, <strong>Fredrik K. Gustafsson</strong>, Zheng Zhao, Jens Sjölund, Thomas B. Schön</em><br>
       ICML, 2023
-      <br><span class="cite-count cite-red">Cited by 325</span>
+      <br><span class="cite-count cite-red">Cited by 375</span>
     </span>
   </p>
 
@@ -231,7 +239,7 @@ weight = 9
       <a href="/publication/refusion">Refusion: Enabling Large-Size Realistic Image Restoration with Latent-Space Diffusion Models</a><br>
       <em>Ziwei Luo, <strong>Fredrik K. Gustafsson</strong>, Zheng Zhao, Jens Sjölund, Thomas B. Schön</em><br>
       CVPR Workshops, 2023
-      <br><span class="cite-count cite-orange">Cited by 190</span>
+      <br><span class="cite-count cite-orange">Cited by 210</span>
     </span>
   </p>
 
@@ -250,7 +258,7 @@ weight = 9
       <a href="/publication/evaluating_bdl">Evaluating Scalable Bayesian Deep Learning Methods for Robust Computer Vision</a><br>
       <em><strong>Fredrik K. Gustafsson</strong>, Martin Danelljan, Thomas B. Schön</em><br>
       CVPR Workshops, 2020
-      <br><span class="cite-count cite-red">Cited by 430</span>
+      <br><span class="cite-count cite-red">Cited by 445</span>
     </span>
   </p>
 </div>
