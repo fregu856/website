@@ -31,6 +31,8 @@ I categorize, annotate and write comments for all research papers I read, and sh
 I have also started to really enjoy reading various non-technical book. Since late 2022, I have read the following books (I'm also on [Goodreads](https://www.goodreads.com/user/show/167840381-fredrik-gustafsson)):
 
 
+* 26-03-14 | [Sista brevet till Sverige](https://www.goodreads.com/book/show/17189718-sista-brevet-till-sverige) | _**Vilhelm Moberg**_ | Rating: 4
+* 26-02-14 | [Nybyggarna](https://www.goodreads.com/book/show/17189711-nybyggarna) | _**Vilhelm Moberg**_ | Rating: 3.5
 * 26-01-03 | [Löpa varg](https://www.goodreads.com/book/show/57946876-l-pa-varg) | _**Kerstin Ekman**_ | Rating: 4
 * 25-12-31 | [Bildhuggarens dotter](https://www.goodreads.com/book/show/1865260.Bildhuggarens_dotter) | _**Tove Jansson**_ | Rating: 3.5
 * 25-12-06 | [Invandrarna](https://www.goodreads.com/book/show/17189707-invandrarna) | _**Vilhelm Moberg**_ | Rating: 4
@@ -97,4 +99,4 @@ I have also started to really enjoy reading various non-technical book. Since la
 * 23-01-03 | [The Moral Philosophers: An Introduction to Ethics](https://www.goodreads.com/book/show/2120675.The_Moral_Philosophers) | _**Richard Norman**_ | Rating: 3
 * 22-11-26 | [Ethics in Engineering](https://www.goodreads.com/book/show/50680935-ethics-in-engineering) | _**Thomas Taro Lennerfors**_ | Rating: 3
 
-65 books in total.
+67 books in total.

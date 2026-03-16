@@ -148,6 +148,7 @@ weight = 9
       <a href="/publication/mri_regression">Uncertainty-Aware Body Composition Analysis with Deep Regression Ensembles on UK Biobank MRI</a><br>
       <em>Taro Langner, <strong>Fredrik K. Gustafsson</strong>, Benny Avelin, Robin Strand, Håkan Ahlström, Joel&nbsp;Kullberg</em><br>
       Computerized Medical Imaging and Graphics, 2021
+      <br><span class="cite-count cite-blue">Cited by 20</span>
     </span>
   </p>
 </div>
@@ -164,7 +165,7 @@ weight = 9
       <a href="/publication/da_clip">Controlling Vision-Language Models for Multi-Task Image Restoration</a><br>
       <em>Ziwei Luo, <strong>Fredrik K. Gustafsson</strong>, Zheng Zhao, Jens Sjölund, Thomas B. Schön</em><br>
       ICLR, 2024
-      <br><span class="cite-count cite-red">Cited by 270</span>
+      <br><span class="cite-count cite-red">Cited by 275</span>
     </span>
   </p>
 
@@ -212,7 +213,7 @@ weight = 9
       <a href="/publication/dctd">Energy-Based Models for Deep Probabilistic Regression</a><br>
       <em><strong>Fredrik K. Gustafsson</strong>, Martin Danelljan, Goutam Bhat, Thomas B. Schön</em><br>
       ECCV, 2020
-      <br><span class="cite-count cite-green">Cited by 90</span>
+      <br><span class="cite-count cite-green">Cited by 95</span>
     </span>
   </p>
 </div>
