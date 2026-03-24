@@ -20,6 +20,8 @@ image_preview = ""
 
 +++
 
+- <b>[Mar 24, 2026]</b> New preprints: <i>Semantic Self-Distillation for Language Model Uncertainty</i> [[arXiv]](https://arxiv.org/abs/2602.04577) [[project]](/publication/ssd/) and <i>Entropy Alone is Insufficient for Safe Selective Prediction in LLMs</i> [[arXiv]](https://arxiv.org/abs/2603.21172) [[project]](/publication/selective_llms/), work led by [Edward Phillips](https://scholar.google.com/citations?user=RWQIIc0AAAAJ&hl=en).
+
 - <b>[Mar 11, 2026]</b> New preprint: <i>SignalMC-MED: A Multimodal Benchmark for Evaluating Biosignal Foundation Models on Single-Lead ECG and PPG</i> [[arXiv]](https://arxiv.org/abs/2603.09940) [[code]](https://github.com/fregu856/SignalMC-MED) [[project]](/publication/signalmc-med/).
 
 - <b>[Jan 18, 2026]</b> New blog post: [_My Year of Reading in 2025_](/post/year_of_reading_2025/).

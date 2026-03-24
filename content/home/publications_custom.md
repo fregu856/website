@@ -40,7 +40,7 @@ weight = 9
   </div>
 
   <div class="cite-legend-note">
-    Citation counts based on <a href="https://scholar.google.com/citations?user=bjbzGCcAAAAJ&hl">Google Scholar</a> (updated 2026-03-11), shown for papers with 20+ citations.
+    Citation counts based on <a href="https://scholar.google.com/citations?user=bjbzGCcAAAAJ&hl">Google Scholar</a> (updated 2026-03-24), shown for papers with 20+ citations.
   </div>
 </div>
 
@@ -51,34 +51,47 @@ weight = 9
 
 <div class="compact-pubs">
 <p class="pub-item">
+  <span class="pub-id">[P7]</span>
+  <span class="pub-text">
+    <a href="/publication/selective_llms">Entropy Alone is Insufficient for Safe Selective Prediction in LLMs</a><br>
+    <em>Edward Phillips, <strong>Fredrik K. Gustafsson</strong>, Sean Wu, Anshul Thakur, David A. Clifton</em><br>
+      Preprint, 2026
+  </span>
+</p>
+
+<p class="pub-item">
   <span class="pub-id">[P6]</span>
   <span class="pub-text">
-    <a href="/publication/signalmc-med">SignalMC-MED: A Multimodal Benchmark for Evaluating Biosignal Foundation Models on Single-Lead ECG and PPG</a><br>
-    <em><strong>Fredrik K. Gustafsson</strong>, Xiao Gu, Mattia Carletti, Patitapaban Palo, David W. Eyre, David&nbsp;A.&nbsp;Clifton</em><br>
+    <a href="/publication/ssd">Semantic Self-Distillation for Language Model Uncertainty</a><br>
+    <em>Edward Phillips, Sean Wu, <strong>Fredrik K. Gustafsson</strong>, Boyan Gao, David A. Clifton</em><br>
+      Preprint, 2026
   </span>
 </p>
 
 <p class="pub-item">
   <span class="pub-id">[P5]</span>
   <span class="pub-text">
+    <a href="/publication/signalmc-med">SignalMC-MED: A Multimodal Benchmark for Evaluating Biosignal Foundation Models on Single-Lead ECG and PPG</a><br>
+    <em><strong>Fredrik K. Gustafsson</strong>, Xiao Gu, Mattia Carletti, Patitapaban Palo, David W. Eyre, David&nbsp;A.&nbsp;Clifton</em><br>
+      Preprint, 2026
+  </span>
+</p>
+
+<p class="pub-item">
+  <span class="pub-id">[P4]</span>
+  <span class="pub-text">
     <a href="/publication/pfms_scanners">Scanner-Induced Domain Shifts Undermine the Robustness of Pathology Foundation Models</a><br>
     <em>Erik Thiringer, <strong>Fredrik K. Gustafsson</strong>, Kajsa Ledesma Eriksson, Mattias Rantalainen</em><br>
+      Preprint, 2026
   </span>
 </p>
 
   <p class="pub-item">
-    <span class="pub-id">[P4]</span>
+    <span class="pub-id">[P3]</span>
     <span class="pub-text">
       <a href="/publication/fod">Forward-only Diffusion Probabilistic Models</a><br>
       <em>Ziwei Luo, <strong>Fredrik K. Gustafsson</strong>, Jens Sjölund, Thomas B. Schön</em><br>
-    </span>
-  </p>
-
-  <p class="pub-item">
-    <span class="pub-id">[P3]</span>
-    <span class="pub-text">
-      <a href="/publication/multi-stain">Multi-Stain Modelling of Histopathology Slides for Breast Cancer Prognosis Prediction</a><br>
-      <em>Abhinav Sharma, <strong>Fredrik K. Gustafsson</strong>, Johan Hartman, Mattias Rantalainen</em><br>
+      Preprint, 2025
     </span>
   </p>
 
@@ -87,6 +100,7 @@ weight = 9
     <span class="pub-text">
       <a href="/publication/cpath_fms_shifts">Evaluating Computational Pathology Foundation Models for Prostate Cancer Grading under Distribution Shifts</a><br>
       <em><strong>Fredrik K. Gustafsson</strong>, Mattias Rantalainen</em><br>
+      Preprint, 2024
     </span>
   </p>
 
@@ -95,6 +109,7 @@ weight = 9
     <span class="pub-text">
       <a href="/publication/gene-exp">Evaluating Deep Regression Models for WSI-Based Gene-Expression Prediction</a><br>
       <em><strong>Fredrik K. Gustafsson</strong>, Mattias Rantalainen</em><br>
+      Preprint, 2024
     </span>
   </p>
 </div>
@@ -165,7 +180,7 @@ weight = 9
       <a href="/publication/da_clip">Controlling Vision-Language Models for Multi-Task Image Restoration</a><br>
       <em>Ziwei Luo, <strong>Fredrik K. Gustafsson</strong>, Zheng Zhao, Jens Sjölund, Thomas B. Schön</em><br>
       ICLR, 2024
-      <br><span class="cite-count cite-red">Cited by 275</span>
+      <br><span class="cite-count cite-red">Cited by 280</span>
     </span>
   </p>
 
@@ -259,7 +274,23 @@ weight = 9
       <a href="/publication/evaluating_bdl">Evaluating Scalable Bayesian Deep Learning Methods for Robust Computer Vision</a><br>
       <em><strong>Fredrik K. Gustafsson</strong>, Martin Danelljan, Thomas B. Schön</em><br>
       CVPR Workshops, 2020
-      <br><span class="cite-count cite-red">Cited by 445</span>
+      <br><span class="cite-count cite-red">Cited by 450</span>
+    </span>
+  </p>
+</div>
+
+
+
+
+### Technical Reports
+
+<div class="compact-pubs">
+  <p class="pub-item">
+    <span class="pub-id">[R1]</span>
+    <span class="pub-text">
+      <a href="/publication/multi-stain">Multi-Stain Modelling of Histopathology Slides for Breast Cancer Prognosis Prediction</a><br>
+      <em>Abhinav Sharma, <strong>Fredrik K. Gustafsson</strong>, Johan Hartman, Mattias Rantalainen</em><br>
+      Technical Report, 2024
     </span>
   </p>
 </div>
