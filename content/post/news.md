@@ -20,6 +20,8 @@ image_preview = ""
 
 +++
 
+- <b>[Apr 6, 2026]</b> New preprint: <i>BAS: A Decision-Theoretic Approach to Evaluating Large Language Model Confidence</i> [[arXiv (TODO!)]](XXXXXXXXXXXX) [[code]](https://github.com/SeanWu25/Behavioral-Alignment-Score) [[project]](/publication/bas/), work led by [Sean Wu](https://scholar.google.com/citations?user=Z7Ul8jUAAAAJ&hl=en).
+
 - <b>[Mar 24, 2026]</b> New preprints: <i>Semantic Self-Distillation for Language Model Uncertainty</i> [[arXiv]](https://arxiv.org/abs/2602.04577) [[project]](/publication/ssd/) and <i>Entropy Alone is Insufficient for Safe Selective Prediction in LLMs</i> [[arXiv]](https://arxiv.org/abs/2603.21172) [[project]](/publication/selective_llms/), work led by [Edward Phillips](https://scholar.google.com/citations?user=RWQIIc0AAAAJ&hl=en).
 
 - <b>[Mar 11, 2026]</b> New preprint: <i>SignalMC-MED: A Multimodal Benchmark for Evaluating Biosignal Foundation Models on Single-Lead ECG and PPG</i> [[arXiv]](https://arxiv.org/abs/2603.09940) [[code]](https://github.com/fregu856/SignalMC-MED) [[project]](/publication/signalmc-med/).

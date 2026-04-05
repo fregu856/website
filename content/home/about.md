@@ -92,6 +92,8 @@ Before moving to Oxford, I was a postdoc in the group of [Mattias Rantalainen](h
 
 ### News
 
+- <b>[Apr 6, 2026]</b> New preprint: <i>BAS: A Decision-Theoretic Approach to Evaluating Large Language Model Confidence</i> [[arXiv (TODO!)]](XXXXXXXXXXXX) [[code]](https://github.com/SeanWu25/Behavioral-Alignment-Score) [[project]](/publication/bas/), work led by [Sean Wu](https://scholar.google.com/citations?user=Z7Ul8jUAAAAJ&hl=en).
+
 - <b>[Mar 24, 2026]</b> New preprints: <i>Semantic Self-Distillation for Language Model Uncertainty</i> [[arXiv]](https://arxiv.org/abs/2602.04577) [[project]](/publication/ssd/) and <i>Entropy Alone is Insufficient for Safe Selective Prediction in LLMs</i> [[arXiv]](https://arxiv.org/abs/2603.21172) [[project]](/publication/selective_llms/), work led by [Edward Phillips](https://scholar.google.com/citations?user=RWQIIc0AAAAJ&hl=en).
 
 - <b>[Mar 11, 2026]</b> New preprint: <i>SignalMC-MED: A Multimodal Benchmark for Evaluating Biosignal Foundation Models on Single-Lead ECG and PPG</i> [[arXiv]](https://arxiv.org/abs/2603.09940) [[code]](https://github.com/fregu856/SignalMC-MED) [[project]](/publication/signalmc-med/).
@@ -105,7 +107,5 @@ Before moving to Oxford, I was a postdoc in the group of [Mattias Rantalainen](h
 - <b>[Jun 19, 2025]</b> <b>Accepted paper:</b> [_Taming Diffusion Models for Image Restoration: A Review_](/publication/diff_ir_review/), work led by [Ziwei Luo](https://algolzw.github.io/), has been published in [Philosophical Transactions of the Royal Society A](https://royalsocietypublishing.org/rsta).
 
 - <b>[May 22, 2025]</b> New preprint: <i>Forward-only Diffusion Probabilistic Models</i> [[arXiv]](https://arxiv.org/abs/2505.16733?) [[project]](/publication/fod/), work led by [Ziwei Luo](https://algolzw.github.io/).
-
-- <b>[Mar 6, 2025]</b> <b>Accepted paper:</b> [_Automated Segmentation of Synchrotron-Scanned Fossils_](/publication/ml4paleo), work led by [Melanie During](https://www.uu.se/en/contact-and-organisation/staff?query=N19-1696) and [Jordan Matelsky](https://jordan.matelsky.com/), has been published in [Fossil Record](https://fr.pensoft.net/).
 
 Click [here](/post/news) for older news.
