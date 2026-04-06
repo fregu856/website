@@ -1,6 +1,6 @@
 +++
 title = "BAS: A Decision-Theoretic Approach to Evaluating Large Language Model Confidence"
-date = "2026-04-05"
+date = "2026-04-06"
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
 authors = ["Sean Wu*, **Fredrik K. Gustafsson***, Edward Phillips, Boyan Gao, Anshul Thakur, David A. Clifton"]
@@ -42,7 +42,7 @@ selected = true
 projects = []
 
 # Links (optional).
-url_arxiv = ""
+url_arxiv = "https://arxiv.org/abs/2604.03216"
 url_pdf = ""
 url_code = "https://github.com/SeanWu25/Behavioral-Alignment-Score"
 url_preprint = ""
