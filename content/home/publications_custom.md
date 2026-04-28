@@ -40,7 +40,7 @@ weight = 9
   </div>
 
   <div class="cite-legend-note">
-    Citation counts based on <a href="https://scholar.google.com/citations?user=bjbzGCcAAAAJ&hl">Google Scholar</a> (updated 2026-04-05), shown for papers with 20+ citations.
+    Citation counts based on <a href="https://scholar.google.com/citations?user=bjbzGCcAAAAJ&hl">Google Scholar</a> (updated 2026-04-28), shown for papers with 20+ citations.
   </div>
 </div>
 
@@ -50,6 +50,15 @@ weight = 9
 ### Preprints
 
 <div class="compact-pubs">
+<p class="pub-item">
+  <span class="pub-id">[P9]</span>
+  <span class="pub-text">
+    <a href="/publication/pfms_survival">Benchmarking Pathology Foundation Models for Breast Cancer Survival Prediction</a><br>
+    <em><strong>Fredrik K. Gustafsson</strong>, Constance Boissin, Johan Vallon-Christersson, David A. Clifton, Mattias Rantalainen </em><br>
+      Preprint, 2026
+  </span>
+</p>
+
 <p class="pub-item">
   <span class="pub-id">[P8]</span>
   <span class="pub-text">
@@ -189,7 +198,7 @@ weight = 9
       <a href="/publication/da_clip">Controlling Vision-Language Models for Multi-Task Image Restoration</a><br>
       <em>Ziwei Luo, <strong>Fredrik K. Gustafsson</strong>, Zheng Zhao, Jens Sjölund, Thomas B. Schön</em><br>
       ICLR, 2024
-      <br><span class="cite-count cite-red">Cited by 290</span>
+      <br><span class="cite-count cite-red">Cited by 305</span>
     </span>
   </p>
 
@@ -199,7 +208,7 @@ weight = 9
       <a href="/publication/ir_sde">Image Restoration with Mean-Reverting Stochastic Differential Equations</a><br>
       <em>Ziwei Luo, <strong>Fredrik K. Gustafsson</strong>, Zheng Zhao, Jens Sjölund, Thomas B. Schön</em><br>
       ICML, 2023
-      <br><span class="cite-count cite-red">Cited by 380</span>
+      <br><span class="cite-count cite-red">Cited by 390</span>
     </span>
   </p>
 
@@ -264,7 +273,7 @@ weight = 9
       <a href="/publication/refusion">Refusion: Enabling Large-Size Realistic Image Restoration with Latent-Space Diffusion Models</a><br>
       <em>Ziwei Luo, <strong>Fredrik K. Gustafsson</strong>, Zheng Zhao, Jens Sjölund, Thomas B. Schön</em><br>
       CVPR Workshops, 2023
-      <br><span class="cite-count cite-orange">Cited by 215</span>
+      <br><span class="cite-count cite-orange">Cited by 230</span>
     </span>
   </p>
 
@@ -283,7 +292,7 @@ weight = 9
       <a href="/publication/evaluating_bdl">Evaluating Scalable Bayesian Deep Learning Methods for Robust Computer Vision</a><br>
       <em><strong>Fredrik K. Gustafsson</strong>, Martin Danelljan, Thomas B. Schön</em><br>
       CVPR Workshops, 2020
-      <br><span class="cite-count cite-red">Cited by 450</span>
+      <br><span class="cite-count cite-red">Cited by 455</span>
     </span>
   </p>
 </div>

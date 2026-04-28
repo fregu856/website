@@ -83,14 +83,31 @@ I received my BSc in _Applied Physics and Electrical Engineering_ in 2016 and my
 
 
 
-I am a postdoc in the group of [David Clifton](https://eng.ox.ac.uk/chi/team) at the [University of Oxford](https://www.ox.ac.uk/), working on **machine learning for healthcare** with a particular focus on _biosignals_ and _wearables_.  More broadly, I am interested in how to build and evaluate _reliable machine learning_ models, for applications within _data-driven medicine and healthcare_. My research has often included regression problems, uncertainty estimation methods, energy-based models, diffusion models, or the evaluation of foundation models.
+<!-- I am a postdoc in the group of [David Clifton](https://eng.ox.ac.uk/chi/team) at the [University of Oxford](https://www.ox.ac.uk/), working on **machine learning for healthcare** with a particular focus on _biosignals_ and _wearables_.  More broadly, I am interested in how to build and evaluate _reliable machine learning_ models, for applications within _data-driven medicine and healthcare_. My research has often included regression problems, uncertainty estimation methods, energy-based models, diffusion models, or the evaluation of foundation models.
+
+Before moving to Oxford, I was a postdoc in the group of [Mattias Rantalainen](https://ki.se/en/research/research-areas-centres-and-networks/research-groups/predictive-medicine-mattias-rantalainens-research-group) at [Karolinska Institutet](https://ki.se/en) from 2023 to 2025, working on _computational pathology_. I received my BSc in _Applied Physics and Electrical Engineering_ in 2016 and my MSc in _Electrical Engineering_ in 2018, both from [Linköping University](https://liu.se/en). During my MSc, I also spent one year as an exchange student at [Stanford University](https://www.stanford.edu/). I received my PhD in _Machine Learning_ in 2023 from [Uppsala University](http://www.uu.se/en) for the thesis [_Towards Accurate and Reliable Deep Regression Models_](/publication/thesis/). During my PhD, I was supervised by [Thomas Schön](http://user.it.uu.se/~thosc112/) and [Martin Danelljan](https://martin-danelljan.github.io/). I am originally from [Trollhättan](https://en.wikipedia.org/wiki/Trollh%C3%A4ttan), Sweden. -->
+
+
+
+
+
+
+
+
+
+I am a postdoc in the group of [David Clifton](https://eng.ox.ac.uk/chi/team) at the [University of Oxford](https://www.ox.ac.uk/), working on **machine learning for healthcare** with a particular focus on _biosignals_ and _wearables_.  More broadly, I am interested in how to build and evaluate _reliable machine learning_ models, for applications within _data-driven medicine and healthcare_. My research has often included uncertainty estimation methods, regression problems, energy-based models, diffusion models, or the evaluation of foundation models.
 
 Before moving to Oxford, I was a postdoc in the group of [Mattias Rantalainen](https://ki.se/en/research/research-areas-centres-and-networks/research-groups/predictive-medicine-mattias-rantalainens-research-group) at [Karolinska Institutet](https://ki.se/en) from 2023 to 2025, working on _computational pathology_. I received my BSc in _Applied Physics and Electrical Engineering_ in 2016 and my MSc in _Electrical Engineering_ in 2018, both from [Linköping University](https://liu.se/en). During my MSc, I also spent one year as an exchange student at [Stanford University](https://www.stanford.edu/). I received my PhD in _Machine Learning_ in 2023 from [Uppsala University](http://www.uu.se/en) for the thesis [_Towards Accurate and Reliable Deep Regression Models_](/publication/thesis/). During my PhD, I was supervised by [Thomas Schön](http://user.it.uu.se/~thosc112/) and [Martin Danelljan](https://martin-danelljan.github.io/). I am originally from [Trollhättan](https://en.wikipedia.org/wiki/Trollh%C3%A4ttan), Sweden.
 
 
 
 
+
+
+
 ### News
+
+- <b>[Apr 28, 2028]</b> New preprint: <i>Benchmarking Pathology Foundation Models for Breast Cancer Survival Prediction</i> [[arXiv]](https://arxiv.org/abs/2604.24679) [[project]](/publication/pfms_survival/).
 
 - <b>[Apr 6, 2026]</b> New preprint: <i>BAS: A Decision-Theoretic Approach to Evaluating Large Language Model Confidence</i> [[arXiv]](https://arxiv.org/abs/2604.03216) [[code]](https://github.com/SeanWu25/Behavioral-Alignment-Score) [[project]](/publication/bas/), work led by [Sean Wu](https://scholar.google.com/citations?user=Z7Ul8jUAAAAJ&hl=en).
 
@@ -105,7 +122,5 @@ Before moving to Oxford, I was a postdoc in the group of [Mattias Rantalainen](h
 - <b>[Jul 15, 2025]</b> I have joined the group of [David Clifton](https://eng.ox.ac.uk/chi/team) at the [University of Oxford](https://www.ox.ac.uk/) as a postdoc to work on machine learning for healthcare.
 
 - <b>[Jun 19, 2025]</b> <b>Accepted paper:</b> [_Taming Diffusion Models for Image Restoration: A Review_](/publication/diff_ir_review/), work led by [Ziwei Luo](https://algolzw.github.io/), has been published in [Philosophical Transactions of the Royal Society A](https://royalsocietypublishing.org/rsta).
-
-- <b>[May 22, 2025]</b> New preprint: <i>Forward-only Diffusion Probabilistic Models</i> [[arXiv]](https://arxiv.org/abs/2505.16733?) [[project]](/publication/fod/), work led by [Ziwei Luo](https://algolzw.github.io/).
 
 Click [here](/post/news) for older news.

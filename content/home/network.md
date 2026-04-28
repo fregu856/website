@@ -42,12 +42,12 @@ _Years with papers: 2025, 2024, 2023_
 _Years with papers: 2025, 2024, 2023_
 * [Martin Danelljan](https://scholar.google.com/citations?user=NCSSpMkAAAAJ) | Senior Research Engineer at Apple | _6 papers_\
 _Years with papers: 2023, 2022, 2021, 2020_
+* [David Clifton](https://scholar.google.com/citations?user=mFN2KJ4AAAAJ) | Professor at the University of Oxford | _5 papers_\
+_Years with papers: 2026_
+* [Mattias Rantalainen](https://scholar.google.com/citations?user=tS7AlgEAAAAJ) | Associate professor at Karolinska Institutet | _5 papers_\
+_Years with papers: 2026, 2024_
 * [Zheng Zhao](https://scholar.google.com/citations?user=soEnzAYAAAAJ) | Assistant professor at Linköping University | _5 papers_\
 _Years with papers: 2025, 2024, 2023_
-* [David Clifton](https://scholar.google.com/citations?user=mFN2KJ4AAAAJ) | Professor at the University of Oxford | _4 papers_\
-_Years with papers: 2026_
-* [Mattias Rantalainen](https://scholar.google.com/citations?user=tS7AlgEAAAAJ) | Associate professor at Karolinska Institutet | _4 papers_\
-_Years with papers: 2026, 2024_
 * [Edward Phillips](https://scholar.google.com/citations?user=RWQIIc0AAAAJ) | PhD student at the University of Oxford | _3 papers_\
 _Years with papers: 2026_
 * [Sean Wu](https://scholar.google.com/citations?user=Z7Ul8jUAAAAJ) | PhD student at the University of Oxford | _3 papers_\
@@ -59,7 +59,7 @@ _Years with papers: 2026_
 * [Antônio H. Ribeiro](https://scholar.google.com/citations?user=5t_sZdMAAAAJ) | Assistant professor at Uppsala University | _2 papers_\
 _Years with papers: 2024, 2021_
 
-(_Minimum 2 papers, updated 2026-04-06_)
+(_Minimum 2 papers, updated 2026-04-28_)
 
 
 
