@@ -62,6 +62,15 @@ weight = 9
 <p class="pub-item">
   <span class="pub-id">[P8]</span>
   <span class="pub-text">
+    <a href="/publication/cpath_fms_shifts">Evaluating Computational Pathology Foundation Models for Prostate Cancer Grading under Distribution Shifts</a><br>
+    <em><strong>Fredrik K. Gustafsson</strong>, Mattias Rantalainen</em><br>
+    Preprint, 2026
+  </span>
+</p>
+
+<p class="pub-item">
+  <span class="pub-id">[P7]</span>
+  <span class="pub-text">
     <a href="/publication/bas">BAS: A Decision-Theoretic Approach to Evaluating Large Language Model Confidence</a><br>
     <em>Sean Wu*, <strong>Fredrik K. Gustafsson*</strong>, Edward Phillips, Boyan Gao, Anshul Thakur, David&nbsp;A.&nbsp;Clifton</em><br>
       Preprint, 2026
@@ -69,7 +78,7 @@ weight = 9
 </p>
 
 <p class="pub-item">
-  <span class="pub-id">[P7]</span>
+  <span class="pub-id">[P6]</span>
   <span class="pub-text">
     <a href="/publication/selective_llms">Entropy Alone is Insufficient for Safe Selective Prediction in LLMs</a><br>
     <em>Edward Phillips, <strong>Fredrik K. Gustafsson</strong>, Sean Wu, Anshul Thakur, David A. Clifton</em><br>
@@ -78,7 +87,7 @@ weight = 9
 </p>
 
 <p class="pub-item">
-  <span class="pub-id">[P6]</span>
+  <span class="pub-id">[P5]</span>
   <span class="pub-text">
     <a href="/publication/ssd">Semantic Self-Distillation for Language Model Uncertainty</a><br>
     <em>Edward Phillips, Sean Wu, <strong>Fredrik K. Gustafsson</strong>, Boyan Gao, David A. Clifton</em><br>
@@ -87,7 +96,7 @@ weight = 9
 </p>
 
 <p class="pub-item">
-  <span class="pub-id">[P5]</span>
+  <span class="pub-id">[P4]</span>
   <span class="pub-text">
     <a href="/publication/signalmc-med">SignalMC-MED: A Multimodal Benchmark for Evaluating Biosignal Foundation Models on Single-Lead ECG and PPG</a><br>
     <em><strong>Fredrik K. Gustafsson</strong>, Xiao Gu, Mattia Carletti, Patitapaban Palo, David W. Eyre, David&nbsp;A.&nbsp;Clifton</em><br>
@@ -96,7 +105,7 @@ weight = 9
 </p>
 
 <p class="pub-item">
-  <span class="pub-id">[P4]</span>
+  <span class="pub-id">[P3]</span>
   <span class="pub-text">
     <a href="/publication/pfms_scanners">Scanner-Induced Domain Shifts Undermine the Robustness of Pathology Foundation Models</a><br>
     <em>Erik Thiringer, <strong>Fredrik K. Gustafsson</strong>, Kajsa Ledesma Eriksson, Mattias Rantalainen</em><br>
@@ -105,20 +114,11 @@ weight = 9
 </p>
 
   <p class="pub-item">
-    <span class="pub-id">[P3]</span>
+    <span class="pub-id">[P2]</span>
     <span class="pub-text">
       <a href="/publication/fod">Forward-only Diffusion Probabilistic Models</a><br>
       <em>Ziwei Luo, <strong>Fredrik K. Gustafsson</strong>, Jens Sjölund, Thomas B. Schön</em><br>
       Preprint, 2025
-    </span>
-  </p>
-
-  <p class="pub-item">
-    <span class="pub-id">[P2]</span>
-    <span class="pub-text">
-      <a href="/publication/cpath_fms_shifts">Evaluating Computational Pathology Foundation Models for Prostate Cancer Grading under Distribution Shifts</a><br>
-      <em><strong>Fredrik K. Gustafsson</strong>, Mattias Rantalainen</em><br>
-      Preprint, 2024
     </span>
   </p>
 

@@ -1,6 +1,6 @@
 +++
 title = "Benchmarking Pathology Foundation Models for Breast Cancer Survival Prediction"
-date = "2026-04-28"
+date = "2026-04-29"
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
 authors = ["**Fredrik K. Gustafsson**, Constance Boissin, Johan Vallon-Christersson, David&nbsp;A.&nbsp;Clifton, Mattias Rantalainen"]
@@ -49,7 +49,7 @@ url_project = ""
 url_video_90sec = ""
 url_slides_90sec = ""
 url_video = ""
-url_slides = ""
+url_slides = "/files/slides_260429.pdf"
 url_poster = ""
 url_source = ""
 

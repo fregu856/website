@@ -59,6 +59,9 @@ October 16, 2024
 
 ### Other Presentations
 
+* **Performance and Robustness Evaluation of Pathology Foundation Models**\
+April 29, 2026 | [[slides]](/files/slides_260429.pdf)
+
 * **Towards Accurate and Reliable Deep Regression Models**\
 PhD defense | _Uppsala, Sweden_ | [[slides]](/files/defense_slides_handout.pdf) [[video]](https://youtu.be/tkmi-b48VMY?si=6ETZoBJLEm5dMfIl)\
 November 30, 2023

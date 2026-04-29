@@ -20,7 +20,9 @@ image_preview = ""
 
 +++
 
-- <b>[Apr 28, 2028]</b> New preprint: <i>Benchmarking Pathology Foundation Models for Breast Cancer Survival Prediction</i> [[arXiv]](https://arxiv.org/abs/2604.24679) [[project]](/publication/pfms_survival/).
+- <b>[Apr 29, 2026]</b> New preprint: <i>Benchmarking Pathology Foundation Models for Breast Cancer Survival Prediction</i> [[arXiv]](https://arxiv.org/abs/2604.24679) [[project]](/publication/pfms_survival/). I also created the presentation <i>Performance and Robustness Evaluation of Pathology Foundation Models</i> [[slides]](/files/slides_260429.pdf).
+
+- <b>[Apr 28, 2026]</b> Updated preprint: <i>Evaluating Computational Pathology Foundation Models for Prostate Cancer Grading under Distribution Shifts</i> [[arXiv]](https://arxiv.org/abs/2410.06723) [[project]](/publication/cpath_fms_shifts/).
 
 - <b>[Apr 6, 2026]</b> New preprint: <i>BAS: A Decision-Theoretic Approach to Evaluating Large Language Model Confidence</i> [[arXiv]](https://arxiv.org/abs/2604.03216) [[code]](https://github.com/SeanWu25/Behavioral-Alignment-Score) [[project]](/publication/bas/), work led by [Sean Wu](https://scholar.google.com/citations?user=Z7Ul8jUAAAAJ&hl=en).
 
