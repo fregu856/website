@@ -20,6 +20,10 @@ image_preview = ""
 
 +++
 
+- <b>[Jul 31, 2026]</b> <b>Accepted papers:</b> (1) [_Semantic Self-Distillation for Language Model Uncertainty_](/publication/ssd/) has been accepted to [UAI 2026](https://www.auai.org/uai2026/), (2) [_BAS: A Decision-Theoretic Approach to Evaluating Large Language Model Confidence_](/publication/bas/) to [COLM 2026](https://colm.eventhosts.cc/Conferences/2026/index.html), and (3) [_Efficient Image Restoration with State-Dependent Forward Diffusion_](/publication/fod/) to [TMLR](https://jmlr.org/tmlr/).
+
+- <b>[Jul 23, 2026]</b> Updated preprint: <i>Evaluation and Prognostic Validation of Deep Regression Models for WSI-Based Gene-Expression Prediction</i> [[arXiv]](https://arxiv.org/abs/2410.00945) [[project]](/publication/gene-exp/).
+
 - <b>[Apr 29, 2026]</b> New preprint: <i>Benchmarking Pathology Foundation Models for Breast Cancer Survival Prediction</i> [[arXiv]](https://arxiv.org/abs/2604.24679) [[project]](/publication/pfms_survival/). I also created the presentation <i>Performance and Robustness Evaluation of Pathology Foundation Models</i> [[slides]](/files/slides_260429.pdf).
 
 - <b>[Apr 28, 2026]</b> Updated preprint: <i>Evaluating Computational Pathology Foundation Models for Prostate Cancer Grading under Distribution Shifts</i> [[arXiv]](https://arxiv.org/abs/2410.06723) [[project]](/publication/cpath_fms_shifts/).

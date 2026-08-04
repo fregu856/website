@@ -24,7 +24,7 @@ Main supervisor: [Thomas Schön](https://user.it.uu.se/~thosc112/), other co-sup
 * [Erik Thiringer](https://www.linkedin.com/in/erik-thiringer-992a5816b/) | MSc Thesis student at Karolinska Institutet\
 Co-supervisor, Sep 2024 -- Feb 2025\
 Main supervisor: [Mattias Rantalainen](https://ki.se/en/research/research-areas-centres-and-networks/research-groups/predictive-medicine-mattias-rantalainens-research-group)
-    * Subsequent position: Research Assistant at Karolinska Institutet
+    * Subsequent position: PhD student at Karolinska Institutet
     * The MSc thesis was extended into [this paper](/publication/pfms_scanners/)
 
 
@@ -35,15 +35,15 @@ Main supervisor: [Mattias Rantalainen](https://ki.se/en/research/research-areas-
 ### Co-authors
 
 * [Thomas Schön](https://scholar.google.com/citations?user=FUqUC2oAAAAJ) | Professor at Uppsala University | _15 papers_\
-_Years with papers: 2025, 2024, 2023, 2022, 2021, 2020_
+_Years with papers: 2026, 2025, 2024, 2023, 2022, 2021, 2020_
 * [Ziwei Luo](https://scholar.google.com/citations?user=3WQTKocAAAAJ) | PhD student at Uppsala University | _6 papers_\
-_Years with papers: 2025, 2024, 2023_
+_Years with papers: 2026, 2025, 2024, 2023_
 * [Jens Sjölund](https://scholar.google.com/citations?user=AlF2g-YAAAAJ) | Assistant professor at Uppsala University | _6 papers_\
-_Years with papers: 2025, 2024, 2023_
-* [Martin Danelljan](https://scholar.google.com/citations?user=NCSSpMkAAAAJ) | Senior Research Engineer at Apple | _6 papers_\
-_Years with papers: 2023, 2022, 2021, 2020_
-* [David Clifton](https://scholar.google.com/citations?user=mFN2KJ4AAAAJ) | Professor at the University of Oxford | _5 papers_\
+_Years with papers: 2026, 2025, 2024, 2023_
+* [David Clifton](https://scholar.google.com/citations?user=mFN2KJ4AAAAJ) | Professor at the University of Oxford | _6 papers_\
 _Years with papers: 2026_
+* [Martin Danelljan](https://scholar.google.com/citations?user=NCSSpMkAAAAJ) | Senior research engineer at Apple | _6 papers_\
+_Years with papers: 2023, 2022, 2021, 2020_
 * [Mattias Rantalainen](https://scholar.google.com/citations?user=tS7AlgEAAAAJ) | Associate professor at Karolinska Institutet | _5 papers_\
 _Years with papers: 2026, 2024_
 * [Zheng Zhao](https://scholar.google.com/citations?user=soEnzAYAAAAJ) | Assistant professor at Linköping University | _5 papers_\
@@ -52,14 +52,24 @@ _Years with papers: 2025, 2024, 2023_
 _Years with papers: 2026_
 * [Sean Wu](https://scholar.google.com/citations?user=Z7Ul8jUAAAAJ) | PhD student at the University of Oxford | _3 papers_\
 _Years with papers: 2026_
-* [Anshul Thakur](https://scholar.google.com/citations?user=yB-oPPoAAAAJ) | Departmental lecturer at the University of Oxford | _2 papers_\
+* [Anshul Thakur](https://scholar.google.com/citations?user=yB-oPPoAAAAJ) | Departmental lecturer at the University of Oxford | _3 papers_\
+_Years with papers: 2026_
+* [Xiao Gu](https://scholar.google.com/citations?user=xpXBs0gAAAAJ) | Senior research associate at the University of Oxford | _2 papers_\
+_Years with papers: 2026_
+* [Mattia Carletti](https://scholar.google.com/citations?user=G8UFCW4AAAAJ) | Postdoc at the University of Oxford | _2 papers_\
+_Years with papers: 2026_
+* [Patitapaban Palo](https://scholar.google.com/citations?user=DGIp0NwAAAAJ) | Postdoc at the University of Oxford | _2 papers_\
 _Years with papers: 2026_
 * [Boyan Gao](https://scholar.google.com/citations?user=WIuM3SIAAAAJ) | Postdoc at the University of Oxford | _2 papers_\
+_Years with papers: 2026_
+* [Constance Boissin](https://www.linkedin.com/in/constanceboissin/) | Research specialist at Karolinska Institutet | _2 papers_\
+_Years with papers: 2026_
+* [Johan Vallon-Christersson](https://scholar.google.com/citations?user=EvRvswQAAAAJ) | Researcher at Lund University | _2 papers_\
 _Years with papers: 2026_
 * [Antônio H. Ribeiro](https://scholar.google.com/citations?user=5t_sZdMAAAAJ) | Assistant professor at Uppsala University | _2 papers_\
 _Years with papers: 2024, 2021_
 
-(_Minimum 2 papers, updated 2026-04-28_)
+(_Minimum 2 papers, updated 2026-07-31_)
 
 
 

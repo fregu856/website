@@ -107,6 +107,10 @@ Before moving to Oxford, I was a postdoc in the group of [Mattias Rantalainen](h
 
 ### News
 
+- <b>[Jul 31, 2026]</b> <b>Accepted papers:</b> (1) [_Semantic Self-Distillation for Language Model Uncertainty_](/publication/ssd/) has been accepted to [UAI 2026](https://www.auai.org/uai2026/), (2) [_BAS: A Decision-Theoretic Approach to Evaluating Large Language Model Confidence_](/publication/bas/) to [COLM 2026](https://colm.eventhosts.cc/Conferences/2026/index.html), and (3) [_Efficient Image Restoration with State-Dependent Forward Diffusion_](/publication/fod/) to [TMLR](https://jmlr.org/tmlr/).
+
+- <b>[Jul 23, 2026]</b> Updated preprint: <i>Evaluation and Prognostic Validation of Deep Regression Models for WSI-Based Gene-Expression Prediction</i> [[arXiv]](https://arxiv.org/abs/2410.00945) [[project]](/publication/gene-exp/).
+
 - <b>[Apr 29, 2026]</b> New preprint: <i>Benchmarking Pathology Foundation Models for Breast Cancer Survival Prediction</i> [[arXiv]](https://arxiv.org/abs/2604.24679) [[project]](/publication/pfms_survival/). I also created the presentation <i>Performance and Robustness Evaluation of Pathology Foundation Models</i> [[slides]](/files/slides_260429.pdf).
 
 - <b>[Apr 28, 2026]</b> Updated preprint: <i>Evaluating Computational Pathology Foundation Models for Prostate Cancer Grading under Distribution Shifts</i> [[arXiv]](https://arxiv.org/abs/2410.06723) [[project]](/publication/cpath_fms_shifts/).
@@ -118,9 +122,5 @@ Before moving to Oxford, I was a postdoc in the group of [Mattias Rantalainen](h
 - <b>[Mar 11, 2026]</b> New preprint: <i>SignalMC-MED: A Multimodal Benchmark for Evaluating Biosignal Foundation Models on Single-Lead ECG and PPG</i> [[arXiv]](https://arxiv.org/abs/2603.09940) [[code]](https://github.com/fregu856/SignalMC-MED) [[project]](/publication/signalmc-med/).
 
 - <b>[Jan 18, 2026]</b> New blog post: [_My Year of Reading in 2025_](/post/year_of_reading_2025/).
-
-- <b>[Jan 8, 2026]</b> New preprint: <i>Scanner-Induced Domain Shifts Undermine the Robustness of Pathology Foundation Models</i> [[arXiv]](https://arxiv.org/abs/2601.04163) [[project]](/publication/pfms_scanners/), work led together with [Erik Thiringer](https://www.linkedin.com/in/erik-thiringer-992a5816b/).
-
-- <b>[Jul 15, 2025]</b> I have joined the group of [David Clifton](https://eng.ox.ac.uk/chi/team) at the [University of Oxford](https://www.ox.ac.uk/) as a postdoc to work on machine learning for healthcare.
 
 Click [here](/post/news) for older news.

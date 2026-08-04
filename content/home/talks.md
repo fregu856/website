@@ -59,6 +59,10 @@ October 16, 2024
 
 ### Other Presentations
 
+* **Evaluating Foundation Models: From Biosignals and Pathology Images to LLM Confidence**\
+CHI lab summer symposium | _Oxford, UK_ | [[slides]](/files/slides_260610.pdf)\
+June 10, 2026
+
 * **Performance and Robustness Evaluation of Pathology Foundation Models**\
 April 29, 2026 | [[slides]](/files/slides_260429.pdf)
 
