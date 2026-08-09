@@ -95,9 +95,20 @@ Before moving to Oxford, I was a postdoc in the group of [Mattias Rantalainen](h
 
 
 
-I am a postdoc in the group of [David Clifton](https://eng.ox.ac.uk/chi/team) at the [University of Oxford](https://www.ox.ac.uk/), working on **machine learning for healthcare** with a particular focus on _biosignals_ and _wearables_.  More broadly, I am interested in how to build and evaluate _reliable machine learning_ models, for applications within _data-driven medicine and healthcare_. My research has often included uncertainty estimation methods, regression problems, energy-based models, diffusion models, or the evaluation of foundation models.
+<!-- I am a postdoc in the group of [David Clifton](https://eng.ox.ac.uk/chi/team) at the [University of Oxford](https://www.ox.ac.uk/), working on **machine learning for healthcare** with a particular focus on _biosignals_ and _wearables_.  More broadly, I am interested in how to build and evaluate _reliable machine learning_ models, for applications within _data-driven medicine and healthcare_. My research has often included uncertainty estimation methods, regression problems, energy-based models, diffusion models, or the evaluation of foundation models.
 
-Before moving to Oxford, I was a postdoc in the group of [Mattias Rantalainen](https://ki.se/en/research/research-areas-centres-and-networks/research-groups/predictive-medicine-mattias-rantalainens-research-group) at [Karolinska Institutet](https://ki.se/en) from 2023 to 2025, working on _computational pathology_. I received my BSc in _Applied Physics and Electrical Engineering_ in 2016 and my MSc in _Electrical Engineering_ in 2018, both from [Linköping University](https://liu.se/en). During my MSc, I also spent one year as an exchange student at [Stanford University](https://www.stanford.edu/). I received my PhD in _Machine Learning_ in 2023 from [Uppsala University](http://www.uu.se/en) for the thesis [_Towards Accurate and Reliable Deep Regression Models_](/publication/thesis/). During my PhD, I was supervised by [Thomas Schön](http://user.it.uu.se/~thosc112/) and [Martin Danelljan](https://martin-danelljan.github.io/). I am originally from [Trollhättan](https://en.wikipedia.org/wiki/Trollh%C3%A4ttan), Sweden.
+Before moving to Oxford, I was a postdoc in the group of [Mattias Rantalainen](https://ki.se/en/research/research-areas-centres-and-networks/research-groups/predictive-medicine-mattias-rantalainens-research-group) at [Karolinska Institutet](https://ki.se/en) from 2023 to 2025, working on _computational pathology_. I received my BSc in _Applied Physics and Electrical Engineering_ in 2016 and my MSc in _Electrical Engineering_ in 2018, both from [Linköping University](https://liu.se/en). During my MSc, I also spent one year as an exchange student at [Stanford University](https://www.stanford.edu/). I received my PhD in _Machine Learning_ in 2023 from [Uppsala University](http://www.uu.se/en) for the thesis [_Towards Accurate and Reliable Deep Regression Models_](/publication/thesis/). During my PhD, I was supervised by [Thomas Schön](http://user.it.uu.se/~thosc112/) and [Martin Danelljan](https://martin-danelljan.github.io/). I am originally from [Trollhättan](https://en.wikipedia.org/wiki/Trollh%C3%A4ttan), Sweden. -->
+
+
+
+
+
+
+
+I am a postdoctoral fellow at [AstraZeneca](https://www.astrazeneca.com/) in Cambridge, working on **machine learning** and **computer vision** for **multimodal digital pathology**. More broadly, I am interested in how to build and evaluate _reliable machine learning_ models, for applications within _data-driven medicine and healthcare_. My research has often included uncertainty estimation methods, regression problems, energy-based models, diffusion models, or the evaluation of foundation models.
+
+Before joining AstraZeneca, I was a postdoc in the group of [David Clifton](https://scholar.google.com/citations?user=mFN2KJ4AAAAJ) at the [University of Oxford](https://www.ox.ac.uk/) from 2025 to 2026, working on _machine learning for healthcare_, and a postdoc in the group of [Mattias Rantalainen](https://scholar.google.com/citations?user=tS7AlgEAAAAJ) at [Karolinska Institutet](https://ki.se/en) in Stockholm from 2023 to 2025, working on _computational pathology_. I received my BSc in _Applied Physics and Electrical Engineering_ in 2016 and my MSc in _Electrical Engineering_ in 2018, both from [Linköping University](https://liu.se/en). During my MSc, I also spent one year as an exchange student at [Stanford University](https://www.stanford.edu/). I received my PhD in _Machine Learning_ in 2023 from [Uppsala University](http://www.uu.se/en) for the thesis [_Towards Accurate and Reliable Deep Regression Models_](/publication/thesis/). During my PhD, I was supervised by [Thomas Schön](https://scholar.google.com/citations?user=FUqUC2oAAAAJ) and [Martin Danelljan](https://scholar.google.com/citations?user=NCSSpMkAAAAJ). I am originally from [Trollhättan](https://en.wikipedia.org/wiki/Trollh%C3%A4ttan), Sweden.
+
 
 
 
@@ -106,6 +117,8 @@ Before moving to Oxford, I was a postdoc in the group of [Mattias Rantalainen](h
 
 
 ### News
+
+- <b>[Aug 3, 2026]</b> I have joined [AstraZeneca](https://www.astrazeneca.com/) in Cambridge as a postdoc, to work on machine learning and computer vision for multimodal digital pathology.
 
 - <b>[Jul 31, 2026]</b> <b>Accepted papers:</b> (1) [_Semantic Self-Distillation for Language Model Uncertainty_](/publication/ssd/) has been accepted to [UAI 2026](https://www.auai.org/uai2026/), (2) [_BAS: A Decision-Theoretic Approach to Evaluating Large Language Model Confidence_](/publication/bas/) to [COLM 2026](https://colm.eventhosts.cc/Conferences/2026/index.html), and (3) [_Efficient Image Restoration with State-Dependent Forward Diffusion_](/publication/fod/) to [TMLR](https://jmlr.org/tmlr/).
 
@@ -120,7 +133,5 @@ Before moving to Oxford, I was a postdoc in the group of [Mattias Rantalainen](h
 - <b>[Mar 24, 2026]</b> New preprints: <i>Semantic Self-Distillation for Language Model Uncertainty</i> [[arXiv]](https://arxiv.org/abs/2602.04577) [[project]](/publication/ssd/) and <i>Entropy Alone is Insufficient for Safe Selective Prediction in LLMs</i> [[arXiv]](https://arxiv.org/abs/2603.21172) [[project]](/publication/selective_llms/), work led by [Edward Phillips](https://scholar.google.com/citations?user=RWQIIc0AAAAJ&hl=en).
 
 - <b>[Mar 11, 2026]</b> New preprint: <i>SignalMC-MED: A Multimodal Benchmark for Evaluating Biosignal Foundation Models on Single-Lead ECG and PPG</i> [[arXiv]](https://arxiv.org/abs/2603.09940) [[code]](https://github.com/fregu856/SignalMC-MED) [[project]](/publication/signalmc-med/).
-
-- <b>[Jan 18, 2026]</b> New blog post: [_My Year of Reading in 2025_](/post/year_of_reading_2025/).
 
 Click [here](/post/news) for older news.

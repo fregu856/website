@@ -20,14 +20,14 @@ autolink = false
   <li>
     <i class="fa-li fa fa-map-marker fa-2x" aria-hidden="true"></i>
     <span id="person-address" itemprop="address">
-    <a href="https://maps.app.goo.gl/bsMisotbXD7kshUj9" target="_blank">Institute of Biomedical Engineering, Old Road Campus Research Building</a>
+    <a href="https://maps.app.goo.gl/9Wh3d7ePLi4sGyw29" target="_blank">The Discovery Centre (DISC), AstraZeneca, Cambridge</a>
     </span>
   </li>
 
   <li>
     <i class="fa-li fa fa-envelope fa-2x" aria-hidden="true"></i>
     <span id="person-email" itemprop="email">
-    fregu856@gmail.com | fredrik.gustafsson@eng.ox.ac.uk
+    fregu856@gmail.com | fredrik.gustafsson1@astrazeneca.com
     </span>
   </li>
 
