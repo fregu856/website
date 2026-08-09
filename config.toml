@@ -10,7 +10,7 @@ baseurl = "/"
 # title = "Fredrik K. Gustafsson | PhD Student in Probabilistic Deep Learning"
 # title = "Fredrik K. Gustafsson | Postdoc | Machine Learning for Computational Pathology"
 # title = "Fredrik K. Gustafsson | Postdoc in Oxford | Machine Learning for Healthcare"
-title = "Fredrik K. Gustafsson | Postdoc at AstraZeneca in Cambridge | Machine Learning & Computer Vision for Multimodal Digital Pathology"
+title = "Fredrik K. Gustafsson | Postdoc at AstraZeneca in Cambridge | Machine Learning in Medicine"
 
 # Your copyright notice - appears in site footer.
 # To display a copyright symbol, type `&copy;`.
@@ -59,7 +59,7 @@ defaultContentLanguageInSubdir = false
   # role = "PhD Student in Probabilistic Deep Learning"
   # role = "Postdoc | Machine Learning for Computational Pathology"
   # role = "Postdoc in Oxford | Machine Learning for Healthcare"
-  role = "Postdoc at AstraZeneca | Machine Learning & Computer Vision"
+  role = "Postdoc at AstraZeneca | Machine Learning in Medicine"
 
 
   # Organizations/Affiliations.
